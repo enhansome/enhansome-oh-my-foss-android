@@ -1,0 +1,2698 @@
+{
+  "items": [
+    {
+      "description": "请使用 Github/Gitee 自带的目录导航功能。",
+      "items": [],
+      "title": "分类"
+    },
+    {
+      "description": "主流的开源软件安装方法包括 F-Droid 客户端、谷歌应用商店和直接 APK 安装。",
+      "items": [],
+      "title": "应用商店"
+    },
+    {
+      "description": "F-Droid 是著名的开源安卓软件平台，其客户端提供软件的安装。F-Droid 官方源会从源代码编译独立的安装文件，因此可检验软件中的不安全以及非开源因素，使得 F-Droid 上的软件保证很高的安全性和开源性。\n还存在 IzzyOnDroid 等第三方 F-Droid 仓库。如果熟悉 Linux 的用户，会很了解这个概念，即只增加一个软件来源，但保持和 F-Droid 官方源软件相同的安装方式。这些第三方仓库丰富了软件的数量，提供更及时的更新，也一定程度放宽了采纳标准。\n建议安装其中一个 F-Droid 客户端。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Driod-ify",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T05:33:20Z",
+            "owner": "Droid-ify",
+            "repo": "client",
+            "stars": 7246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neo-Store",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-04-25T23:48:57Z",
+            "owner": "NeoApplications",
+            "repo": "Neo-Store",
+            "stars": 4898
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Foxy Droid [F-Droid]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2022-10-19T04:48:29Z",
+            "owner": "kitsunyan",
+            "repo": "foxy-droid",
+            "stars": 714
+          }
+        }
+      ],
+      "title": "F-Droid 客户端"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "互联网"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Thunderbird/K-9 Mail",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T18:08:58Z",
+            "owner": "thunderbird",
+            "repo": "thunderbird-android",
+            "stars": 13842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FairEmail",
+          "description": "[F-Droid] [网站]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T05:13:37Z",
+            "owner": "M66B",
+            "repo": "FairEmail",
+            "stars": 4540
+          }
+        }
+      ],
+      "title": "邮件"
+    },
+    {
+      "description": "这类软件没有自带内容或既定来源，用户自行加入“源”获取在线内容。\n注意：请大家务必尊重版权，请勿从事侵权违法行为。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Legado（阅读） [网站]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-05-27T08:41:54Z",
+            "owner": "gedoor",
+            "repo": "legado",
+            "stars": 46987
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AntennaPod",
+          "description": "[F-Droid] [网站]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-02T12:42:40Z",
+            "owner": "AntennaPod",
+            "repo": "AntennaPod",
+            "stars": 8075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Read You",
+          "description": "[F-Droid]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-11T17:26:59Z",
+            "owner": "ReadYouApp",
+            "repo": "ReadYou",
+            "stars": 7412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Legado with MD3",
+          "description": "[网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-11T17:20:17Z",
+            "owner": "HapeLee",
+            "repo": "legado-with-MD3",
+            "stars": 5631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Feeder",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T22:37:47Z",
+            "owner": "spacecowboy",
+            "repo": "Feeder",
+            "stars": 2957
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Myne",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-01T07:31:29Z",
+            "owner": "Pool-Of-Tears",
+            "repo": "Myne",
+            "stars": 1505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "M3U",
+          "description": "[F-Droid]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T00:56:25Z",
+            "owner": "oxyroid",
+            "repo": "M3UAndroid",
+            "stars": 1225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RadioDroid（睿卓）",
+          "description": "[F-Droid] [网站]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-06-26T20:46:45Z",
+            "owner": "segler-alex",
+            "repo": "RadioDroid",
+            "stars": 1051
+          }
+        }
+      ],
+      "title": "内容获取"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Showly",
+          "description": "[IzzyOnDroid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-06-25T02:42:36Z",
+            "owner": "trakt",
+            "repo": "showly",
+            "stars": 1441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Episodes",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-02-07T16:33:23Z",
+            "owner": "red-coracle",
+            "repo": "episodes",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "追剧管理"
+    },
+    {
+      "description": "这里是一些 BT 软件的远程客户端，并不是直接在安卓手机上进行 BT 下载的客户端。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "qbitcontroller",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-28T20:11:08Z",
+            "owner": "Bartuzen",
+            "repo": "qBitController",
+            "stars": 1267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transmissionic",
+          "description": "[IzzyOnDroid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-07-28T11:39:03Z",
+            "owner": "6c65726f79",
+            "repo": "Transmissionic",
+            "stars": 522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tremotesf",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-11T22:24:33Z",
+            "owner": "equeim",
+            "repo": "tremotesf-android",
+            "stars": 321
+          }
+        }
+      ],
+      "title": "BT 客户端"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "多媒体"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nova Video Player",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-29T10:36:18Z",
+            "owner": "nova-video-player",
+            "repo": "aos-AVP",
+            "stars": 4610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mpv-android",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T15:43:10Z",
+            "owner": "mpv-android",
+            "repo": "mpv-android",
+            "stars": 3462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mpvExtended",
+          "description": "[IzzyOnDroid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-03-21T09:11:03Z",
+            "owner": "marlboro-advance",
+            "repo": "mpvEx",
+            "stars": 2437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kore",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-11-11T19:16:11Z",
+            "owner": "xbmc",
+            "repo": "Kore",
+            "stars": 720
+          }
+        }
+      ],
+      "title": "视频播放"
+    },
+    {
+      "description": "可能是开发难度低，F-Droid 上太多音乐软件了。搜 \"music\" 关键词，最近更新的都比较好，恕不一一列举。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Retro Music",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-04T16:50:57Z",
+            "owner": "RetroMusicPlayer",
+            "repo": "RetroMusicPlayer",
+            "stars": 5244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mpd",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T08:42:20Z",
+            "owner": "MusicPlayerDaemon",
+            "repo": "MPD",
+            "stars": 2740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vanilla Music",
+          "description": "[F-Droid] [网站]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-15T07:14:55Z",
+            "owner": "vanilla-music",
+            "repo": "vanilla",
+            "stars": 1346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Noice",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-08-04T11:28:42Z",
+            "owner": "trynoice",
+            "repo": "android-app",
+            "stars": 1029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vinyl",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-08-18T15:36:11Z",
+            "owner": "VinylMusicPlayer",
+            "repo": "VinylMusicPlayer",
+            "stars": 991
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phonograph Plus",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-06T03:07:36Z",
+            "owner": "chr56",
+            "repo": "Phonograph_Plus",
+            "stars": 716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoundAura",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-08T20:58:56Z",
+            "owner": "CliffracerMerchant",
+            "repo": "SoundAura",
+            "stars": 87
+          }
+        }
+      ],
+      "title": "音乐播放"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kazumi",
+          "description": "[F-Droid] [网站]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-13T01:25:19Z",
+            "owner": "Predidit",
+            "repo": "Kazumi",
+            "stars": 28734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "animeko",
+          "description": "[网站]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T17:13:58Z",
+            "owner": "open-ani",
+            "repo": "animeko",
+            "stars": 19508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anich",
+          "description": "[网站]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-15T15:36:10Z",
+            "owner": "Sle2p",
+            "repo": "AniCh",
+            "stars": 5829
+          }
+        }
+      ],
+      "title": "动漫"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Krita",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T02:46:00Z",
+            "owner": "KDE",
+            "repo": "krita",
+            "stars": 10198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pocket Paint（口袋画板）",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T02:27:16Z",
+            "owner": "Catrobat",
+            "repo": "Paintroid",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PixaPencil",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-11-29T09:34:26Z",
+            "owner": "tomdoeslinux",
+            "repo": "PixaPencil",
+            "stars": 197
+          }
+        }
+      ],
+      "title": "绘画"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Photon Camera",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-09T17:49:15Z",
+            "owner": "eszdman",
+            "repo": "PhotonCamera",
+            "stars": 1084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gcam Services Provider",
+          "description": "[F-Droid（Basic 版）] [IzzyOnDroid（Photos 版）]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-24T05:23:07Z",
+            "owner": "lukaspieper",
+            "repo": "Gcam-Services-Provider",
+            "stars": 1058
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FreeDcam",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-08T16:59:18Z",
+            "owner": "KillerInk",
+            "repo": "FreeDcam",
+            "stars": 365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aperture",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-11T22:27:40Z",
+            "owner": "LineageOS",
+            "repo": "android_packages_apps_Aperture",
+            "stars": 114
+          }
+        }
+      ],
+      "title": "相机"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "日常工具"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Organic Maps",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T06:36:42Z",
+            "owner": "organicmaps",
+            "repo": "organicmaps",
+            "stars": 15074
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSMAnd~",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T06:52:08Z",
+            "owner": "osmandapp",
+            "repo": "OsmAnd",
+            "stars": 5901
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPSLogger",
+          "description": "[F-Droid] [网站]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-27T18:07:53Z",
+            "owner": "mendhak",
+            "repo": "gpslogger",
+            "stars": 2584
+          }
+        }
+      ],
+      "title": "地图"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Breezy Weather",
+          "description": "[IzzyOnDroid] [F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-08T17:32:45Z",
+            "owner": "breezy-weather",
+            "repo": "breezy-weather",
+            "stars": 11001
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geometric Weather(几何天气) [F-Droid]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-08-16T22:57:26Z",
+            "owner": "WangDaYeeeeee",
+            "repo": "GeometricWeather",
+            "stars": 2521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pluvia Weather",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2023-08-19T23:44:41Z",
+            "owner": "SpicyChair",
+            "repo": "pluvia_weather_flutter",
+            "stars": 162
+          }
+        }
+      ],
+      "title": "天气"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Loop Habit Tracker（习惯）",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-21T12:59:15Z",
+            "owner": "iSoron",
+            "repo": "uhabits",
+            "stars": 10126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tasks",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T23:22:07Z",
+            "owner": "tasks",
+            "repo": "tasks",
+            "stars": 5476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cashew",
+          "description": "*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-03-09T01:35:16Z",
+            "owner": "jameskokoska",
+            "repo": "Cashew",
+            "stars": 4541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "My Expenses（开支助手）",
+          "description": "[F-droid] [网站]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T21:45:19Z",
+            "owner": "mtotschnig",
+            "repo": "MyExpenses",
+            "stars": 1167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Did I Take My Meds? [F-droid]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-02T21:01:56Z",
+            "owner": "CorruptedArk",
+            "repo": "did-i-take-my-meds",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Home Medkit",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-05T06:11:53Z",
+            "owner": "pewaru-333",
+            "repo": "HomeMedkit-App",
+            "stars": 126
+          }
+        }
+      ],
+      "title": "自我管理"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Trail Sense",
+          "description": "[F-Droid] [网站]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T22:45:37Z",
+            "owner": "kylecorry31",
+            "repo": "Trail-Sense",
+            "stars": 2789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Compass",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-04T18:56:03Z",
+            "owner": "Kr0oked",
+            "repo": "Compass",
+            "stars": 659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Audio Spectrum Analyzer",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-22T07:10:06Z",
+            "owner": "woheller69",
+            "repo": "audio-analyzer-for-android",
+            "stars": 391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GuessIron",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-07-13T06:22:07Z",
+            "owner": "mobeil1",
+            "repo": "GuessIron",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tape Measure",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-29T10:55:46Z",
+            "owner": "SecUSo",
+            "repo": "privacy-friendly-tape-measure",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "小工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "学习办公"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Joplin",
+          "description": "[F-Droid]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:20:59Z",
+            "owner": "laurent22",
+            "repo": "joplin",
+            "stars": 55926
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Markor",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-05T08:35:16Z",
+            "owner": "gsantner",
+            "repo": "markor",
+            "stars": 5972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Saber",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-13T00:47:57Z",
+            "owner": "saber-notes",
+            "repo": "saber",
+            "stars": 4677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notally",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-05-21T08:00:59Z",
+            "owner": "OmGodse",
+            "repo": "Notally",
+            "stars": 2159
+          }
+        }
+      ],
+      "title": "笔记"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "KOReader",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-13T05:54:46Z",
+            "owner": "koreader",
+            "repo": "koreader",
+            "stars": 28954
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Readest",
+          "description": "[网站]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T05:59:12Z",
+            "owner": "readest",
+            "repo": "readest",
+            "stars": 23359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Librera Reader",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-23T10:25:06Z",
+            "owner": "foobnix",
+            "repo": "LibreraReader",
+            "stars": 4701
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenDocument Reader",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T06:01:26Z",
+            "owner": "opendocument-app",
+            "repo": "OpenDocument.droid",
+            "stars": 417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pdf Viewer Plus [F-Droid]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-07-23T03:07:53Z",
+            "owner": "chxp82q",
+            "repo": "PdfViewer",
+            "stars": 401
+          }
+        }
+      ],
+      "title": "文档阅读"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OSS Document Scanner",
+          "description": "[IzzyOnDroid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T13:55:23Z",
+            "owner": "ossappscollective",
+            "repo": "OSS-DocumentScanner",
+            "stars": 2355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenScan",
+          "description": "[IzzyOnDroid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-05T04:52:31Z",
+            "owner": "ethereal-developers",
+            "repo": "OpenScan",
+            "stars": 1795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FairScan",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-27T19:02:01Z",
+            "owner": "pynicolas",
+            "repo": "FairScan",
+            "stars": 791
+          }
+        }
+      ],
+      "title": "文档扫描"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Translate You",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-04T19:26:59Z",
+            "owner": "you-apps",
+            "repo": "TranslateYou",
+            "stars": 1527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aard2",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-16T20:42:22Z",
+            "owner": "itkach",
+            "repo": "aard2-android",
+            "stars": 551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepL",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-12T11:29:41Z",
+            "owner": "sakusaku3939",
+            "repo": "DeepLAndroid",
+            "stars": 504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuickDic",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-11-09T19:12:35Z",
+            "owner": "rdoeffinger",
+            "repo": "Dictionary",
+            "stars": 398
+          }
+        }
+      ],
+      "title": "词典翻译"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wikipedia（维基百科）",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T04:11:48Z",
+            "owner": "wikimedia",
+            "repo": "apps-android-wikipedia",
+            "stars": 3000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kiwix",
+          "description": "[IzzyOndroid] [网站]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T12:35:08Z",
+            "owner": "kiwix",
+            "repo": "kiwix-android",
+            "stars": 1436
+          }
+        }
+      ],
+      "title": "百科"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Stellarium",
+          "description": "[网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T06:40:21Z",
+            "owner": "Stellarium",
+            "repo": "stellarium",
+            "stars": 9866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sky Map",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T03:28:17Z",
+            "owner": "sky-map-team",
+            "repo": "stardroid",
+            "stars": 1786
+          }
+        }
+      ],
+      "title": "星图"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "系统工具"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fcitx5 for Android（小企鹅输入法5）",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-06T05:33:27Z",
+            "owner": "fcitx5-android",
+            "repo": "fcitx5-android",
+            "stars": 5519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trime（同文输入法）",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T16:23:48Z",
+            "owner": "osfans",
+            "repo": "trime",
+            "stars": 4550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unexpected Keyboard",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-07T15:12:27Z",
+            "owner": "Julow",
+            "repo": "Unexpected-Keyboard",
+            "stars": 3184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stroke Input Method（笔划输入法）",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-26T13:33:39Z",
+            "owner": "stroke-input",
+            "repo": "stroke-input-android",
+            "stars": 111
+          }
+        }
+      ],
+      "title": "输入法"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Material Files（质感文件）",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-04-06T02:43:10Z",
+            "owner": "zhanghai",
+            "repo": "MaterialFiles",
+            "stars": 8735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CIFS Documents Provider",
+          "description": "[F-Droid]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-05-11T16:11:59Z",
+            "owner": "wa2c",
+            "repo": "cifs-documents-provider",
+            "stars": 513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Disk Usage",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-12-30T04:45:12Z",
+            "owner": "WhiredPlanck",
+            "repo": "diskusage",
+            "stars": 94
+          }
+        }
+      ],
+      "title": "文件管理"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Syncthing-Fork",
+          "description": "[F-Droid] [网站]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T09:13:11Z",
+            "owner": "researchxxl",
+            "repo": "syncthing-android",
+            "stars": 2574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seafile",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T06:43:18Z",
+            "owner": "haiwen",
+            "repo": "seadroid",
+            "stars": 625
+          }
+        }
+      ],
+      "title": "文件同步"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Amarok",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T08:11:11Z",
+            "owner": "deltazefiro",
+            "repo": "Amarok-Hider",
+            "stars": 3187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Photok",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-03T02:55:51Z",
+            "owner": "leonlatsch",
+            "repo": "Photok",
+            "stars": 938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anemo",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-01T20:29:05Z",
+            "owner": "2bllw8",
+            "repo": "anemo",
+            "stars": 315
+          }
+        }
+      ],
+      "title": "文件加密/隐藏"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LocalSend",
+          "description": "[F-droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-13T01:31:25Z",
+            "owner": "localsend",
+            "repo": "localsend",
+            "stars": 88013
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FFShare",
+          "description": "[F-Droid]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-10T18:56:22Z",
+            "owner": "caydey",
+            "repo": "ffshare",
+            "stars": 1070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tarnhelm",
+          "description": "[F-Droid] [网站]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-31T07:35:58Z",
+            "owner": "lz233",
+            "repo": "Tarnhelm",
+            "stars": 777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "open2share",
+          "description": "[F-Droid]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-04-13T07:04:42Z",
+            "owner": "linesoft2",
+            "repo": "open2share",
+            "stars": 671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Untracker（移除追踪）",
+          "description": "[F-Droid]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-31T05:33:51Z",
+            "owner": "zhanghai",
+            "repo": "Untracker",
+            "stars": 618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Save Copy（保存副本）",
+          "description": "[IzzyOnDroid]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-10-15T08:33:16Z",
+            "owner": "RikkaApps",
+            "repo": "SaveCopy",
+            "stars": 252
+          }
+        }
+      ],
+      "title": "分享"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Seal",
+          "description": "[F-Droid]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-25T15:49:47Z",
+            "owner": "JunkFood02",
+            "repo": "Seal",
+            "stars": 28149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download Navi",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-05-24T06:20:12Z",
+            "owner": "TachibanaGeneralLaboratories",
+            "repo": "download-navi",
+            "stars": 1059
+          }
+        }
+      ],
+      "title": "下载管理"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Aegis",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-16T10:50:56Z",
+            "owner": "beemdevelopment",
+            "repo": "Aegis",
+            "stars": 12898
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KeePassDX",
+          "description": "[F-Droid] [网站]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-11T15:31:38Z",
+            "owner": "Kunzisoft",
+            "repo": "KeePassDX",
+            "stars": 7118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stratum",
+          "description": "[IzzyOnDroid] [网站]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-26T09:07:22Z",
+            "owner": "stratumauth",
+            "repo": "app",
+            "stars": 4546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "andOTP [F-Droid]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2022-06-14T05:44:55Z",
+            "owner": "andOTP",
+            "repo": "andOTP",
+            "stars": 3715
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenKeychain",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-05-16T07:37:24Z",
+            "owner": "open-keychain",
+            "repo": "open-keychain",
+            "stars": 2599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Password Store",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T19:49:30Z",
+            "owner": "agrahn",
+            "repo": "Android-Password-Store",
+            "stars": 428
+          }
+        }
+      ],
+      "title": "密码"
+    },
+    {
+      "description": "就我目前简单的调查所知，以 LineageOS 为例，系统中没有自动通话录音功能。 只有在电话打通后才能手动开始录音。所以，这里列举一些可以开启自动录音的软件。\nLineageOS 中，录音功能按照不同国家的法律对电话录音的规定设置了与否启用。 比如，在地区设置为我国，录音按钮就会显示；而设置在美国，则打电话的时候没有录音按钮。 为此，LineageOS 团队（亦或是更早的开发者）调研了几乎每一个国家的法律，逐一做出了判断， 相关源代码可见 这里。 其中列举了针对所有国家地区决定开启这项功能与否的理由，并附所参考法律文件的链接，可谓用心良苦。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BCR(Basic Call Recorder)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-07T21:09:27Z",
+            "owner": "chenxiaolong",
+            "repo": "BCR",
+            "stars": 2871
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BCR-GUI",
+          "description": "[IzzyOnDroid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T15:29:35Z",
+            "owner": "nicorac",
+            "repo": "bcr-gui",
+            "stars": 347
+          }
+        }
+      ],
+      "title": "电话录音"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "App Manager",
+          "description": "[F-Droid] [网站]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-29T21:57:31Z",
+            "owner": "MuntashirAkon",
+            "repo": "AppManager",
+            "stars": 8713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibChecker",
+          "description": "[F-Droid]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T01:14:34Z",
+            "owner": "LibChecker",
+            "repo": "LibChecker",
+            "stars": 7093
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Activity Manager",
+          "description": "[F-Droid]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-25T22:12:53Z",
+            "owner": "sdex",
+            "repo": "ActivityManager",
+            "stars": 1276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Language Selector",
+          "description": "[IzzyOnDroid]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-12-29T19:06:19Z",
+            "owner": "VegaBobo",
+            "repo": "Language-Selector",
+            "stars": 751
+          }
+        }
+      ],
+      "title": "应用管理"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Smartspacer",
+          "description": "*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-08T17:29:12Z",
+            "owner": "KieronQuinn",
+            "repo": "Smartspacer",
+            "stars": 3466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Iconify",
+          "description": "[IzzyOnDroid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T12:36:30Z",
+            "owner": "Mahmud0808",
+            "repo": "Iconify",
+            "stars": 3121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doodle",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-02-28T05:58:46Z",
+            "owner": "patzly",
+            "repo": "doodle-android",
+            "stars": 846
+          }
+        }
+      ],
+      "title": "系统美化"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Audio Share",
+          "description": "[F-Droid]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-05-29T01:59:21Z",
+            "owner": "mkckr0",
+            "repo": "audio-share",
+            "stars": 2077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KDE Connect",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T02:14:36Z",
+            "owner": "KDE",
+            "repo": "kdeconnect-android",
+            "stars": 1413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A2LN",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-20T23:01:08Z",
+            "owner": "patri9ck",
+            "repo": "a2ln-app",
+            "stars": 120
+          }
+        }
+      ],
+      "title": "电脑连接"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RHVoice",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T20:12:51Z",
+            "owner": "RHVoice",
+            "repo": "RHVoice",
+            "stars": 1830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dicio assistant",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-25T13:18:25Z",
+            "owner": "DicioTeam",
+            "repo": "dicio-android",
+            "stars": 1436
+          }
+        }
+      ],
+      "title": "语音助手"
+    },
+    {
+      "description": "UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具。已适配的应用列表。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ntfy",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-21T19:16:32Z",
+            "owner": "binwiederhier",
+            "repo": "ntfy-android",
+            "stars": 1079
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sunup",
+          "description": "[F-Droid] [网站]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T17:59:40Z",
+            "owner": "mozilla-services",
+            "repo": "autopush-rs",
+            "stars": 336
+          }
+        }
+      ],
+      "title": "统一推送（UnifiedPush）"
+    },
+    {
+      "description": "我并不想分一个“开发类”，这里的软件并不是面向开发者的，而是喜欢折腾的用户。这也符合最开始制订的”受众广泛“要求。",
+      "items": [],
+      "title": "极客工具"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Magisk",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T00:11:18Z",
+            "owner": "topjohnwu",
+            "repo": "Magisk",
+            "stars": 62183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KernelSU",
+          "description": "[网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T00:56:51Z",
+            "owner": "tiann",
+            "repo": "KernelSU",
+            "stars": 17770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apatch",
+          "description": "[网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T19:15:43Z",
+            "owner": "bmax121",
+            "repo": "APatch",
+            "stars": 7787
+          }
+        }
+      ],
+      "title": "Root 工具"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Acode",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:42:40Z",
+            "owner": "Acode-Foundation",
+            "repo": "Acode",
+            "stars": 6490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Editor",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-17T14:07:51Z",
+            "owner": "billthefarmer",
+            "repo": "editor",
+            "stars": 569
+          }
+        }
+      ],
+      "title": "文本编辑"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RustDesk",
+          "description": "[F-Droid] [网站]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T04:36:16Z",
+            "owner": "rustdesk",
+            "repo": "rustdesk",
+            "stars": 120277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ConnectBot",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-10T23:44:38Z",
+            "owner": "connectbot",
+            "repo": "connectbot",
+            "stars": 3385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AVNC",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-06T11:15:00Z",
+            "owner": "gujjwal00",
+            "repo": "avnc",
+            "stars": 1131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WADB",
+          "description": "[IzzyOnDroid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-10-15T20:43:49Z",
+            "owner": "RikkaApps",
+            "repo": "WADB",
+            "stars": 762
+          }
+        }
+      ],
+      "title": "远程连接"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OctoDroid",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-12-09T10:30:56Z",
+            "owner": "slapperwan",
+            "repo": "gh4a",
+            "stars": 1996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitTouch",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-07-28T22:09:55Z",
+            "owner": "pd4d10",
+            "repo": "git-touch",
+            "stars": 1693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MGit",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-09-24T07:03:47Z",
+            "owner": "maks",
+            "repo": "MGit",
+            "stars": 1557
+          }
+        }
+      ],
+      "title": "Git 及平台客户端"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "社交聊天"
+    },
+    {
+      "description": "更学究的讲，这一类软件叫做“即时通信”（Instant Messaging）。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Telegram FOSS",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-08-25T10:50:37Z",
+            "owner": "Telegram-FOSS-Team",
+            "repo": "Telegram-FOSS",
+            "stars": 3298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revolution IRC",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-01-01T04:31:59Z",
+            "owner": "MCMrARM",
+            "repo": "revolution-irc",
+            "stars": 613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TRIfA",
+          "description": "[F-Droid] [网站]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T16:27:54Z",
+            "owner": "zoff99",
+            "repo": "ToxAndroidRefImpl",
+            "stars": 343
+          }
+        }
+      ],
+      "title": "聊天软件"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NewPipe",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T03:20:59Z",
+            "owner": "TeamNewPipe",
+            "repo": "NewPipe",
+            "stars": 39324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PixEz",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T09:53:24Z",
+            "owner": "Notsfsssf",
+            "repo": "pixez-flutter",
+            "stars": 12544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shaft",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T06:32:14Z",
+            "owner": "CeuiLiSA",
+            "repo": "Pixiv-Shaft",
+            "stars": 7610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PipePipe",
+          "description": "[F-Droid] [网站]*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-07T21:25:05Z",
+            "owner": "InfinityLoop1308",
+            "repo": "PipePipe",
+            "stars": 5878
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Infinity for Reddit",
+          "description": "[IzzyOnDroid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T01:03:30Z",
+            "owner": "Docile-Alligator",
+            "repo": "Infinity-For-Reddit",
+            "stars": 5418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RedReader",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-09T14:28:18Z",
+            "owner": "QuantumBadger",
+            "repo": "RedReader",
+            "stars": 2608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fritter [F-Droid] [网站]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-03T22:01:22Z",
+            "owner": "jonjomckay",
+            "repo": "fritter",
+            "stars": 1444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twidere X [F-Droid] [网站]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-09-03T21:03:24Z",
+            "owner": "TwidereProject",
+            "repo": "TwidereX-Android",
+            "stars": 994
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glider",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-07-01T02:13:02Z",
+            "owner": "Mosc",
+            "repo": "Glider",
+            "stars": 578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hentoid",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "社交平台"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "游戏"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open Golf",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-03-18T01:37:41Z",
+            "owner": "mgerdes",
+            "repo": "Open-Golf",
+            "stars": 1930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Antimine",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-08-02T01:20:16Z",
+            "owner": "lucasnlm",
+            "repo": "antimine-android",
+            "stars": 785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simon Tatham's Puzzles",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-10-21T22:29:20Z",
+            "owner": "chrisboyle",
+            "repo": "sgtpuzzles",
+            "stars": 732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2048",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-19T07:38:21Z",
+            "owner": "andstatus",
+            "repo": "game2048",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lexica",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-02T10:02:47Z",
+            "owner": "lexica",
+            "repo": "lexica",
+            "stars": 336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blockinger",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-09-30T11:50:32Z",
+            "owner": "vocollapse",
+            "repo": "Blockinger",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Falling Lightblocks",
+          "description": "[网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-06-06T07:59:35Z",
+            "owner": "MrStahlfelge",
+            "repo": "lightblocks",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sudoku",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-29T10:54:35Z",
+            "owner": "SecUSo",
+            "repo": "privacy-friendly-sudoku",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TriPeaks",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-03-15T10:50:20Z",
+            "owner": "mimoguz",
+            "repo": "tripeaks-gdx",
+            "stars": 88
+          }
+        }
+      ],
+      "title": "休闲益智"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lichess",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-02-15T22:57:49Z",
+            "owner": "lichess-org",
+            "repo": "lichobile",
+            "stars": 2183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gobandroid",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2023-03-09T05:03:36Z",
+            "owner": "ligi",
+            "repo": "gobandroid",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gobandroid ai gnugo",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-02-10T19:34:27Z",
+            "owner": "ligi",
+            "repo": "gobandroid-ai-gnugo",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "棋类"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mindustry",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T18:12:10Z",
+            "owner": "Anuken",
+            "repo": "Mindustry",
+            "stars": 28590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anuto TD",
+          "description": "[F-Droid]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-09-29T19:59:03Z",
+            "owner": "mjaun",
+            "repo": "android-anuto",
+            "stars": 238
+          }
+        }
+      ],
+      "title": "塔防"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shattered Pixel Dungeon",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-23T15:22:47Z",
+            "owner": "00-Evan",
+            "repo": "shattered-pixel-dungeon",
+            "stars": 6410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Andor's Trail（安道尔追踪）",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T20:56:27Z",
+            "owner": "AndorsTrailRelease",
+            "repo": "andors-trail",
+            "stars": 139
+          }
+        }
+      ],
+      "title": "探险"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SuperTuxKart",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-01T19:22:43Z",
+            "owner": "supertuxkart",
+            "repo": "stk-code",
+            "stars": 5296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pixel Wheels",
+          "description": "[F-Droid] [网站]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-18T19:14:18Z",
+            "owner": "agateau",
+            "repo": "pixelwheels",
+            "stars": 456
+          }
+        }
+      ],
+      "title": "赛车"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Eleven",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-15T09:49:08Z",
+            "owner": "LineageOS",
+            "repo": "android_packages_apps_Eleven",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DocumentsUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-29T04:14:36Z",
+            "owner": "LineageOS",
+            "repo": "android_packages_apps_DocumentsUI",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terminal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-02-13T14:43:29Z",
+            "owner": "LineageOS",
+            "repo": "android_packages_apps_Terminal",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "LineageOS 自带"
+    },
+    {
+      "description": "以下一些集合也列举了很多安卓开源软件。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Android FOSS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:55:44Z",
+            "owner": "offa",
+            "repo": "android-foss",
+            "stars": 10767
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Android Apps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T19:04:37Z",
+            "owner": "Psyhackological",
+            "repo": "AAA",
+            "stars": 3020
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cool FOSS Android Apps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-06T10:35:34Z",
+            "owner": "albertomosconi",
+            "repo": "foss-apps",
+            "stars": 1159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "推薦的好用開源 Android APP 中文列表",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-29T17:40:38Z",
+            "owner": "ivon852",
+            "repo": "awesome-foss-android-apps",
+            "stars": 413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Android Apps (已 404)",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "相似集合"
+    },
+    {
+      "description": "版权声明：本文为 Lu Xu 原创，依据 CC BY-SA 4.0 许可证进行授权，转载请附上出处链接及本声明。\n原文链接：https://github.com/xlucn/oh-my-foss-android",
+      "items": [],
+      "title": "版权"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T07:14:00.564Z",
+    "original_repository": "xlucn/oh-my-foss-android",
+    "original_repository_sha": "88dac27d84c0853b17bfbacdc8671ede65f9ec28",
+    "enhanced_repository": "enhansome/enhansome-oh-my-foss-android",
+    "enhanced_repository_description": null,
+    "title": "Awesome 很好用的开源安卓软件 with stars"
+  }
+}

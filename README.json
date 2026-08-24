@@ -19,7 +19,7 @@
                     "last_commit": "2026-08-24T00:45:55Z",
                     "owner": "Droid-ify",
                     "repo": "client",
-                    "stars": 7303
+                    "stars": 7305
                   }
                 },
                 {
@@ -56,6 +56,28 @@
               "description": "F-Droid 是著名的开源安卓软件平台，其客户端提供软件的安装。F-Droid 官方源会从源代码编译独立的安装文件，因此可检验软件中的不安全以及非开源因素，使得 F-Droid 上的软件保证很高的安全性和开源性。\n还存在 IzzyOnDroid 等第三方 F-Droid 仓库。如果熟悉 Linux 的用户，会很了解这个概念，即只增加一个软件来源，但保持和 F-Droid 官方源软件相同的安装方式。这些第三方仓库丰富了软件的数量，提供更及时的更新，也一定程度放宽了采纳标准。\n建议安装其中一个 F-Droid 客户端。",
               "node_type": "group",
               "title": "F-Droid 客户端"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Obtainium",
+                  "description": "[F-Droid] [网站]*",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 523534328,
+                    "language": "Dart",
+                    "last_commit": "2026-08-24T05:25:46Z",
+                    "owner": "ImranR98",
+                    "repo": "Obtainium",
+                    "stars": 19212
+                  }
+                }
+              ],
+              "description": "一些应用尚未在任何商店内发布，通过以下应用可跟踪此类应用的更新。",
+              "node_type": "group",
+              "title": "其他"
             }
           ],
           "description": "主流的开源软件安装方法包括 F-Droid 客户端、谷歌应用商店和直接 APK 安装。",
@@ -68,6 +90,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Iceraven Browser",
+                  "description": "*",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 285707519,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-24T13:45:25Z",
+                    "owner": "fork-maintainers",
+                    "repo": "iceraven-browser",
+                    "stars": 6367
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "浏览器"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Thunderbird/K-9 Mail",
                   "description": "[F-Droid] [网站]",
                   "children": [],
@@ -75,10 +119,10 @@
                     "archived": false,
                     "id": 1326671,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-20T14:32:49Z",
+                    "last_commit": "2026-08-24T07:48:52Z",
                     "owner": "thunderbird",
                     "repo": "thunderbird-android",
-                    "stars": 13901
+                    "stars": 13903
                   }
                 },
                 {
@@ -90,10 +134,10 @@
                     "archived": false,
                     "id": 143298715,
                     "language": "Java",
-                    "last_commit": "2026-08-24T06:27:12Z",
+                    "last_commit": "2026-08-24T13:44:01Z",
                     "owner": "M66B",
                     "repo": "FairEmail",
-                    "stars": 4577
+                    "stars": 4578
                   }
                 }
               ],
@@ -130,7 +174,7 @@
                     "last_commit": "2026-08-23T17:15:14Z",
                     "owner": "AntennaPod",
                     "repo": "AntennaPod",
-                    "stars": 8100
+                    "stars": 8102
                   }
                 },
                 {
@@ -145,7 +189,7 @@
                     "last_commit": "2026-08-11T17:26:59Z",
                     "owner": "ReadYouApp",
                     "repo": "ReadYou",
-                    "stars": 7447
+                    "stars": 7449
                   }
                 },
                 {
@@ -157,10 +201,10 @@
                     "archived": false,
                     "id": 1046496211,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-23T16:58:42Z",
+                    "last_commit": "2026-08-24T07:23:21Z",
                     "owner": "HapeLee",
                     "repo": "legado-with-MD3",
-                    "stars": 5812
+                    "stars": 5823
                   }
                 },
                 {
@@ -172,10 +216,10 @@
                     "archived": false,
                     "id": 23427654,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-23T15:42:06Z",
+                    "last_commit": "2026-08-24T08:07:32Z",
                     "owner": "spacecowboy",
                     "repo": "Feeder",
-                    "stars": 2980
+                    "stars": 2983
                   }
                 },
                 {
@@ -190,7 +234,7 @@
                     "last_commit": "2026-08-23T14:17:04Z",
                     "owner": "Pool-Of-Tears",
                     "repo": "Myne",
-                    "stars": 1508
+                    "stars": 1509
                   }
                 },
                 {
@@ -220,7 +264,7 @@
                     "last_commit": "2024-06-26T20:46:45Z",
                     "owner": "segler-alex",
                     "repo": "RadioDroid",
-                    "stars": 1056
+                    "stars": 1057
                   }
                 }
               ],
@@ -353,7 +397,7 @@
                     "last_commit": "2026-08-22T07:25:49Z",
                     "owner": "mpv-android",
                     "repo": "mpv-android",
-                    "stars": 3489
+                    "stars": 3490
                   }
                 },
                 {
@@ -368,7 +412,7 @@
                     "last_commit": "2026-03-21T09:11:03Z",
                     "owner": "marlboro-advance",
                     "repo": "mpvEx",
-                    "stars": 2454
+                    "stars": 2456
                   }
                 },
                 {
@@ -405,7 +449,7 @@
                     "last_commit": "2026-08-19T12:57:04Z",
                     "owner": "RetroMusicPlayer",
                     "repo": "RetroMusicPlayer",
-                    "stars": 5270
+                    "stars": 5271
                   }
                 },
                 {
@@ -420,7 +464,7 @@
                     "last_commit": "2026-08-22T15:32:30Z",
                     "owner": "MusicPlayerDaemon",
                     "repo": "MPD",
-                    "stars": 2753
+                    "stars": 2754
                   }
                 },
                 {
@@ -480,7 +524,7 @@
                     "last_commit": "2026-08-22T13:10:39Z",
                     "owner": "chr56",
                     "repo": "Phonograph_Plus",
-                    "stars": 723
+                    "stars": 722
                   }
                 },
                 {
@@ -507,6 +551,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "YAACC",
+                  "description": "[F-Droid] [网站]*",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 156070344,
+                    "language": "Java",
+                    "last_commit": "2026-08-21T19:23:04Z",
+                    "owner": "tobexyz",
+                    "repo": "yaacc-code",
+                    "stars": 177
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "流媒体"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Kazumi",
                   "description": "[F-Droid] [网站]*",
                   "children": [],
@@ -517,7 +583,7 @@
                     "last_commit": "2026-08-23T06:46:01Z",
                     "owner": "Predidit",
                     "repo": "Kazumi",
-                    "stars": 29161
+                    "stars": 29173
                   }
                 },
                 {
@@ -529,10 +595,10 @@
                     "archived": false,
                     "id": 519845229,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-24T04:56:02Z",
+                    "last_commit": "2026-08-24T13:44:03Z",
                     "owner": "open-ani",
                     "repo": "animeko",
-                    "stars": 19738
+                    "stars": 19742
                   }
                 },
                 {
@@ -544,10 +610,10 @@
                     "archived": false,
                     "id": 847243220,
                     "language": "Dart",
-                    "last_commit": "2026-07-15T15:36:10Z",
+                    "last_commit": "2026-08-24T13:24:04Z",
                     "owner": "Sle2p",
                     "repo": "AniCh",
-                    "stars": 6014
+                    "stars": 6019
                   }
                 }
               ],
@@ -569,7 +635,7 @@
                     "last_commit": "2026-08-22T03:25:12Z",
                     "owner": "KDE",
                     "repo": "krita",
-                    "stars": 10258
+                    "stars": 10260
                   }
                 },
                 {
@@ -618,7 +684,7 @@
                     "archived": false,
                     "id": 207030659,
                     "language": "Java",
-                    "last_commit": "2026-08-23T13:42:32Z",
+                    "last_commit": "2026-08-24T09:56:55Z",
                     "owner": "eszdman",
                     "repo": "PhotonCamera",
                     "stars": 1091
@@ -636,7 +702,7 @@
                     "last_commit": "2026-08-24T05:23:30Z",
                     "owner": "lukaspieper",
                     "repo": "Gcam-Services-Provider",
-                    "stars": 1073
+                    "stars": 1074
                   }
                 },
                 {
@@ -673,6 +739,28 @@
               "description": null,
               "node_type": "group",
               "title": "相机"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Aves",
+                  "description": "[F-Droid（Aves Libre）] [IzzyOnDroid]*",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 200468551,
+                    "language": "Dart",
+                    "last_commit": "2026-08-08T22:56:02Z",
+                    "owner": "deckerst",
+                    "repo": "aves",
+                    "stars": 5137
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "图像处理"
             }
           ],
           "description": null,
@@ -692,10 +780,10 @@
                     "archived": false,
                     "id": 324829379,
                     "language": "C++",
-                    "last_commit": "2026-08-23T21:38:01Z",
+                    "last_commit": "2026-08-24T13:55:20Z",
                     "owner": "organicmaps",
                     "repo": "organicmaps",
-                    "stars": 15184
+                    "stars": 15190
                   }
                 },
                 {
@@ -707,7 +795,7 @@
                     "archived": false,
                     "id": 1258570,
                     "language": "Java",
-                    "last_commit": "2026-08-24T06:20:57Z",
+                    "last_commit": "2026-08-24T13:26:04Z",
                     "owner": "osmandapp",
                     "repo": "OsmAnd",
                     "stars": 5924
@@ -747,7 +835,7 @@
                     "last_commit": "2026-08-23T09:53:06Z",
                     "owner": "breezy-weather",
                     "repo": "breezy-weather",
-                    "stars": 11099
+                    "stars": 11118
                   }
                 },
                 {
@@ -759,7 +847,7 @@
                     "archived": false,
                     "id": 52190928,
                     "language": "Java",
-                    "last_commit": "2026-08-20T15:22:31Z",
+                    "last_commit": "2026-08-24T11:15:58Z",
                     "owner": "WangDaYeeeeee",
                     "repo": "GeometricWeather",
                     "stars": 2520
@@ -814,7 +902,7 @@
                     "last_commit": "2026-08-22T16:19:10Z",
                     "owner": "tasks",
                     "repo": "tasks",
-                    "stars": 5509
+                    "stars": 5511
                   }
                 },
                 {
@@ -896,7 +984,7 @@
                     "last_commit": "2026-08-23T17:46:20Z",
                     "owner": "kylecorry31",
                     "repo": "Trail-Sense",
-                    "stars": 2816
+                    "stars": 2818
                   }
                 },
                 {
@@ -975,6 +1063,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Collabora Office",
+                  "description": "[独立源] [网站]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 300155217,
+                    "language": "Shell",
+                    "last_commit": "2026-08-18T13:45:37Z",
+                    "owner": "CollaboraOnline",
+                    "repo": "online",
+                    "stars": 3324
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "办公套件"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Joplin",
                   "description": "[F-Droid]*",
                   "children": [],
@@ -982,10 +1092,10 @@
                     "archived": false,
                     "id": 79162682,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-23T21:58:30Z",
+                    "last_commit": "2026-08-24T13:25:58Z",
                     "owner": "laurent22",
                     "repo": "joplin",
-                    "stars": 56074
+                    "stars": 56082
                   }
                 },
                 {
@@ -997,10 +1107,10 @@
                     "archived": false,
                     "id": 101451042,
                     "language": "Java",
-                    "last_commit": "2026-08-05T08:35:16Z",
+                    "last_commit": "2026-08-24T09:52:56Z",
                     "owner": "gsantner",
                     "repo": "markor",
-                    "stars": 6017
+                    "stars": 6019
                   }
                 },
                 {
@@ -1015,7 +1125,7 @@
                     "last_commit": "2026-08-23T19:32:14Z",
                     "owner": "saber-notes",
                     "repo": "saber",
-                    "stars": 4715
+                    "stars": 4716
                   }
                 },
                 {
@@ -1049,10 +1159,10 @@
                     "archived": false,
                     "id": 8986217,
                     "language": "Lua",
-                    "last_commit": "2026-08-24T06:01:41Z",
+                    "last_commit": "2026-08-24T10:56:05Z",
                     "owner": "koreader",
                     "repo": "koreader",
-                    "stars": 29230
+                    "stars": 29234
                   }
                 },
                 {
@@ -1064,10 +1174,10 @@
                     "archived": false,
                     "id": 871781831,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T05:19:45Z",
+                    "last_commit": "2026-08-24T13:07:03Z",
                     "owner": "readest",
                     "repo": "readest",
-                    "stars": 23680
+                    "stars": 23688
                   }
                 },
                 {
@@ -1082,7 +1192,7 @@
                     "last_commit": "2026-08-23T21:30:35Z",
                     "owner": "foobnix",
                     "repo": "LibreraReader",
-                    "stars": 4726
+                    "stars": 4728
                   }
                 },
                 {
@@ -1097,7 +1207,7 @@
                     "last_commit": "2026-08-23T06:43:01Z",
                     "owner": "opendocument-app",
                     "repo": "OpenDocument.droid",
-                    "stars": 426
+                    "stars": 427
                   }
                 },
                 {
@@ -1149,7 +1259,7 @@
                     "last_commit": "2026-08-23T19:40:42Z",
                     "owner": "ethereal-developers",
                     "repo": "OpenScan",
-                    "stars": 1799
+                    "stars": 1800
                   }
                 },
                 {
@@ -1171,6 +1281,28 @@
               "description": null,
               "node_type": "group",
               "title": "文档扫描"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "AnkiDroid",
+                  "description": "[F-Droid] [网站]*",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 7716883,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-24T11:04:59Z",
+                    "owner": "ankidroid",
+                    "repo": "Anki-Android",
+                    "stars": 11611
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "卡片"
             },
             {
               "children": [
@@ -1243,6 +1375,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "microMathematics Plus",
+                  "description": "[F-Droid]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 98754395,
+                    "language": "Java",
+                    "last_commit": "2026-02-27T21:31:25Z",
+                    "owner": "mkulesh",
+                    "repo": "microMathematics",
+                    "stars": 667
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "数学工具"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Wikipedia（维基百科）",
                   "description": "[F-Droid] [网站]",
                   "children": [],
@@ -1250,7 +1404,7 @@
                     "archived": false,
                     "id": 13862999,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-22T01:26:06Z",
+                    "last_commit": "2026-08-24T13:32:23Z",
                     "owner": "wikimedia",
                     "repo": "apps-android-wikipedia",
                     "stars": 3010
@@ -1265,10 +1419,10 @@
                     "archived": false,
                     "id": 79377628,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-24T06:29:08Z",
+                    "last_commit": "2026-08-24T12:07:23Z",
                     "owner": "kiwix",
                     "repo": "kiwix-android",
-                    "stars": 1450
+                    "stars": 1451
                   }
                 }
               ],
@@ -1287,10 +1441,10 @@
                     "archived": false,
                     "id": 18719856,
                     "language": "C++",
-                    "last_commit": "2026-08-22T19:06:58Z",
+                    "last_commit": "2026-08-24T12:39:15Z",
                     "owner": "Stellarium",
                     "repo": "stellarium",
-                    "stars": 9896
+                    "stars": 9897
                   }
                 },
                 {
@@ -1312,6 +1466,28 @@
               "description": null,
               "node_type": "group",
               "title": "星图"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Unit Converter Ultimate",
+                  "description": "[F-Droid]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 20577134,
+                    "language": "Java",
+                    "last_commit": "2023-08-07T23:25:38Z",
+                    "owner": "physphil",
+                    "repo": "UnitConverterUltimate",
+                    "stars": 232
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "单位转换"
             }
           ],
           "description": null,
@@ -1334,7 +1510,7 @@
                     "last_commit": "2026-08-21T15:27:49Z",
                     "owner": "fcitx5-android",
                     "repo": "fcitx5-android",
-                    "stars": 5572
+                    "stars": 5574
                   }
                 },
                 {
@@ -1349,7 +1525,7 @@
                     "last_commit": "2026-08-23T16:09:24Z",
                     "owner": "osfans",
                     "repo": "trime",
-                    "stars": 4588
+                    "stars": 4590
                   }
                 },
                 {
@@ -1364,7 +1540,7 @@
                     "last_commit": "2026-08-23T08:51:31Z",
                     "owner": "Julow",
                     "repo": "Unexpected-Keyboard",
-                    "stars": 3205
+                    "stars": 3206
                   }
                 },
                 {
@@ -1401,7 +1577,7 @@
                     "last_commit": "2026-04-06T02:43:10Z",
                     "owner": "zhanghai",
                     "repo": "MaterialFiles",
-                    "stars": 8798
+                    "stars": 8800
                   }
                 },
                 {
@@ -1416,7 +1592,7 @@
                     "last_commit": "2025-05-11T16:11:59Z",
                     "owner": "wa2c",
                     "repo": "cifs-documents-provider",
-                    "stars": 518
+                    "stars": 519
                   }
                 },
                 {
@@ -1450,10 +1626,10 @@
                     "archived": false,
                     "id": 1085822531,
                     "language": "Java",
-                    "last_commit": "2026-08-23T12:31:28Z",
+                    "last_commit": "2026-08-24T12:52:28Z",
                     "owner": "researchxxl",
                     "repo": "syncthing-android",
-                    "stars": 2665
+                    "stars": 2669
                   }
                 },
                 {
@@ -1490,7 +1666,7 @@
                     "last_commit": "2026-08-11T08:11:11Z",
                     "owner": "deltazefiro",
                     "repo": "Amarok-Hider",
-                    "stars": 3207
+                    "stars": 3208
                   }
                 },
                 {
@@ -1542,7 +1718,7 @@
                     "last_commit": "2026-08-24T00:11:36Z",
                     "owner": "localsend",
                     "repo": "localsend",
-                    "stars": 89180
+                    "stars": 89223
                   }
                 },
                 {
@@ -1557,7 +1733,7 @@
                     "last_commit": "2026-08-14T12:32:41Z",
                     "owner": "caydey",
                     "repo": "ffshare",
-                    "stars": 1078
+                    "stars": 1076
                   }
                 },
                 {
@@ -1639,7 +1815,7 @@
                     "last_commit": "2026-07-25T15:49:47Z",
                     "owner": "JunkFood02",
                     "repo": "Seal",
-                    "stars": 28418
+                    "stars": 28426
                   }
                 },
                 {
@@ -1666,6 +1842,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Neo Backup",
+                  "description": "[F-Droid]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 226567781,
+                    "language": "Kotlin",
+                    "last_commit": "2026-05-03T20:52:30Z",
+                    "owner": "NeoApplications",
+                    "repo": "Neo-Backup",
+                    "stars": 3776
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "备份"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Aegis",
                   "description": "[F-Droid] [网站]",
                   "children": [],
@@ -1676,7 +1874,7 @@
                     "last_commit": "2026-07-16T10:50:56Z",
                     "owner": "beemdevelopment",
                     "repo": "Aegis",
-                    "stars": 12958
+                    "stars": 12961
                   }
                 },
                 {
@@ -1691,7 +1889,7 @@
                     "last_commit": "2026-08-23T10:43:34Z",
                     "owner": "Kunzisoft",
                     "repo": "KeePassDX",
-                    "stars": 7169
+                    "stars": 7171
                   }
                 },
                 {
@@ -1703,7 +1901,7 @@
                     "archived": false,
                     "id": 144771489,
                     "language": "C#",
-                    "last_commit": "2026-08-23T12:05:10Z",
+                    "last_commit": "2026-08-24T12:07:54Z",
                     "owner": "stratumauth",
                     "repo": "app",
                     "stars": 4556
@@ -1736,7 +1934,7 @@
                     "last_commit": "2024-05-16T07:37:24Z",
                     "owner": "open-keychain",
                     "repo": "open-keychain",
-                    "stars": 2610
+                    "stars": 2611
                   }
                 },
                 {
@@ -1748,7 +1946,7 @@
                     "archived": false,
                     "id": 808556173,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-24T06:12:31Z",
+                    "last_commit": "2026-08-24T09:47:14Z",
                     "owner": "agrahn",
                     "repo": "Android-Password-Store",
                     "stars": 438
@@ -1758,6 +1956,28 @@
               "description": null,
               "node_type": "group",
               "title": "密码"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "QUIK",
+                  "description": "[F-Droid]*",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 667568594,
+                    "language": "Java",
+                    "last_commit": "2026-08-01T21:37:37Z",
+                    "owner": "quik-sms",
+                    "repo": "quik",
+                    "stars": 2698
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "短信"
             },
             {
               "children": [
@@ -1810,7 +2030,7 @@
                     "last_commit": "2026-08-22T20:02:03Z",
                     "owner": "MuntashirAkon",
                     "repo": "AppManager",
-                    "stars": 8805
+                    "stars": 8809
                   }
                 },
                 {
@@ -1825,7 +2045,7 @@
                     "last_commit": "2026-08-24T05:06:49Z",
                     "owner": "LibChecker",
                     "repo": "LibChecker",
-                    "stars": 7116
+                    "stars": 7117
                   }
                 },
                 {
@@ -1867,6 +2087,50 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Hail（雹）",
+                  "description": "[F-Droid]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 395236152,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-12T09:51:29Z",
+                    "owner": "aistra0528",
+                    "repo": "Hail",
+                    "stars": 6516
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "应用冻结"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SD Maid SE",
+                  "description": "[F-Droid]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 568329126,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-24T12:51:59Z",
+                    "owner": "d4rken-org",
+                    "repo": "sdmaid-se",
+                    "stars": 7357
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "系统清理"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Smartspacer",
                   "description": "*",
                   "children": [],
@@ -1877,7 +2141,7 @@
                     "last_commit": "2026-08-08T17:29:12Z",
                     "owner": "KieronQuinn",
                     "repo": "Smartspacer",
-                    "stars": 3482
+                    "stars": 3483
                   }
                 },
                 {
@@ -1892,7 +2156,7 @@
                     "last_commit": "2026-08-22T17:05:18Z",
                     "owner": "Mahmud0808",
                     "repo": "Iconify",
-                    "stars": 3143
+                    "stars": 3146
                   }
                 },
                 {
@@ -1914,6 +2178,50 @@
               "description": null,
               "node_type": "group",
               "title": "系统美化"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CPU Info",
+                  "description": "[F-Droid]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 105620694,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-24T05:10:28Z",
+                    "owner": "kamgurgul",
+                    "repo": "cpu-info",
+                    "stars": 1064
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "系统信息"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Hypatia",
+                  "description": "[IzzyOnDroid]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 909446444,
+                    "language": "Kotlin",
+                    "last_commit": "2026-05-17T19:28:22Z",
+                    "owner": "MaintainTeam",
+                    "repo": "Hypatia",
+                    "stars": 441
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "手机安全"
             },
             {
               "children": [
@@ -1971,6 +2279,50 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "GPSTest",
+                  "description": "[F-Droid]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 5510421,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-17T20:13:43Z",
+                    "owner": "barbeau",
+                    "repo": "gpstest",
+                    "stars": 2374
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "卫星定位"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Phyphox",
+                  "description": "[F-Droid] [网站]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 49077471,
+                    "language": "C",
+                    "last_commit": "2026-08-24T08:48:43Z",
+                    "owner": "phyphox",
+                    "repo": "phyphox-android",
+                    "stars": 632
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "传感器"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "RHVoice",
                   "description": "[F-Droid] [网站]",
                   "children": [],
@@ -1996,7 +2348,7 @@
                     "last_commit": "2026-07-25T13:18:25Z",
                     "owner": "DicioTeam",
                     "repo": "dicio-android",
-                    "stars": 1447
+                    "stars": 1449
                   }
                 }
               ],
@@ -2062,7 +2414,7 @@
                     "last_commit": "2026-08-23T21:46:25Z",
                     "owner": "topjohnwu",
                     "repo": "Magisk",
-                    "stars": 62395
+                    "stars": 62405
                   }
                 },
                 {
@@ -2077,7 +2429,7 @@
                     "last_commit": "2026-08-23T12:20:17Z",
                     "owner": "tiann",
                     "repo": "KernelSU",
-                    "stars": 17976
+                    "stars": 17983
                   }
                 },
                 {
@@ -2092,7 +2444,7 @@
                     "last_commit": "2026-08-22T14:15:13Z",
                     "owner": "bmax121",
                     "repo": "APatch",
-                    "stars": 7840
+                    "stars": 7843
                   }
                 }
               ],
@@ -2111,10 +2463,10 @@
                     "archived": false,
                     "id": 217150613,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-22T07:19:30Z",
+                    "last_commit": "2026-08-24T10:08:01Z",
                     "owner": "Acode-Foundation",
                     "repo": "Acode",
-                    "stars": 6666
+                    "stars": 6671
                   }
                 },
                 {
@@ -2148,10 +2500,10 @@
                     "archived": false,
                     "id": 299354207,
                     "language": "Rust",
-                    "last_commit": "2026-08-22T13:40:45Z",
+                    "last_commit": "2026-08-24T11:11:30Z",
                     "owner": "rustdesk",
                     "repo": "rustdesk",
-                    "stars": 121633
+                    "stars": 121679
                   }
                 },
                 {
@@ -2166,7 +2518,7 @@
                     "last_commit": "2026-08-17T23:44:24Z",
                     "owner": "connectbot",
                     "repo": "connectbot",
-                    "stars": 3398
+                    "stars": 3400
                   }
                 },
                 {
@@ -2181,7 +2533,7 @@
                     "last_commit": "2026-08-06T11:15:00Z",
                     "owner": "gujjwal00",
                     "repo": "avnc",
-                    "stars": 1136
+                    "stars": 1137
                   }
                 },
                 {
@@ -2203,6 +2555,50 @@
               "description": null,
               "node_type": "group",
               "title": "远程连接"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Termux",
+                  "description": "[F-Droid] [网站]*",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 44804216,
+                    "language": "Java",
+                    "last_commit": "2026-07-14T20:47:14Z",
+                    "owner": "termux",
+                    "repo": "termux-app",
+                    "stars": 59691
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "终端"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "PCAPdroid",
+                  "description": "[F-Droid] [网站]*",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 232157758,
+                    "language": "Java",
+                    "last_commit": "2026-08-24T08:59:12Z",
+                    "owner": "emanuele-f",
+                    "repo": "PCAPdroid",
+                    "stars": 4591
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "抓包工具"
             },
             {
               "children": [
@@ -2248,13 +2644,35 @@
                     "last_commit": "2024-09-24T07:03:47Z",
                     "owner": "maks",
                     "repo": "MGit",
-                    "stars": 1560
+                    "stars": 1561
                   }
                 }
               ],
               "description": null,
               "node_type": "group",
               "title": "Git 及平台客户端"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Linux Command Library",
+                  "description": "[F-Droid] [网站]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 20982177,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-19T15:26:59Z",
+                    "owner": "SimonSchubert",
+                    "repo": "LinuxCommandLibrary",
+                    "stars": 1887
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "手册"
             }
           ],
           "description": "我并不想分一个“开发类”，这里的软件并不是面向开发者的，而是喜欢折腾的用户。这也符合最开始制订的”受众广泛“要求。",
@@ -2277,7 +2695,7 @@
                     "last_commit": "2024-08-25T10:50:37Z",
                     "owner": "Telegram-FOSS-Team",
                     "repo": "Telegram-FOSS",
-                    "stars": 3298
+                    "stars": 3299
                   }
                 },
                 {
@@ -2329,7 +2747,7 @@
                     "last_commit": "2026-08-23T06:25:17Z",
                     "owner": "TeamNewPipe",
                     "repo": "NewPipe",
-                    "stars": 39465
+                    "stars": 39473
                   }
                 },
                 {
@@ -2344,7 +2762,7 @@
                     "last_commit": "2026-08-23T14:47:29Z",
                     "owner": "Notsfsssf",
                     "repo": "pixez-flutter",
-                    "stars": 12656
+                    "stars": 12658
                   }
                 },
                 {
@@ -2356,10 +2774,10 @@
                     "archived": false,
                     "id": 178835117,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-24T04:33:18Z",
+                    "last_commit": "2026-08-24T08:56:48Z",
                     "owner": "CeuiLiSA",
                     "repo": "Pixiv-Shaft",
-                    "stars": 7675
+                    "stars": 7681
                   }
                 },
                 {
@@ -2374,7 +2792,7 @@
                     "last_commit": "2026-08-23T02:32:44Z",
                     "owner": "InfinityLoop1308",
                     "repo": "PipePipe",
-                    "stars": 5952
+                    "stars": 5955
                   }
                 },
                 {
@@ -2389,7 +2807,7 @@
                     "last_commit": "2026-08-19T17:13:59Z",
                     "owner": "Docile-Alligator",
                     "repo": "Infinity-For-Reddit",
-                    "stars": 5429
+                    "stars": 5428
                   }
                 },
                 {
@@ -2468,6 +2886,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Lemuroid",
+                  "description": "[F-Droid]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 226883777,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-12T12:33:31Z",
+                    "owner": "Swordfish90",
+                    "repo": "Lemuroid",
+                    "stars": 4221
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "模拟器"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Open Golf",
                   "description": "[F-Droid]",
                   "children": [],
@@ -2508,7 +2948,7 @@
                     "last_commit": "2025-10-21T22:29:20Z",
                     "owner": "chrisboyle",
                     "repo": "sgtpuzzles",
-                    "stars": 735
+                    "stars": 736
                   }
                 },
                 {
@@ -2669,10 +3109,10 @@
                     "archived": false,
                     "id": 89822531,
                     "language": "Java",
-                    "last_commit": "2026-08-22T09:04:38Z",
+                    "last_commit": "2026-08-24T07:10:18Z",
                     "owner": "Anuken",
                     "repo": "Mindustry",
-                    "stars": 28719
+                    "stars": 28724
                   }
                 },
                 {
@@ -2709,7 +3149,7 @@
                     "last_commit": "2026-08-15T14:52:52Z",
                     "owner": "00-Evan",
                     "repo": "shattered-pixel-dungeon",
-                    "stars": 6459
+                    "stars": 6462
                   }
                 },
                 {
@@ -2731,6 +3171,28 @@
               "description": null,
               "node_type": "group",
               "title": "探险"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Luanti",
+                  "description": "[F-Droid] [网站]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2168780,
+                    "language": "C++",
+                    "last_commit": "2026-08-21T14:30:26Z",
+                    "owner": "luanti-org",
+                    "repo": "luanti",
+                    "stars": 13486
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "沙盒"
             },
             {
               "children": [
@@ -2761,13 +3223,57 @@
                     "last_commit": "2026-04-18T19:14:18Z",
                     "owner": "agateau",
                     "repo": "pixelwheels",
-                    "stars": 456
+                    "stars": 457
                   }
                 }
               ],
               "description": null,
               "node_type": "group",
               "title": "赛车"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "UnCiv",
+                  "description": "[F-Droid]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 111605778,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-24T13:42:43Z",
+                    "owner": "yairm210",
+                    "repo": "Unciv",
+                    "stars": 11123
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "策略"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "DCTimer",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4985153,
+                    "language": "Java",
+                    "last_commit": "2022-08-11T09:08:11Z",
+                    "owner": "MeigenChou",
+                    "repo": "DCTimer-Android",
+                    "stars": 78
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "魔方"
             }
           ],
           "description": null,
@@ -2844,7 +3350,7 @@
             "last_commit": "2026-08-22T18:35:32Z",
             "owner": "offa",
             "repo": "android-foss",
-            "stars": 10993
+            "stars": 11005
           }
         },
         {
@@ -2859,7 +3365,7 @@
             "last_commit": "2026-08-11T19:04:37Z",
             "owner": "Psyhackological",
             "repo": "AAA",
-            "stars": 3041
+            "stars": 3042
           }
         },
         {
@@ -2897,7 +3403,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:37:47.716Z",
+    "last_updated": "2026-08-24T13:55:45.073Z",
     "original_repository": "xlucn/oh-my-foss-android",
     "original_repository_id": 423398688,
     "original_repository_sha": "98f53fea2feb600892c53e7a8a33ab70f7483e19",

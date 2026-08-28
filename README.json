@@ -16,11 +16,12 @@
                     "archived": false,
                     "id": 510342492,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-26T20:51:39Z",
+                    "last_commit": "2026-08-28T11:43:28Z",
                     "owner": "Droid-ify",
                     "repo": "client",
-                    "stars": 7324
-                  }
+                    "stars": 7328
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -34,8 +35,9 @@
                     "last_commit": "2026-08-26T00:32:52Z",
                     "owner": "NeoApplications",
                     "repo": "Neo-Store",
-                    "stars": 4940
-                  }
+                    "stars": 4943
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -50,7 +52,8 @@
                     "owner": "kitsunyan",
                     "repo": "foxy-droid",
                     "stars": 715
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": "F-Droid 是著名的开源安卓软件平台，其客户端提供软件的安装。F-Droid 官方源会从源代码编译独立的安装文件，因此可检验软件中的不安全以及非开源因素，使得 F-Droid 上的软件保证很高的安全性和开源性。\n还存在 IzzyOnDroid 等第三方 F-Droid 仓库。如果熟悉 Linux 的用户，会很了解这个概念，即只增加一个软件来源，但保持和 F-Droid 官方源软件相同的安装方式。这些第三方仓库丰富了软件的数量，提供更及时的更新，也一定程度放宽了采纳标准。\n建议安装其中一个 F-Droid 客户端。",
@@ -71,8 +74,9 @@
                     "last_commit": "2026-08-24T05:25:46Z",
                     "owner": "ImranR98",
                     "repo": "Obtainium",
-                    "stars": 19289
-                  }
+                    "stars": 19302
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": "一些应用尚未在任何商店内发布，通过以下应用可跟踪此类应用的更新。",
@@ -100,8 +104,9 @@
                     "last_commit": "2026-08-24T16:03:31Z",
                     "owner": "fork-maintainers",
                     "repo": "iceraven-browser",
-                    "stars": 6405
-                  }
+                    "stars": 6409
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -122,8 +127,9 @@
                     "last_commit": "2026-08-27T10:16:35Z",
                     "owner": "thunderbird",
                     "repo": "thunderbird-android",
-                    "stars": 13927
-                  }
+                    "stars": 13928
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -134,11 +140,12 @@
                     "archived": false,
                     "id": 143298715,
                     "language": "Java",
-                    "last_commit": "2026-08-26T20:30:50Z",
+                    "last_commit": "2026-08-28T17:38:58Z",
                     "owner": "M66B",
                     "repo": "FairEmail",
-                    "stars": 4587
-                  }
+                    "stars": 4588
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -160,7 +167,8 @@
                     "owner": "gedoor",
                     "repo": "legado",
                     "stars": 47039
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -174,8 +182,9 @@
                     "last_commit": "2026-08-26T21:01:22Z",
                     "owner": "AntennaPod",
                     "repo": "AntennaPod",
-                    "stars": 8108
-                  }
+                    "stars": 8109
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -189,8 +198,9 @@
                     "last_commit": "2026-08-11T17:26:59Z",
                     "owner": "ReadYouApp",
                     "repo": "ReadYou",
-                    "stars": 7460
-                  }
+                    "stars": 7463
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -204,8 +214,9 @@
                     "last_commit": "2026-08-26T17:42:38Z",
                     "owner": "HapeLee",
                     "repo": "legado-with-MD3",
-                    "stars": 5878
-                  }
+                    "stars": 5886
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -219,8 +230,9 @@
                     "last_commit": "2026-08-26T10:03:34Z",
                     "owner": "spacecowboy",
                     "repo": "Feeder",
-                    "stars": 2988
-                  }
+                    "stars": 2993
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -235,7 +247,8 @@
                     "owner": "Pool-Of-Tears",
                     "repo": "Myne",
                     "stars": 1510
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -250,7 +263,8 @@
                     "owner": "oxyroid",
                     "repo": "M3UAndroid",
                     "stars": 1234
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -265,7 +279,8 @@
                     "owner": "segler-alex",
                     "repo": "RadioDroid",
                     "stars": 1057
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": "这类软件没有自带内容或既定来源，用户自行加入“源”获取在线内容。\n注意：请大家务必尊重版权，请勿从事侵权违法行为。",
@@ -286,8 +301,9 @@
                     "last_commit": "2026-06-25T02:42:36Z",
                     "owner": "trakt",
                     "repo": "showly",
-                    "stars": 1449
-                  }
+                    "stars": 1452
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -302,7 +318,8 @@
                     "owner": "red-coracle",
                     "repo": "episodes",
                     "stars": 52
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -324,7 +341,8 @@
                     "owner": "Bartuzen",
                     "repo": "qBitController",
                     "stars": 1277
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -339,7 +357,8 @@
                     "owner": "6c65726f79",
                     "repo": "Transmissionic",
                     "stars": 524
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -354,7 +373,8 @@
                     "owner": "equeim",
                     "repo": "tremotesf-android",
                     "stars": 323
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": "这里是一些 BT 软件的远程客户端，并不是直接在安卓手机上进行 BT 下载的客户端。",
@@ -382,8 +402,9 @@
                     "last_commit": "2026-08-26T20:08:20Z",
                     "owner": "nova-video-player",
                     "repo": "aos-AVP",
-                    "stars": 4636
-                  }
+                    "stars": 4635
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -397,8 +418,9 @@
                     "last_commit": "2026-08-26T17:04:18Z",
                     "owner": "mpv-android",
                     "repo": "mpv-android",
-                    "stars": 3495
-                  }
+                    "stars": 3496
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -412,8 +434,9 @@
                     "last_commit": "2026-03-21T09:11:03Z",
                     "owner": "marlboro-advance",
                     "repo": "mpvEx",
-                    "stars": 2461
-                  }
+                    "stars": 2463
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -428,7 +451,8 @@
                     "owner": "xbmc",
                     "repo": "Kore",
                     "stars": 722
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -450,7 +474,8 @@
                     "owner": "RetroMusicPlayer",
                     "repo": "RetroMusicPlayer",
                     "stars": 5277
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -464,8 +489,9 @@
                     "last_commit": "2026-08-27T09:28:40Z",
                     "owner": "MusicPlayerDaemon",
                     "repo": "MPD",
-                    "stars": 2755
-                  }
+                    "stars": 2756
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -480,7 +506,8 @@
                     "owner": "vanilla-music",
                     "repo": "vanilla",
                     "stars": 1349
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -495,7 +522,8 @@
                     "owner": "trynoice",
                     "repo": "android-app",
                     "stars": 1030
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -510,7 +538,8 @@
                     "owner": "VinylMusicPlayer",
                     "repo": "VinylMusicPlayer",
                     "stars": 991
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -521,11 +550,12 @@
                     "archived": false,
                     "id": 408710882,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-22T13:10:39Z",
+                    "last_commit": "2026-08-28T14:05:06Z",
                     "owner": "chr56",
                     "repo": "Phonograph_Plus",
-                    "stars": 722
-                  }
+                    "stars": 723
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -540,7 +570,8 @@
                     "owner": "CliffracerMerchant",
                     "repo": "SoundAura",
                     "stars": 88
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": "可能是开发难度低，F-Droid 上太多音乐软件了。搜 \"music\" 关键词，最近更新的都比较好，恕不一一列举。",
@@ -562,7 +593,8 @@
                     "owner": "tobexyz",
                     "repo": "yaacc-code",
                     "stars": 177
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -580,11 +612,12 @@
                     "archived": false,
                     "id": 798049841,
                     "language": "Dart",
-                    "last_commit": "2026-08-27T17:07:00Z",
+                    "last_commit": "2026-08-28T04:00:56Z",
                     "owner": "Predidit",
                     "repo": "Kazumi",
-                    "stars": 29288
-                  }
+                    "stars": 29326
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -595,11 +628,12 @@
                     "archived": false,
                     "id": 519845229,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-27T07:19:21Z",
+                    "last_commit": "2026-08-28T11:13:33Z",
                     "owner": "open-ani",
                     "repo": "animeko",
-                    "stars": 19796
-                  }
+                    "stars": 19815
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -613,8 +647,9 @@
                     "last_commit": "2026-08-24T13:24:04Z",
                     "owner": "Sle2p",
                     "repo": "AniCh",
-                    "stars": 6078
-                  }
+                    "stars": 6098
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -632,11 +667,12 @@
                     "archived": false,
                     "id": 43975673,
                     "language": "C++",
-                    "last_commit": "2026-08-27T14:56:09Z",
+                    "last_commit": "2026-08-28T12:57:23Z",
                     "owner": "KDE",
                     "repo": "krita",
-                    "stars": 10272
-                  }
+                    "stars": 10274
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -647,11 +683,12 @@
                     "archived": false,
                     "id": 5192255,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-27T08:44:10Z",
+                    "last_commit": "2026-08-28T10:56:48Z",
                     "owner": "Catrobat",
                     "repo": "Paintroid",
                     "stars": 497
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -666,7 +703,8 @@
                     "owner": "tomdoeslinux",
                     "repo": "PixaPencil",
                     "stars": 197
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -688,7 +726,8 @@
                     "owner": "eszdman",
                     "repo": "PhotonCamera",
                     "stars": 1093
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -702,8 +741,9 @@
                     "last_commit": "2026-08-27T05:22:47Z",
                     "owner": "lukaspieper",
                     "repo": "Gcam-Services-Provider",
-                    "stars": 1075
-                  }
+                    "stars": 1074
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -718,7 +758,8 @@
                     "owner": "KillerInk",
                     "repo": "FreeDcam",
                     "stars": 368
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -733,7 +774,8 @@
                     "owner": "LineageOS",
                     "repo": "android_packages_apps_Aperture",
                     "stars": 114
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -754,8 +796,9 @@
                     "last_commit": "2026-08-08T22:56:02Z",
                     "owner": "deckerst",
                     "repo": "aves",
-                    "stars": 5146
-                  }
+                    "stars": 5151
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -780,11 +823,12 @@
                     "archived": false,
                     "id": 324829379,
                     "language": "C++",
-                    "last_commit": "2026-08-27T13:48:18Z",
+                    "last_commit": "2026-08-28T14:45:33Z",
                     "owner": "organicmaps",
                     "repo": "organicmaps",
-                    "stars": 15220
-                  }
+                    "stars": 15233
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -795,11 +839,12 @@
                     "archived": false,
                     "id": 1258570,
                     "language": "Java",
-                    "last_commit": "2026-08-27T15:31:20Z",
+                    "last_commit": "2026-08-28T17:08:00Z",
                     "owner": "osmandapp",
                     "repo": "OsmAnd",
-                    "stars": 5932
-                  }
+                    "stars": 5934
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -814,7 +859,8 @@
                     "owner": "mendhak",
                     "repo": "gpslogger",
                     "stars": 2596
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -835,8 +881,9 @@
                     "last_commit": "2026-08-27T03:30:34Z",
                     "owner": "breezy-weather",
                     "repo": "breezy-weather",
-                    "stars": 11212
-                  }
+                    "stars": 11223
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -847,11 +894,12 @@
                     "archived": false,
                     "id": 52190928,
                     "language": "Java",
-                    "last_commit": "2026-08-27T09:27:30Z",
+                    "last_commit": "2026-08-28T11:22:46Z",
                     "owner": "WangDaYeeeeee",
                     "repo": "GeometricWeather",
                     "stars": 2521
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -866,7 +914,8 @@
                     "owner": "SpicyChair",
                     "repo": "pluvia_weather_flutter",
                     "stars": 162
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -887,8 +936,9 @@
                     "last_commit": "2026-07-21T12:59:15Z",
                     "owner": "iSoron",
                     "repo": "uhabits",
-                    "stars": 10170
-                  }
+                    "stars": 10175
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -903,7 +953,8 @@
                     "owner": "tasks",
                     "repo": "tasks",
                     "stars": 5517
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -917,8 +968,9 @@
                     "last_commit": "2026-03-09T01:35:16Z",
                     "owner": "jameskokoska",
                     "repo": "Cashew",
-                    "stars": 4572
-                  }
+                    "stars": 4578
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -929,11 +981,12 @@
                     "archived": false,
                     "id": 3582763,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-26T18:24:05Z",
+                    "last_commit": "2026-08-28T15:03:20Z",
                     "owner": "mtotschnig",
                     "repo": "MyExpenses",
                     "stars": 1172
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -948,7 +1001,8 @@
                     "owner": "CorruptedArk",
                     "repo": "did-i-take-my-meds",
                     "stars": 205
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -963,7 +1017,8 @@
                     "owner": "pewaru-333",
                     "repo": "HomeMedkit-App",
                     "stars": 126
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -981,11 +1036,12 @@
                     "archived": false,
                     "id": 215154276,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-26T22:13:38Z",
+                    "last_commit": "2026-08-28T16:48:42Z",
                     "owner": "kylecorry31",
                     "repo": "Trail-Sense",
-                    "stars": 2833
-                  }
+                    "stars": 2834
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -999,8 +1055,9 @@
                     "last_commit": "2026-08-04T18:56:03Z",
                     "owner": "Kr0oked",
                     "repo": "Compass",
-                    "stars": 666
-                  }
+                    "stars": 665
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1015,7 +1072,8 @@
                     "owner": "woheller69",
                     "repo": "audio-analyzer-for-android",
                     "stars": 396
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1029,8 +1087,9 @@
                     "last_commit": "2024-07-13T06:22:07Z",
                     "owner": "mobeil1",
                     "repo": "GuessIron",
-                    "stars": 82
-                  }
+                    "stars": 83
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1045,7 +1104,8 @@
                     "owner": "SecUSo",
                     "repo": "privacy-friendly-tape-measure",
                     "stars": 54
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -1070,11 +1130,12 @@
                     "archived": false,
                     "id": 300155217,
                     "language": "Shell",
-                    "last_commit": "2026-08-27T11:44:55Z",
+                    "last_commit": "2026-08-28T05:00:10Z",
                     "owner": "CollaboraOnline",
                     "repo": "online",
-                    "stars": 3328
-                  }
+                    "stars": 3330
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -1092,11 +1153,12 @@
                     "archived": false,
                     "id": 79162682,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T09:01:46Z",
+                    "last_commit": "2026-08-28T17:52:58Z",
                     "owner": "laurent22",
                     "repo": "joplin",
-                    "stars": 56130
-                  }
+                    "stars": 56135
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1110,8 +1172,9 @@
                     "last_commit": "2026-08-25T04:20:27Z",
                     "owner": "gsantner",
                     "repo": "markor",
-                    "stars": 6035
-                  }
+                    "stars": 6040
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1125,8 +1188,9 @@
                     "last_commit": "2026-08-27T01:47:46Z",
                     "owner": "saber-notes",
                     "repo": "saber",
-                    "stars": 4732
-                  }
+                    "stars": 4736
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1141,7 +1205,8 @@
                     "owner": "OmGodse",
                     "repo": "Notally",
                     "stars": 2163
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -1159,11 +1224,12 @@
                     "archived": false,
                     "id": 8986217,
                     "language": "Lua",
-                    "last_commit": "2026-08-27T14:47:12Z",
+                    "last_commit": "2026-08-28T16:47:00Z",
                     "owner": "koreader",
                     "repo": "koreader",
-                    "stars": 29302
-                  }
+                    "stars": 29324
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1174,11 +1240,12 @@
                     "archived": false,
                     "id": 871781831,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T16:59:54Z",
+                    "last_commit": "2026-08-28T17:08:08Z",
                     "owner": "readest",
                     "repo": "readest",
-                    "stars": 23785
-                  }
+                    "stars": 23835
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1192,8 +1259,9 @@
                     "last_commit": "2026-08-25T21:09:30Z",
                     "owner": "foobnix",
                     "repo": "LibreraReader",
-                    "stars": 4740
-                  }
+                    "stars": 4742
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1204,11 +1272,12 @@
                     "archived": false,
                     "id": 1005396,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-27T06:34:16Z",
+                    "last_commit": "2026-08-27T19:45:45Z",
                     "owner": "opendocument-app",
                     "repo": "OpenDocument.droid",
-                    "stars": 430
-                  }
+                    "stars": 432
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1223,7 +1292,8 @@
                     "owner": "chxp82q",
                     "repo": "PdfViewer",
                     "stars": 401
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -1244,8 +1314,9 @@
                     "last_commit": "2026-08-26T06:20:48Z",
                     "owner": "ossappscollective",
                     "repo": "OSS-DocumentScanner",
-                    "stars": 2386
-                  }
+                    "stars": 2388
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1256,11 +1327,12 @@
                     "archived": false,
                     "id": 274846430,
                     "language": "C++",
-                    "last_commit": "2026-08-26T17:54:32Z",
+                    "last_commit": "2026-08-27T18:06:11Z",
                     "owner": "ethereal-developers",
                     "repo": "OpenScan",
-                    "stars": 1803
-                  }
+                    "stars": 1804
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1274,8 +1346,9 @@
                     "last_commit": "2026-08-21T08:01:35Z",
                     "owner": "pynicolas",
                     "repo": "FairScan",
-                    "stars": 824
-                  }
+                    "stars": 825
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -1293,11 +1366,12 @@
                     "archived": false,
                     "id": 7716883,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-27T14:06:15Z",
+                    "last_commit": "2026-08-28T13:47:43Z",
                     "owner": "ankidroid",
                     "repo": "Anki-Android",
-                    "stars": 11631
-                  }
+                    "stars": 11633
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -1318,8 +1392,9 @@
                     "last_commit": "2026-07-04T19:26:59Z",
                     "owner": "you-apps",
                     "repo": "TranslateYou",
-                    "stars": 1528
-                  }
+                    "stars": 1527
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1334,7 +1409,8 @@
                     "owner": "itkach",
                     "repo": "aard2-android",
                     "stars": 554
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1349,7 +1425,8 @@
                     "owner": "sakusaku3939",
                     "repo": "DeepLAndroid",
                     "stars": 505
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1360,11 +1437,12 @@
                     "archived": false,
                     "id": 41056562,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-25T06:15:45Z",
+                    "last_commit": "2026-08-28T07:15:28Z",
                     "owner": "rdoeffinger",
                     "repo": "Dictionary",
-                    "stars": 403
-                  }
+                    "stars": 404
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -1386,7 +1464,8 @@
                     "owner": "mkulesh",
                     "repo": "microMathematics",
                     "stars": 668
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -1404,11 +1483,12 @@
                     "archived": false,
                     "id": 13862999,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-27T15:29:21Z",
+                    "last_commit": "2026-08-28T17:39:21Z",
                     "owner": "wikimedia",
                     "repo": "apps-android-wikipedia",
                     "stars": 3010
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1422,8 +1502,9 @@
                     "last_commit": "2026-08-27T12:14:08Z",
                     "owner": "kiwix",
                     "repo": "kiwix-android",
-                    "stars": 1453
-                  }
+                    "stars": 1455
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -1441,11 +1522,12 @@
                     "archived": false,
                     "id": 18719856,
                     "language": "C++",
-                    "last_commit": "2026-08-27T16:42:50Z",
+                    "last_commit": "2026-08-28T17:25:50Z",
                     "owner": "Stellarium",
                     "repo": "stellarium",
-                    "stars": 9901
-                  }
+                    "stars": 9905
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1459,8 +1541,9 @@
                     "last_commit": "2026-08-24T01:03:11Z",
                     "owner": "sky-map-team",
                     "repo": "stardroid",
-                    "stars": 1804
-                  }
+                    "stars": 1805
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -1482,7 +1565,8 @@
                     "owner": "physphil",
                     "repo": "UnitConverterUltimate",
                     "stars": 233
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -1510,8 +1594,9 @@
                     "last_commit": "2026-08-25T21:53:23Z",
                     "owner": "fcitx5-android",
                     "repo": "fcitx5-android",
-                    "stars": 5586
-                  }
+                    "stars": 5590
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1522,11 +1607,12 @@
                     "archived": false,
                     "id": 36422720,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-27T03:09:42Z",
+                    "last_commit": "2026-08-28T10:29:24Z",
                     "owner": "osfans",
                     "repo": "trime",
-                    "stars": 4602
-                  }
+                    "stars": 4603
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1540,8 +1626,9 @@
                     "last_commit": "2026-08-27T08:51:34Z",
                     "owner": "Julow",
                     "repo": "Unexpected-Keyboard",
-                    "stars": 3212
-                  }
+                    "stars": 3213
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1556,7 +1643,8 @@
                     "owner": "stroke-input",
                     "repo": "stroke-input-android",
                     "stars": 113
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -1577,8 +1665,9 @@
                     "last_commit": "2026-04-06T02:43:10Z",
                     "owner": "zhanghai",
                     "repo": "MaterialFiles",
-                    "stars": 8816
-                  }
+                    "stars": 8821
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1593,7 +1682,8 @@
                     "owner": "wa2c",
                     "repo": "cifs-documents-provider",
                     "stars": 519
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1608,7 +1698,8 @@
                     "owner": "WhiredPlanck",
                     "repo": "diskusage",
                     "stars": 96
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -1629,8 +1720,9 @@
                     "last_commit": "2026-08-27T15:18:32Z",
                     "owner": "researchxxl",
                     "repo": "syncthing-android",
-                    "stars": 2687
-                  }
+                    "stars": 2697
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1641,11 +1733,12 @@
                     "archived": false,
                     "id": 6900541,
                     "language": "Java",
-                    "last_commit": "2026-08-27T06:18:00Z",
+                    "last_commit": "2026-08-28T03:41:27Z",
                     "owner": "haiwen",
                     "repo": "seadroid",
-                    "stars": 627
-                  }
+                    "stars": 628
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -1666,8 +1759,9 @@
                     "last_commit": "2026-08-11T08:11:11Z",
                     "owner": "deltazefiro",
                     "repo": "Amarok-Hider",
-                    "stars": 3215
-                  }
+                    "stars": 3218
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1678,11 +1772,12 @@
                     "archived": false,
                     "id": 287088448,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-26T20:57:21Z",
+                    "last_commit": "2026-08-28T15:12:53Z",
                     "owner": "leonlatsch",
                     "repo": "Photok",
-                    "stars": 951
-                  }
+                    "stars": 952
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1697,7 +1792,8 @@
                     "owner": "2bllw8",
                     "repo": "anemo",
                     "stars": 320
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -1715,11 +1811,12 @@
                     "archived": false,
                     "id": 578822531,
                     "language": "Dart",
-                    "last_commit": "2026-08-24T00:11:36Z",
+                    "last_commit": "2026-08-28T13:00:32Z",
                     "owner": "localsend",
                     "repo": "localsend",
-                    "stars": 89508
-                  }
+                    "stars": 89589
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1733,8 +1830,9 @@
                     "last_commit": "2026-08-14T12:32:41Z",
                     "owner": "caydey",
                     "repo": "ffshare",
-                    "stars": 1082
-                  }
+                    "stars": 1086
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1748,8 +1846,9 @@
                     "last_commit": "2026-08-13T13:24:51Z",
                     "owner": "lz233",
                     "repo": "Tarnhelm",
-                    "stars": 784
-                  }
+                    "stars": 787
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1764,7 +1863,8 @@
                     "owner": "linesoft2",
                     "repo": "open2share",
                     "stars": 672
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1779,7 +1879,8 @@
                     "owner": "zhanghai",
                     "repo": "Untracker",
                     "stars": 619
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1793,8 +1894,9 @@
                     "last_commit": "2021-10-15T08:33:16Z",
                     "owner": "RikkaApps",
                     "repo": "SaveCopy",
-                    "stars": 254
-                  }
+                    "stars": 255
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -1815,8 +1917,9 @@
                     "last_commit": "2026-08-25T15:44:42Z",
                     "owner": "JunkFood02",
                     "repo": "Seal",
-                    "stars": 28501
-                  }
+                    "stars": 28536
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1830,8 +1933,9 @@
                     "last_commit": "2025-05-24T06:20:12Z",
                     "owner": "TachibanaGeneralLaboratories",
                     "repo": "download-navi",
-                    "stars": 1061
-                  }
+                    "stars": 1060
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -1852,8 +1956,9 @@
                     "last_commit": "2026-05-03T20:52:30Z",
                     "owner": "NeoApplications",
                     "repo": "Neo-Backup",
-                    "stars": 3781
-                  }
+                    "stars": 3784
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -1874,8 +1979,9 @@
                     "last_commit": "2026-07-16T10:50:56Z",
                     "owner": "beemdevelopment",
                     "repo": "Aegis",
-                    "stars": 12978
-                  }
+                    "stars": 12981
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1889,8 +1995,9 @@
                     "last_commit": "2026-08-26T11:14:04Z",
                     "owner": "Kunzisoft",
                     "repo": "KeePassDX",
-                    "stars": 7185
-                  }
+                    "stars": 7187
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1901,11 +2008,12 @@
                     "archived": false,
                     "id": 144771489,
                     "language": "C#",
-                    "last_commit": "2026-08-27T15:41:22Z",
+                    "last_commit": "2026-08-28T16:06:07Z",
                     "owner": "stratumauth",
                     "repo": "app",
-                    "stars": 4555
-                  }
+                    "stars": 4554
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1920,7 +2028,8 @@
                     "owner": "andOTP",
                     "repo": "andOTP",
                     "stars": 3713
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1934,8 +2043,9 @@
                     "last_commit": "2024-05-16T07:37:24Z",
                     "owner": "open-keychain",
                     "repo": "open-keychain",
-                    "stars": 2612
-                  }
+                    "stars": 2613
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -1946,11 +2056,12 @@
                     "archived": false,
                     "id": 808556173,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-27T11:13:27Z",
+                    "last_commit": "2026-08-28T01:39:02Z",
                     "owner": "agrahn",
                     "repo": "Android-Password-Store",
                     "stars": 438
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -1971,8 +2082,9 @@
                     "last_commit": "2026-08-01T21:37:37Z",
                     "owner": "quik-sms",
                     "repo": "quik",
-                    "stars": 2708
-                  }
+                    "stars": 2715
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -1993,8 +2105,9 @@
                     "last_commit": "2026-08-20T17:53:35Z",
                     "owner": "chenxiaolong",
                     "repo": "BCR",
-                    "stars": 2880
-                  }
+                    "stars": 2882
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2009,7 +2122,8 @@
                     "owner": "nicorac",
                     "repo": "bcr-gui",
                     "stars": 351
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": "就我目前简单的调查所知，以 LineageOS 为例，系统中没有自动通话录音功能。 只有在电话打通后才能手动开始录音。所以，这里列举一些可以开启自动录音的软件。\nLineageOS 中，录音功能按照不同国家的法律对电话录音的规定设置了与否启用。 比如，在地区设置为我国，录音按钮就会显示；而设置在美国，则打电话的时候没有录音按钮。 为此，LineageOS 团队（亦或是更早的开发者）调研了几乎每一个国家的法律，逐一做出了判断， 相关源代码可见 这里。 其中列举了针对所有国家地区决定开启这项功能与否的理由，并附所参考法律文件的链接，可谓用心良苦。",
@@ -2030,8 +2144,9 @@
                     "last_commit": "2026-08-26T21:22:13Z",
                     "owner": "MuntashirAkon",
                     "repo": "AppManager",
-                    "stars": 8833
-                  }
+                    "stars": 8837
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2042,11 +2157,12 @@
                     "archived": false,
                     "id": 248400799,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-27T09:06:09Z",
+                    "last_commit": "2026-08-28T04:19:43Z",
                     "owner": "LibChecker",
                     "repo": "LibChecker",
                     "stars": 7120
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2060,8 +2176,9 @@
                     "last_commit": "2026-07-25T22:12:53Z",
                     "owner": "sdex",
                     "repo": "ActivityManager",
-                    "stars": 1292
-                  }
+                    "stars": 1293
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2075,8 +2192,9 @@
                     "last_commit": "2024-12-29T19:06:19Z",
                     "owner": "VegaBobo",
                     "repo": "Language-Selector",
-                    "stars": 763
-                  }
+                    "stars": 764
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -2094,11 +2212,12 @@
                     "archived": false,
                     "id": 395236152,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-27T07:19:50Z",
+                    "last_commit": "2026-08-28T07:51:33Z",
                     "owner": "aistra0528",
                     "repo": "Hail",
-                    "stars": 6545
-                  }
+                    "stars": 6556
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -2119,8 +2238,9 @@
                     "last_commit": "2026-08-27T11:55:47Z",
                     "owner": "d4rken-org",
                     "repo": "sdmaid-se",
-                    "stars": 7375
-                  }
+                    "stars": 7388
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -2142,7 +2262,8 @@
                     "owner": "KieronQuinn",
                     "repo": "Smartspacer",
                     "stars": 3488
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2156,8 +2277,9 @@
                     "last_commit": "2026-08-22T17:05:18Z",
                     "owner": "Mahmud0808",
                     "repo": "Iconify",
-                    "stars": 3151
-                  }
+                    "stars": 3153
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2172,7 +2294,8 @@
                     "owner": "patzly",
                     "repo": "doodle-android",
                     "stars": 847
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -2190,11 +2313,12 @@
                     "archived": false,
                     "id": 105620694,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-27T08:02:15Z",
+                    "last_commit": "2026-08-28T17:06:53Z",
                     "owner": "kamgurgul",
                     "repo": "cpu-info",
                     "stars": 1066
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -2215,8 +2339,9 @@
                     "last_commit": "2026-05-17T19:28:22Z",
                     "owner": "MaintainTeam",
                     "repo": "Hypatia",
-                    "stars": 445
-                  }
+                    "stars": 446
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -2237,8 +2362,9 @@
                     "last_commit": "2025-05-29T01:59:21Z",
                     "owner": "mkckr0",
                     "repo": "audio-share",
-                    "stars": 2091
-                  }
+                    "stars": 2093
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2252,8 +2378,9 @@
                     "last_commit": "2026-08-26T02:14:14Z",
                     "owner": "KDE",
                     "repo": "kdeconnect-android",
-                    "stars": 1423
-                  }
+                    "stars": 1424
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2268,7 +2395,8 @@
                     "owner": "patri9ck",
                     "repo": "a2ln-app",
                     "stars": 120
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -2290,7 +2418,8 @@
                     "owner": "barbeau",
                     "repo": "gpstest",
                     "stars": 2376
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -2308,11 +2437,12 @@
                     "archived": false,
                     "id": 49077471,
                     "language": "C",
-                    "last_commit": "2026-08-27T13:39:51Z",
+                    "last_commit": "2026-08-28T17:37:47Z",
                     "owner": "phyphox",
                     "repo": "phyphox-android",
-                    "stars": 632
-                  }
+                    "stars": 633
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -2333,8 +2463,9 @@
                     "last_commit": "2026-08-27T10:26:34Z",
                     "owner": "RHVoice",
                     "repo": "RHVoice",
-                    "stars": 1831
-                  }
+                    "stars": 1834
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2348,8 +2479,9 @@
                     "last_commit": "2026-07-25T13:18:25Z",
                     "owner": "DicioTeam",
                     "repo": "dicio-android",
-                    "stars": 1455
-                  }
+                    "stars": 1457
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -2370,8 +2502,9 @@
                     "last_commit": "2026-07-21T19:16:32Z",
                     "owner": "binwiederhier",
                     "repo": "ntfy-android",
-                    "stars": 1095
-                  }
+                    "stars": 1096
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2382,11 +2515,12 @@
                     "archived": false,
                     "id": 135631198,
                     "language": "Rust",
-                    "last_commit": "2026-08-20T17:29:02Z",
+                    "last_commit": "2026-08-27T22:54:50Z",
                     "owner": "mozilla-services",
                     "repo": "autopush-rs",
-                    "stars": 337
-                  }
+                    "stars": 338
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": "UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具。已适配的应用列表。",
@@ -2411,11 +2545,12 @@
                     "archived": false,
                     "id": 67702184,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-27T10:03:31Z",
+                    "last_commit": "2026-08-27T17:19:58Z",
                     "owner": "topjohnwu",
                     "repo": "Magisk",
-                    "stars": 62464
-                  }
+                    "stars": 62475
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2426,11 +2561,12 @@
                     "archived": false,
                     "id": 576303915,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-27T10:46:32Z",
+                    "last_commit": "2026-08-28T14:49:30Z",
                     "owner": "tiann",
                     "repo": "KernelSU",
-                    "stars": 18027
-                  }
+                    "stars": 18042
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2441,11 +2577,12 @@
                     "archived": false,
                     "id": 681215919,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-25T19:17:19Z",
+                    "last_commit": "2026-08-28T14:49:55Z",
                     "owner": "bmax121",
                     "repo": "APatch",
-                    "stars": 7865
-                  }
+                    "stars": 7867
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -2463,11 +2600,12 @@
                     "archived": false,
                     "id": 217150613,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-27T15:28:16Z",
+                    "last_commit": "2026-08-27T21:34:30Z",
                     "owner": "Acode-Foundation",
                     "repo": "Acode",
-                    "stars": 6712
-                  }
+                    "stars": 6724
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2482,7 +2620,8 @@
                     "owner": "billthefarmer",
                     "repo": "editor",
                     "stars": 569
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -2500,11 +2639,12 @@
                     "archived": false,
                     "id": 299354207,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T08:33:58Z",
+                    "last_commit": "2026-08-28T09:15:42Z",
                     "owner": "rustdesk",
                     "repo": "rustdesk",
-                    "stars": 121971
-                  }
+                    "stars": 122044
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2518,8 +2658,9 @@
                     "last_commit": "2026-08-17T23:44:24Z",
                     "owner": "connectbot",
                     "repo": "connectbot",
-                    "stars": 3410
-                  }
+                    "stars": 3413
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2534,7 +2675,8 @@
                     "owner": "gujjwal00",
                     "repo": "avnc",
                     "stars": 1137
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2548,8 +2690,9 @@
                     "last_commit": "2024-10-15T20:43:49Z",
                     "owner": "RikkaApps",
                     "repo": "WADB",
-                    "stars": 764
-                  }
+                    "stars": 765
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -2570,8 +2713,9 @@
                     "last_commit": "2026-08-24T15:23:08Z",
                     "owner": "termux",
                     "repo": "termux-app",
-                    "stars": 59871
-                  }
+                    "stars": 59929
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -2592,8 +2736,9 @@
                     "last_commit": "2026-08-26T20:37:14Z",
                     "owner": "emanuele-f",
                     "repo": "PCAPdroid",
-                    "stars": 4608
-                  }
+                    "stars": 4616
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -2615,7 +2760,8 @@
                     "owner": "slapperwan",
                     "repo": "gh4a",
                     "stars": 1993
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2630,7 +2776,8 @@
                     "owner": "pd4d10",
                     "repo": "git-touch",
                     "stars": 1694
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2645,7 +2792,8 @@
                     "owner": "maks",
                     "repo": "MGit",
                     "stars": 1561
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -2663,11 +2811,12 @@
                     "archived": false,
                     "id": 20982177,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-27T10:07:17Z",
+                    "last_commit": "2026-08-28T07:31:48Z",
                     "owner": "SimonSchubert",
                     "repo": "LinuxCommandLibrary",
-                    "stars": 1890
-                  }
+                    "stars": 1898
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -2696,7 +2845,8 @@
                     "owner": "Telegram-FOSS-Team",
                     "repo": "Telegram-FOSS",
                     "stars": 3300
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2711,7 +2861,8 @@
                     "owner": "MCMrARM",
                     "repo": "revolution-irc",
                     "stars": 613
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2722,11 +2873,12 @@
                     "archived": false,
                     "id": 89713479,
                     "language": "C",
-                    "last_commit": "2026-08-27T16:47:14Z",
+                    "last_commit": "2026-08-28T16:41:53Z",
                     "owner": "zoff99",
                     "repo": "ToxAndroidRefImpl",
                     "stars": 343
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": "更学究的讲，这一类软件叫做“即时通信”（Instant Messaging）。",
@@ -2747,8 +2899,9 @@
                     "last_commit": "2026-08-24T19:20:06Z",
                     "owner": "TeamNewPipe",
                     "repo": "NewPipe",
-                    "stars": 39506
-                  }
+                    "stars": 39511
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2759,11 +2912,12 @@
                     "archived": false,
                     "id": 219118618,
                     "language": "Dart",
-                    "last_commit": "2026-08-26T01:31:09Z",
+                    "last_commit": "2026-08-28T16:23:44Z",
                     "owner": "Notsfsssf",
                     "repo": "pixez-flutter",
-                    "stars": 12690
-                  }
+                    "stars": 12696
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2774,11 +2928,12 @@
                     "archived": false,
                     "id": 178835117,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-27T09:46:43Z",
+                    "last_commit": "2026-08-28T09:54:15Z",
                     "owner": "CeuiLiSA",
                     "repo": "Pixiv-Shaft",
-                    "stars": 7700
-                  }
+                    "stars": 7706
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2792,8 +2947,9 @@
                     "last_commit": "2026-08-24T23:43:38Z",
                     "owner": "InfinityLoop1308",
                     "repo": "PipePipe",
-                    "stars": 5981
-                  }
+                    "stars": 5983
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2804,11 +2960,12 @@
                     "archived": false,
                     "id": 142456757,
                     "language": "Java",
-                    "last_commit": "2026-08-27T01:38:08Z",
+                    "last_commit": "2026-08-27T21:04:40Z",
                     "owner": "Docile-Alligator",
                     "repo": "Infinity-For-Reddit",
-                    "stars": 5430
-                  }
+                    "stars": 5434
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2822,8 +2979,9 @@
                     "last_commit": "2026-08-15T13:46:33Z",
                     "owner": "QuantumBadger",
                     "repo": "RedReader",
-                    "stars": 2629
-                  }
+                    "stars": 2630
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2838,7 +2996,8 @@
                     "owner": "jonjomckay",
                     "repo": "fritter",
                     "stars": 1445
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2853,7 +3012,8 @@
                     "owner": "TwidereProject",
                     "repo": "TwidereX-Android",
                     "stars": 993
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2868,7 +3028,8 @@
                     "owner": "Mosc",
                     "repo": "Glider",
                     "stars": 578
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -2896,8 +3057,9 @@
                     "last_commit": "2026-08-12T12:33:31Z",
                     "owner": "Swordfish90",
                     "repo": "Lemuroid",
-                    "stars": 4233
-                  }
+                    "stars": 4243
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -2919,7 +3081,8 @@
                     "owner": "mgerdes",
                     "repo": "Open-Golf",
                     "stars": 1930
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2934,7 +3097,8 @@
                     "owner": "lucasnlm",
                     "repo": "antimine-android",
                     "stars": 788
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2949,7 +3113,8 @@
                     "owner": "chrisboyle",
                     "repo": "sgtpuzzles",
                     "stars": 736
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2964,7 +3129,8 @@
                     "owner": "andstatus",
                     "repo": "game2048",
                     "stars": 352
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2979,7 +3145,8 @@
                     "owner": "lexica",
                     "repo": "lexica",
                     "stars": 337
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -2994,7 +3161,8 @@
                     "owner": "vocollapse",
                     "repo": "Blockinger",
                     "stars": 222
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -3009,7 +3177,8 @@
                     "owner": "MrStahlfelge",
                     "repo": "lightblocks",
                     "stars": 208
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -3024,7 +3193,8 @@
                     "owner": "SecUSo",
                     "repo": "privacy-friendly-sudoku",
                     "stars": 207
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -3039,7 +3209,8 @@
                     "owner": "mimoguz",
                     "repo": "tripeaks-gdx",
                     "stars": 89
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -3061,7 +3232,8 @@
                     "owner": "lichess-org",
                     "repo": "lichobile",
                     "stars": 2182
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -3076,7 +3248,8 @@
                     "owner": "ligi",
                     "repo": "gobandroid",
                     "stars": 249
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -3091,7 +3264,8 @@
                     "owner": "ligi",
                     "repo": "gobandroid-ai-gnugo",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -3109,11 +3283,12 @@
                     "archived": false,
                     "id": 89822531,
                     "language": "Java",
-                    "last_commit": "2026-08-27T16:46:50Z",
+                    "last_commit": "2026-08-27T22:45:47Z",
                     "owner": "Anuken",
                     "repo": "Mindustry",
-                    "stars": 28751
-                  }
+                    "stars": 28757
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -3128,7 +3303,8 @@
                     "owner": "mjaun",
                     "repo": "android-anuto",
                     "stars": 239
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -3150,7 +3326,8 @@
                     "owner": "00-Evan",
                     "repo": "shattered-pixel-dungeon",
                     "stars": 6465
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -3161,11 +3338,12 @@
                     "archived": false,
                     "id": 228082661,
                     "language": "Java",
-                    "last_commit": "2026-08-27T16:09:38Z",
+                    "last_commit": "2026-08-28T05:27:36Z",
                     "owner": "AndorsTrailRelease",
                     "repo": "andors-trail",
                     "stars": 140
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -3186,8 +3364,9 @@
                     "last_commit": "2026-08-26T20:18:01Z",
                     "owner": "luanti-org",
                     "repo": "luanti",
-                    "stars": 13504
-                  }
+                    "stars": 13513
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -3208,8 +3387,9 @@
                     "last_commit": "2026-08-23T14:51:25Z",
                     "owner": "supertuxkart",
                     "repo": "stk-code",
-                    "stars": 5313
-                  }
+                    "stars": 5315
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 },
                 {
                   "node_type": "item",
@@ -3224,7 +3404,8 @@
                     "owner": "agateau",
                     "repo": "pixelwheels",
                     "stars": 457
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -3245,8 +3426,9 @@
                     "last_commit": "2026-08-27T08:15:12Z",
                     "owner": "yairm210",
                     "repo": "Unciv",
-                    "stars": 11141
-                  }
+                    "stars": 11153
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -3268,7 +3450,8 @@
                     "owner": "MeigenChou",
                     "repo": "DCTimer-Android",
                     "stars": 78
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:54:50.694Z"
                 }
               ],
               "description": null,
@@ -3295,7 +3478,8 @@
                 "owner": "LineageOS",
                 "repo": "android_packages_apps_Eleven",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T17:54:50.694Z"
             },
             {
               "node_type": "item",
@@ -3306,11 +3490,12 @@
                 "archived": false,
                 "id": 101101898,
                 "language": "Java",
-                "last_commit": "2026-06-29T04:14:36Z",
+                "last_commit": "2026-08-27T22:58:14Z",
                 "owner": "LineageOS",
                 "repo": "android_packages_apps_DocumentsUI",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T17:54:50.694Z"
             },
             {
               "node_type": "item",
@@ -3325,7 +3510,8 @@
                 "owner": "LineageOS",
                 "repo": "android_packages_apps_Terminal",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T17:54:50.694Z"
             }
           ],
           "description": null,
@@ -3350,8 +3536,9 @@
             "last_commit": "2026-08-27T13:11:18Z",
             "owner": "offa",
             "repo": "android-foss",
-            "stars": 11038
-          }
+            "stars": 11041
+          },
+          "first_seen": "2026-08-28T17:54:50.694Z"
         },
         {
           "node_type": "item",
@@ -3366,7 +3553,8 @@
             "owner": "Psyhackological",
             "repo": "AAA",
             "stars": 3047
-          }
+          },
+          "first_seen": "2026-08-28T17:54:50.694Z"
         },
         {
           "node_type": "item",
@@ -3381,7 +3569,8 @@
             "owner": "albertomosconi",
             "repo": "foss-apps",
             "stars": 1174
-          }
+          },
+          "first_seen": "2026-08-28T17:54:50.694Z"
         },
         {
           "node_type": "item",
@@ -3395,15 +3584,16 @@
             "last_commit": "2026-07-29T17:40:38Z",
             "owner": "ivon852",
             "repo": "awesome-foss-android-apps",
-            "stars": 425
-          }
+            "stars": 426
+          },
+          "first_seen": "2026-08-28T17:54:50.694Z"
         }
       ],
       "title": "相似集合"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:07:34.575Z",
+    "last_updated": "2026-08-28T17:54:50.694Z",
     "original_repository_info": {
       "archived": false,
       "id": 423398688,
@@ -3411,7 +3601,7 @@
       "last_commit": "2026-08-13T15:59:23Z",
       "owner": "xlucn",
       "repo": "oh-my-foss-android",
-      "stars": 5081
+      "stars": 5083
     },
     "original_repository_sha": "98f53fea2feb600892c53e7a8a33ab70f7483e19",
     "enhanced_repository": "enhansome/enhansome-oh-my-foss-android",

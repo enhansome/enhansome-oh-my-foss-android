@@ -14,12 +14,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Clutterfree F-Droid client",
+                    "homepage": "https://droidify.app/",
                     "id": 510342492,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-28T11:43:28Z",
+                    "open_issues": 195,
                     "owner": "Droid-ify",
                     "repo": "client",
-                    "stars": 7328
+                    "stars": 7332,
+                    "topics": [
+                      "android",
+                      "android-application",
+                      "fdroid",
+                      "kotlin",
+                      "kotlin-android",
+                      "kotlin-flow"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -30,12 +42,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An F-Droid client with modern UI and an arsenal of extra features.",
+                    "homepage": null,
                     "id": 345346677,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-26T00:32:52Z",
+                    "open_issues": 126,
                     "owner": "NeoApplications",
                     "repo": "Neo-Store",
-                    "stars": 4943
+                    "stars": 4945,
+                    "topics": [
+                      "android",
+                      "f-droid",
+                      "foss",
+                      "hacktoberfest"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -46,12 +68,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Yet another F-Droid client",
+                    "homepage": null,
                     "id": 269783724,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-10-19T04:48:29Z",
+                    "open_issues": 69,
                     "owner": "kitsunyan",
                     "repo": "foxy-droid",
-                    "stars": 715
+                    "stars": 715,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -69,12 +96,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Get Android app updates straight from the source.",
+                    "homepage": "https://obtainium.imranr.dev",
                     "id": 523534328,
                     "language": "Dart",
-                    "last_commit": "2026-08-24T05:25:46Z",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-29T01:53:27Z",
+                    "open_issues": 397,
                     "owner": "ImranR98",
                     "repo": "Obtainium",
-                    "stars": 19302
+                    "stars": 19314,
+                    "topics": [
+                      "android",
+                      "apk",
+                      "apk-update",
+                      "apk-updater",
+                      "app-updater",
+                      "automation",
+                      "foss",
+                      "github",
+                      "github-apk-updater",
+                      "gitlab",
+                      "notifications",
+                      "obtainium",
+                      "privacy",
+                      "security",
+                      "update-checker",
+                      "updater"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -99,12 +148,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Iceraven Browser",
+                    "homepage": null,
                     "id": 285707519,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2026-08-24T16:03:31Z",
+                    "open_issues": 188,
                     "owner": "fork-maintainers",
                     "repo": "iceraven-browser",
-                    "stars": 6409
+                    "stars": 6414,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -122,12 +176,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)",
+                    "homepage": "https://thunderbird.net/mobile",
                     "id": 1326671,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T10:16:35Z",
+                    "open_issues": 1043,
                     "owner": "thunderbird",
                     "repo": "thunderbird-android",
-                    "stars": 13928
+                    "stars": 13932,
+                    "topics": [
+                      "android",
+                      "communication",
+                      "email",
+                      "mozilla"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -138,12 +202,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fully featured, open source, privacy friendly email app for Android",
+                    "homepage": "https://email.faircode.eu/",
                     "id": 143298715,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-28T17:38:58Z",
+                    "open_issues": 3,
                     "owner": "M66B",
                     "repo": "FairEmail",
-                    "stars": 4588
+                    "stars": 4588,
+                    "topics": [
+                      "android",
+                      "app",
+                      "email",
+                      "privacy",
+                      "security"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -161,12 +236,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",
+                    "homepage": null,
                     "id": 187961907,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2026-05-27T08:41:54Z",
+                    "open_issues": 18,
                     "owner": "gedoor",
                     "repo": "legado",
-                    "stars": 47039
+                    "stars": 47039,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -177,12 +257,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A podcast manager for Android",
+                    "homepage": "https://antennapod.org",
                     "id": 5244445,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-26T21:01:22Z",
+                    "open_issues": 368,
                     "owner": "AntennaPod",
                     "repo": "AntennaPod",
-                    "stars": 8109
+                    "stars": 8109,
+                    "topics": [
+                      "android",
+                      "apps",
+                      "hacktoberfest",
+                      "podcast-manager",
+                      "podcasting20"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -193,12 +284,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Android RSS reader presented in Material You style.",
+                    "homepage": null,
                     "id": 464981831,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-11T17:26:59Z",
+                    "open_issues": 471,
                     "owner": "ReadYouApp",
                     "repo": "ReadYou",
-                    "stars": 7463
+                    "stars": 7463,
+                    "topics": [
+                      "android",
+                      "compose",
+                      "f-droid",
+                      "kotlin",
+                      "material-design",
+                      "material-design-3",
+                      "material-ui",
+                      "material-you",
+                      "rss-reader"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -209,12 +315,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "使用 Material Design 3 全新设计的阅读 3.0",
+                    "homepage": "https://hapelee.github.io/legado-with-MD3/",
                     "id": 1046496211,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-26T17:42:38Z",
+                    "open_issues": 161,
                     "owner": "HapeLee",
                     "repo": "legado-with-MD3",
-                    "stars": 5886
+                    "stars": 5892,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -225,12 +336,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Android feed reader app",
+                    "homepage": null,
                     "id": 23427654,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-26T10:03:34Z",
+                    "open_issues": 227,
                     "owner": "spacecowboy",
                     "repo": "Feeder",
-                    "stars": 2993
+                    "stars": 2993,
+                    "topics": [
+                      "android",
+                      "atom",
+                      "jetpack-compose",
+                      "jsonfeed",
+                      "kotlin",
+                      "nostr",
+                      "rss"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -241,12 +365,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An android app to download & read ebooks from Project Gutenberg, built with  Jetpack Compose.",
+                    "homepage": "https://pool-of-tears.github.io",
                     "id": 568700970,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-23T14:17:04Z",
+                    "open_issues": 10,
                     "owner": "Pool-Of-Tears",
                     "repo": "Myne",
-                    "stars": 1510
+                    "stars": 1510,
+                    "topics": [
+                      "android",
+                      "android-app",
+                      "books",
+                      "ebook-downloader",
+                      "ebook-reader",
+                      "epub-reader",
+                      "fdroid",
+                      "gutenberg-ebooks",
+                      "jetpack-android",
+                      "jetpack-compose",
+                      "kotlin-android",
+                      "kotlin-coroutines",
+                      "material-design",
+                      "material-ui",
+                      "mvvm-architecture",
+                      "ui-design"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -257,12 +403,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a clean, practical, ad-free IPTV app",
+                    "homepage": "https://t.me/m3u_android",
                     "id": 592741804,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-16T11:14:56Z",
+                    "open_issues": 82,
                     "owner": "oxyroid",
                     "repo": "M3UAndroid",
-                    "stars": 1234
+                    "stars": 1234,
+                    "topics": [
+                      "android",
+                      "android-tv",
+                      "epg",
+                      "iptv",
+                      "jetpack-compose",
+                      "kotlin",
+                      "m3u",
+                      "player",
+                      "xtream"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -273,12 +434,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "radio browser app that uses www.radio-browser.info on android",
+                    "homepage": null,
                     "id": 7588594,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-06-26T20:46:45Z",
+                    "open_issues": 323,
                     "owner": "segler-alex",
                     "repo": "RadioDroid",
-                    "stars": 1057
+                    "stars": 1057,
+                    "topics": [
+                      "audio",
+                      "audio-streaming",
+                      "radio",
+                      "radio-browser",
+                      "streaming"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -296,12 +468,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Showly is a modern and slick Movies and TV Shows manager.",
+                    "homepage": "http://www.showlyapp.com",
                     "id": 203589756,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-06-25T02:42:36Z",
+                    "open_issues": 150,
                     "owner": "trakt",
                     "repo": "showly",
-                    "stars": 1452
+                    "stars": 1452,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -312,12 +489,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Keep track of which television show episodes you've seen!",
+                    "homepage": null,
                     "id": 49616262,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-02-07T16:33:23Z",
+                    "open_issues": 24,
                     "owner": "red-coracle",
                     "repo": "episodes",
-                    "stars": 52
+                    "stars": 52,
+                    "topics": [
+                      "android",
+                      "hacktoberfest",
+                      "java"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -335,12 +521,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Control qBittorrent from any device",
+                    "homepage": null,
                     "id": 401108101,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-22T07:53:26Z",
+                    "open_issues": 45,
                     "owner": "Bartuzen",
                     "repo": "qBitController",
-                    "stars": 1277
+                    "stars": 1278,
+                    "topics": [
+                      "android",
+                      "ios",
+                      "kotlin",
+                      "linux",
+                      "macos",
+                      "qbittorrent",
+                      "torrent",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -351,12 +551,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Remote for Transmission Daemon",
+                    "homepage": null,
                     "id": 333811896,
                     "language": "Vue",
+                    "license": "MIT",
                     "last_commit": "2024-07-28T11:39:03Z",
+                    "open_issues": 45,
                     "owner": "6c65726f79",
                     "repo": "Transmissionic",
-                    "stars": 524
+                    "stars": 524,
+                    "topics": [
+                      "android",
+                      "capacitor",
+                      "electron",
+                      "ionic",
+                      "remote",
+                      "transmission",
+                      "transmission-daemon",
+                      "transmission-web"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -367,12 +581,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Android remote GUI for transmission-daemon",
+                    "homepage": null,
                     "id": 80310808,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2026-08-19T20:44:11Z",
+                    "open_issues": 39,
                     "owner": "equeim",
                     "repo": "tremotesf-android",
-                    "stars": 323
+                    "stars": 323,
+                    "topics": [
+                      "android",
+                      "kotlin",
+                      "torrent",
+                      "transmission"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -397,12 +621,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NOVA opeN sOurce Video plAyer: main repository to build them all",
+                    "homepage": null,
                     "id": 133509731,
                     "language": "HTML",
-                    "last_commit": "2026-08-26T20:08:20Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T18:24:35Z",
+                    "open_issues": 945,
                     "owner": "nova-video-player",
                     "repo": "aos-AVP",
-                    "stars": 4635
+                    "stars": 4635,
+                    "topics": [
+                      "android",
+                      "archos",
+                      "nova",
+                      "open-source",
+                      "player",
+                      "video"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -413,12 +649,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat",
+                    "homepage": null,
                     "id": 56722299,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T17:04:18Z",
+                    "open_issues": 165,
                     "owner": "mpv-android",
                     "repo": "mpv-android",
-                    "stars": 3496
+                    "stars": 3496,
+                    "topics": [
+                      "android-app",
+                      "audio",
+                      "mpv",
+                      "multimedia",
+                      "video",
+                      "video-player"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -429,12 +677,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt",
+                    "homepage": "https://mpvex.vercel.app",
                     "id": 1088320038,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-03-21T09:11:03Z",
+                    "open_issues": 251,
                     "owner": "marlboro-advance",
                     "repo": "mpvEx",
-                    "stars": 2463
+                    "stars": 2463,
+                    "topics": [
+                      "android",
+                      "ffmpeg",
+                      "jetpack-compose",
+                      "jni-android",
+                      "kotlin",
+                      "material-design",
+                      "mediainfo",
+                      "mpv",
+                      "videoplayer"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -445,12 +708,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Kore is a simple and easy-to-use Kodi remote.",
+                    "homepage": null,
                     "id": 29241103,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-11-11T19:16:11Z",
+                    "open_issues": 131,
                     "owner": "xbmc",
                     "repo": "Kore",
-                    "stars": 722
+                    "stars": 722,
+                    "topics": [
+                      "android",
+                      "hacktoberfest",
+                      "kodi",
+                      "kore"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -468,12 +741,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Best Material You Design music player for Android",
+                    "homepage": "https://retromusic.app",
                     "id": 142573775,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-19T12:57:04Z",
+                    "open_issues": 367,
                     "owner": "RetroMusicPlayer",
                     "repo": "RetroMusicPlayer",
-                    "stars": 5277
+                    "stars": 5278,
+                    "topics": [
+                      "android",
+                      "android-music-player",
+                      "gssoc22",
+                      "hacktoberfest",
+                      "koin-android",
+                      "material-design",
+                      "material-you",
+                      "music",
+                      "music-player",
+                      "mvvm-architecture"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -484,12 +773,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Music Player Daemon",
+                    "homepage": "https://www.musicpd.org/",
                     "id": 3459673,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-27T09:28:40Z",
+                    "open_issues": 168,
                     "owner": "MusicPlayerDaemon",
                     "repo": "MPD",
-                    "stars": 2756
+                    "stars": 2758,
+                    "topics": [
+                      "audio",
+                      "audio-player",
+                      "music"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -500,12 +798,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Vanilla Music Player for Android",
+                    "homepage": null,
                     "id": 5914996,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-07-15T07:14:55Z",
+                    "open_issues": 274,
                     "owner": "vanilla-music",
                     "repo": "vanilla",
-                    "stars": 1349
+                    "stars": 1349,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -516,12 +819,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Android app for Noice.",
+                    "homepage": "https://trynoice.com",
                     "id": 188790937,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-08-04T11:28:42Z",
+                    "open_issues": 39,
                     "owner": "trynoice",
                     "repo": "android-app",
-                    "stars": 1030
+                    "stars": 1030,
+                    "topics": [
+                      "ambience",
+                      "android",
+                      "androidx",
+                      "background-noise",
+                      "chromecast",
+                      "focus",
+                      "hacktoberfest",
+                      "kotlin",
+                      "material",
+                      "noice",
+                      "noise",
+                      "noisli",
+                      "open-source",
+                      "productivity"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -532,12 +855,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A material designed music player for Android",
+                    "homepage": null,
                     "id": 115534318,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-08-18T15:36:11Z",
+                    "open_issues": 247,
                     "owner": "VinylMusicPlayer",
                     "repo": "VinylMusicPlayer",
-                    "stars": 991
+                    "stars": 991,
+                    "topics": [
+                      "android",
+                      "f-droid",
+                      "java",
+                      "material",
+                      "music",
+                      "player",
+                      "vinyl"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -548,12 +884,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Yet another independent fork of kabouzeid/Phonograph -- a  revived classic material designed music player for Android",
+                    "homepage": null,
                     "id": 408710882,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-28T14:05:06Z",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-28T22:44:07Z",
+                    "open_issues": 112,
                     "owner": "chr56",
                     "repo": "Phonograph_Plus",
-                    "stars": 723
+                    "stars": 723,
+                    "topics": [
+                      "android",
+                      "kotlin",
+                      "kotlin-android",
+                      "material-design",
+                      "music",
+                      "music-player"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -564,12 +912,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 425623981,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-16T16:18:24Z",
+                    "open_issues": 20,
                     "owner": "CliffracerMerchant",
                     "repo": "SoundAura",
-                    "stars": 88
+                    "stars": 88,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -587,12 +940,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "YAACC - UPNP Client and Server",
+                    "homepage": null,
                     "id": 156070344,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T20:16:09Z",
+                    "open_issues": 2,
                     "owner": "tobexyz",
                     "repo": "yaacc-code",
-                    "stars": 177
+                    "stars": 177,
+                    "topics": [
+                      "android-app",
+                      "dlna",
+                      "dlna-mediarenderer",
+                      "dlna-player",
+                      "dlna-server",
+                      "dlna-upnp",
+                      "upnp",
+                      "upnp-av",
+                      "upnp-content-directory",
+                      "upnp-renderer"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -610,12 +979,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
+                    "homepage": "https://kazumi.app",
                     "id": 798049841,
                     "language": "Dart",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-28T04:00:56Z",
+                    "open_issues": 494,
                     "owner": "Predidit",
                     "repo": "Kazumi",
-                    "stars": 29326
+                    "stars": 29329,
+                    "topics": [
+                      "android",
+                      "cross-platform",
+                      "danmaku",
+                      "flutter",
+                      "ios",
+                      "linux-desktop",
+                      "macos",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -626,12 +1009,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform",
+                    "homepage": "https://animeko.org",
                     "id": 519845229,
                     "language": "Kotlin",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-28T11:13:33Z",
+                    "open_issues": 525,
                     "owner": "open-ani",
                     "repo": "animeko",
-                    "stars": 19815
+                    "stars": 19818,
+                    "topics": [
+                      "android",
+                      "ani",
+                      "anime",
+                      "bangumi",
+                      "bittorrent",
+                      "bt",
+                      "compose",
+                      "compose-multiplatform",
+                      "danmaku",
+                      "ios",
+                      "jetpack-compose",
+                      "kotlin",
+                      "kotlin-multiplatform",
+                      "linux",
+                      "macos",
+                      "player",
+                      "torrent",
+                      "video",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -642,12 +1050,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。追番看番必备软件。",
+                    "homepage": "https://anich.emmmm.eu.org",
                     "id": 847243220,
                     "language": "Dart",
+                    "license": null,
                     "last_commit": "2026-08-24T13:24:04Z",
+                    "open_issues": 85,
                     "owner": "Sle2p",
                     "repo": "AniCh",
-                    "stars": 6098
+                    "stars": 6107,
+                    "topics": [
+                      "acg",
+                      "anime",
+                      "anime-chan",
+                      "anime-channel",
+                      "anime4k",
+                      "bangumi",
+                      "danmaku"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -665,12 +1086,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.",
+                    "homepage": "https://invent.kde.org/graphics/krita",
                     "id": 43975673,
                     "language": "C++",
-                    "last_commit": "2026-08-28T12:57:23Z",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-29T03:27:34Z",
+                    "open_issues": 0,
                     "owner": "KDE",
                     "repo": "krita",
-                    "stars": 10274
+                    "stars": 10278,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -681,12 +1107,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The standard image manipulation app for Catroid.",
+                    "homepage": null,
                     "id": 5192255,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2026-08-28T10:56:48Z",
+                    "open_issues": 61,
                     "owner": "Catrobat",
                     "repo": "Paintroid",
-                    "stars": 497
+                    "stars": 497,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -697,12 +1128,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://pixapencil.com/",
                     "id": 419545692,
                     "language": "Dart",
+                    "license": null,
                     "last_commit": "2024-11-29T09:34:26Z",
+                    "open_issues": 12,
                     "owner": "tomdoeslinux",
                     "repo": "PixaPencil",
-                    "stars": 197
+                    "stars": 197,
+                    "topics": [
+                      "android",
+                      "android-app",
+                      "androidstudio",
+                      "art",
+                      "canvas",
+                      "drawing",
+                      "editor",
+                      "graphics",
+                      "image-manipulation",
+                      "kotlin",
+                      "pixel-art",
+                      "pixel-art-editor",
+                      "pixel-editor",
+                      "sprites"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -720,12 +1171,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Android Camera that uses Enhanced image processing",
+                    "homepage": null,
                     "id": 207030659,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-26T19:07:29Z",
+                    "open_issues": 68,
                     "owner": "eszdman",
                     "repo": "PhotonCamera",
-                    "stars": 1093
+                    "stars": 1093,
+                    "topics": [
+                      "android",
+                      "android-camera",
+                      "camera2-api",
+                      "computational-photography",
+                      "computer-vision",
+                      "gpu-acceleration",
+                      "image-processing",
+                      "photography"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -736,12 +1201,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "App faking only the absolute necessary Apis to use Gcam without Play Services",
+                    "homepage": null,
                     "id": 258847272,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T05:22:47Z",
+                    "open_issues": 14,
                     "owner": "lukaspieper",
                     "repo": "Gcam-Services-Provider",
-                    "stars": 1074
+                    "stars": 1076,
+                    "topics": [
+                      "android",
+                      "gcam",
+                      "google-camera"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -752,12 +1226,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "FreeDcam is a CameraApp for Android >4.0(ics) wich try to enable stuff that is forgotten by the manufacturs",
+                    "homepage": null,
                     "id": 104703180,
                     "language": "C",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-07-08T16:59:18Z",
+                    "open_issues": 74,
                     "owner": "KillerInk",
                     "repo": "FreeDcam",
-                    "stars": 368
+                    "stars": 368,
+                    "topics": [
+                      "android-app",
+                      "camera",
+                      "camera1-api",
+                      "camera2api",
+                      "dng",
+                      "hdr10video"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -768,12 +1254,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 544998745,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2026-08-22T18:30:44Z",
+                    "open_issues": 0,
                     "owner": "LineageOS",
                     "repo": "android_packages_apps_Aperture",
-                    "stars": 114
+                    "stars": 114,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -791,12 +1282,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Aves is a gallery and metadata explorer app, built for Android with Flutter.",
+                    "homepage": null,
                     "id": 200468551,
                     "language": "Dart",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-08T22:56:02Z",
+                    "open_issues": 179,
                     "owner": "deckerst",
                     "repo": "aves",
-                    "stars": 5151
+                    "stars": 5152,
+                    "topics": [
+                      "android",
+                      "exif",
+                      "flutter",
+                      "gallery",
+                      "geotiff",
+                      "gpx",
+                      "metadata",
+                      "metadata-explorer",
+                      "motion-photos",
+                      "mpf",
+                      "slow-motion",
+                      "svg",
+                      "tiff",
+                      "topojson",
+                      "xmp"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -821,12 +1333,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
+                    "homepage": "https://organicmaps.app",
                     "id": 324829379,
                     "language": "C++",
-                    "last_commit": "2026-08-28T14:45:33Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-28T22:17:12Z",
+                    "open_issues": 3475,
                     "owner": "organicmaps",
                     "repo": "organicmaps",
-                    "stars": 15233
+                    "stars": 15239,
+                    "topics": [
+                      "android",
+                      "app",
+                      "cpp",
+                      "cyclists",
+                      "hacktoberfest",
+                      "hikers",
+                      "ios",
+                      "java",
+                      "maps",
+                      "mobile",
+                      "mobile-app",
+                      "navigation",
+                      "objective-c",
+                      "offline",
+                      "offline-maps",
+                      "openstreetmap",
+                      "privacy",
+                      "routing",
+                      "tourists",
+                      "travelers"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -837,12 +1375,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OsmAnd",
+                    "homepage": "https://osmand.net",
                     "id": 1258570,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T17:08:00Z",
+                    "open_issues": 3457,
                     "owner": "osmandapp",
                     "repo": "OsmAnd",
-                    "stars": 5934
+                    "stars": 5936,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -853,12 +1396,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":satellite: Lightweight GPS Logging Application For Android. ",
+                    "homepage": "https://gpslogger.app",
                     "id": 1925457,
                     "language": "Java",
-                    "last_commit": "2026-08-14T08:21:46Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-28T19:51:27Z",
+                    "open_issues": 201,
                     "owner": "mendhak",
                     "repo": "gpslogger",
-                    "stars": 2596
+                    "stars": 2595,
+                    "topics": [
+                      "android",
+                      "android-sdk",
+                      "dropbox",
+                      "gps",
+                      "gpslogger",
+                      "intellij",
+                      "java",
+                      "logging",
+                      "satellite"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -876,12 +1434,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A feature-rich weather app with good visualizations and more than 50 sources.",
+                    "homepage": null,
                     "id": 482265185,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-27T03:30:34Z",
+                    "license": "LGPL-3.0",
+                    "last_commit": "2026-08-29T00:59:15Z",
+                    "open_issues": 121,
                     "owner": "breezy-weather",
                     "repo": "breezy-weather",
-                    "stars": 11223
+                    "stars": 11229,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -892,12 +1455,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Material Design Weather Application",
+                    "homepage": null,
                     "id": 52190928,
                     "language": "Java",
+                    "license": "LGPL-3.0",
                     "last_commit": "2026-08-28T11:22:46Z",
+                    "open_issues": 298,
                     "owner": "WangDaYeeeeee",
                     "repo": "GeometricWeather",
-                    "stars": 2521
+                    "stars": 2522,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -908,12 +1476,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Pluvia 🌦️ | A weather app with beautiful animations, built with Flutter.",
+                    "homepage": null,
                     "id": 297049531,
                     "language": "Dart",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-08-19T23:44:41Z",
+                    "open_issues": 22,
                     "owner": "SpicyChair",
                     "repo": "pluvia_weather_flutter",
-                    "stars": 162
+                    "stars": 162,
+                    "topics": [
+                      "android",
+                      "flutter",
+                      "mapbox-api",
+                      "openweathermap",
+                      "weather"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -931,12 +1510,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits",
+                    "homepage": null,
                     "id": 26357991,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-21T12:59:15Z",
+                    "open_issues": 50,
                     "owner": "iSoron",
                     "repo": "uhabits",
-                    "stars": 10175
+                    "stars": 10176,
+                    "topics": [
+                      "android",
+                      "habit-tracker",
+                      "habits",
+                      "java",
+                      "kotlin",
+                      "streak"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -947,12 +1538,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bringing Astrid Tasks back from the dead",
+                    "homepage": "http://tasks.org",
                     "id": 11512043,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-26T14:45:50Z",
+                    "open_issues": 1181,
                     "owner": "tasks",
                     "repo": "tasks",
-                    "stars": 5517
+                    "stars": 5517,
+                    "topics": [
+                      "android",
+                      "compose-multiplatform",
+                      "productivity"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -963,12 +1563,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "💸 An app created to help users manage a budget and purchases",
+                    "homepage": "https://cashewapp.web.app/",
                     "id": 406570392,
                     "language": "Dart",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-03-09T01:35:16Z",
+                    "open_issues": 8,
                     "owner": "jameskokoska",
                     "repo": "Cashew",
-                    "stars": 4578
+                    "stars": 4578,
+                    "topics": [
+                      "android",
+                      "budget-app",
+                      "budgeting",
+                      "finance",
+                      "flutter",
+                      "ios",
+                      "sql",
+                      "ui-design",
+                      "webapp"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -979,12 +1594,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GPL licenced Android Expense Tracking App",
+                    "homepage": "http://www.myexpenses.mobi/",
                     "id": 3582763,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-28T15:03:20Z",
+                    "open_issues": 467,
                     "owner": "mtotschnig",
                     "repo": "MyExpenses",
-                    "stars": 1172
+                    "stars": 1172,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -995,12 +1615,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Kotlin Android app to manage medications",
+                    "homepage": null,
                     "id": 382485239,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-02T21:01:56Z",
+                    "open_issues": 46,
                     "owner": "CorruptedArk",
                     "repo": "did-i-take-my-meds",
-                    "stars": 205
+                    "stars": 205,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1011,12 +1636,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Приложение предоставляет простой и удобный способ добавления и хранения данных о принимаемых лекарствах.",
+                    "homepage": null,
                     "id": 720701886,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-27T06:49:26Z",
+                    "open_issues": 17,
                     "owner": "pewaru-333",
                     "repo": "HomeMedkit-App",
-                    "stars": 126
+                    "stars": 126,
+                    "topics": [
+                      "android",
+                      "app",
+                      "jetpack-compose",
+                      "medication-reminder",
+                      "medicine",
+                      "notifications",
+                      "reminders"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -1034,12 +1672,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.",
+                    "homepage": "https://kylecorry.com/Trail-Sense/",
                     "id": 215154276,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-28T16:48:42Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T00:11:33Z",
+                    "open_issues": 308,
                     "owner": "kylecorry31",
                     "repo": "Trail-Sense",
-                    "stars": 2834
+                    "stars": 2834,
+                    "topics": [
+                      "altimeter",
+                      "android",
+                      "astronomy",
+                      "backpacking",
+                      "barometer",
+                      "camping",
+                      "compass",
+                      "gps",
+                      "hiking",
+                      "kotlin",
+                      "map",
+                      "maps",
+                      "navigation",
+                      "offline",
+                      "privacy",
+                      "sensors",
+                      "survival",
+                      "weather",
+                      "weather-forecasting",
+                      "wilderness"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1050,12 +1714,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple and clean compass for Android",
+                    "homepage": null,
                     "id": 182394441,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-04T18:56:03Z",
+                    "open_issues": 18,
                     "owner": "Kr0oked",
                     "repo": "Compass",
-                    "stars": 665
+                    "stars": 665,
+                    "topics": [
+                      "android",
+                      "compass",
+                      "fdroid"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1066,12 +1739,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A fork of audio-analyzer-for-android in Google code, with a lot of enhancement.",
+                    "homepage": null,
                     "id": 492278713,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-03-22T07:10:06Z",
+                    "open_issues": 4,
                     "owner": "woheller69",
                     "repo": "audio-analyzer-for-android",
-                    "stars": 396
+                    "stars": 396,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1082,12 +1760,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 735091879,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2024-07-13T06:22:07Z",
+                    "open_issues": 5,
                     "owner": "mobeil1",
                     "repo": "GuessIron",
-                    "stars": 83
+                    "stars": 83,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1098,12 +1781,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Privacy Friendly App for measuring objects.",
+                    "homepage": "https://secuso.org/pfa",
                     "id": 63898356,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-29T10:55:46Z",
+                    "open_issues": 22,
                     "owner": "SecUSo",
                     "repo": "privacy-friendly-tape-measure",
-                    "stars": 54
+                    "stars": 54,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -1128,12 +1816,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.",
+                    "homepage": "https://collaboraonline.com",
                     "id": 300155217,
                     "language": "Shell",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T05:00:10Z",
+                    "open_issues": 935,
                     "owner": "CollaboraOnline",
                     "repo": "online",
-                    "stars": 3330
+                    "stars": 3330,
+                    "topics": [
+                      "android",
+                      "cpp",
+                      "documents",
+                      "enterprise",
+                      "free-software",
+                      "hacktoberfest",
+                      "ios",
+                      "javascript",
+                      "libreoffice",
+                      "office",
+                      "open-source",
+                      "opensource",
+                      "productivity"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -1151,12 +1858,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+                    "homepage": "https://joplinapp.org",
                     "id": 79162682,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-28T17:52:58Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-28T21:56:20Z",
+                    "open_issues": 621,
                     "owner": "laurent22",
                     "repo": "joplin",
-                    "stars": 56135
+                    "stars": 56144,
+                    "topics": [
+                      "android",
+                      "dropbox",
+                      "electron",
+                      "enex-files",
+                      "evernote",
+                      "javascript",
+                      "joplin",
+                      "nextcloud",
+                      "nodejs",
+                      "note-taking",
+                      "notesnook",
+                      "obsidian",
+                      "onedrive",
+                      "react-native",
+                      "standardnotes",
+                      "synchronisation",
+                      "web-clipper",
+                      "webdav"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1167,12 +1898,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..",
+                    "homepage": "https://github.com/gsantner/markor/discussions/2269",
                     "id": 101451042,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-25T04:20:27Z",
+                    "open_issues": 187,
                     "owner": "gsantner",
                     "repo": "markor",
-                    "stars": 6040
+                    "stars": 6041,
+                    "topics": [
+                      "android-app",
+                      "asciidoc",
+                      "class",
+                      "clipboard",
+                      "editor",
+                      "education",
+                      "hacktoberfest",
+                      "markdown",
+                      "markdown-editor",
+                      "org-mode",
+                      "orgmode",
+                      "plaintext",
+                      "school",
+                      "syncthing",
+                      "task-list",
+                      "todo",
+                      "todolist",
+                      "todotxt",
+                      "university",
+                      "zim-wiki"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1183,12 +1940,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The cross-platform open-source app built for handwriting",
+                    "homepage": "https://saber.adil.hanney.org",
                     "id": 516598834,
                     "language": "Dart",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-27T01:47:46Z",
+                    "open_issues": 396,
                     "owner": "saber-notes",
                     "repo": "saber",
-                    "stars": 4736
+                    "stars": 4737,
+                    "topics": [
+                      "android",
+                      "cross-platform",
+                      "dart",
+                      "f-droid",
+                      "flatpak",
+                      "flutter",
+                      "handwritten-notes",
+                      "ios",
+                      "linux",
+                      "macos",
+                      "notes",
+                      "notes-app",
+                      "saber",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1199,12 +1976,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A beautiful notes app",
+                    "homepage": null,
                     "id": 262751629,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-21T08:00:59Z",
+                    "open_issues": 12,
                     "owner": "OmGodse",
                     "repo": "Notally",
-                    "stars": 2163
+                    "stars": 2163,
+                    "topics": [
+                      "android",
+                      "kotlin",
+                      "material-design",
+                      "minimalism",
+                      "notes"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -1222,12 +2010,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+                    "homepage": "http://koreader.rocks/",
                     "id": 8986217,
                     "language": "Lua",
-                    "last_commit": "2026-08-28T16:47:00Z",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2026-08-29T00:23:31Z",
+                    "open_issues": 1326,
                     "owner": "koreader",
                     "repo": "koreader",
-                    "stars": 29324
+                    "stars": 29334,
+                    "topics": [
+                      "cbz",
+                      "djvu",
+                      "djvu-reflow",
+                      "ebook",
+                      "ebook-reader",
+                      "eink",
+                      "epub",
+                      "ereader",
+                      "fb2",
+                      "kindle",
+                      "kobo",
+                      "luajit",
+                      "opds",
+                      "pdf",
+                      "pdf-reflow",
+                      "pocketbook",
+                      "reader",
+                      "reflow",
+                      "remarkable-tablet",
+                      "ubuntu-touch"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1238,12 +2052,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.",
+                    "homepage": "https://readest.com",
                     "id": 871781831,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-28T17:08:08Z",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2026-08-28T19:39:03Z",
+                    "open_issues": 101,
                     "owner": "readest",
                     "repo": "readest",
-                    "stars": 23835
+                    "stars": 23844,
+                    "topics": [
+                      "calibre",
+                      "cross-platform",
+                      "ebook",
+                      "ebook-reader",
+                      "epub",
+                      "foliate",
+                      "kindle",
+                      "koreader",
+                      "koreader-plugin",
+                      "mobi",
+                      "nextjs",
+                      "opds",
+                      "pdf",
+                      "reader",
+                      "sync",
+                      "tauri",
+                      "tts",
+                      "webdav"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1254,12 +2092,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Book Reader for Android",
+                    "homepage": "http://librera.mobi",
                     "id": 88200328,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-25T21:09:30Z",
+                    "open_issues": 544,
                     "owner": "foobnix",
                     "repo": "LibreraReader",
-                    "stars": 4742
+                    "stars": 4745,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1270,12 +2113,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "It's Android's first OpenOffice Document Reader!",
+                    "homepage": "https://opendocument.app/",
                     "id": 1005396,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-27T19:45:45Z",
+                    "license": "MPL-2.0",
+                    "last_commit": "2026-08-28T21:43:33Z",
+                    "open_issues": 46,
                     "owner": "opendocument-app",
                     "repo": "OpenDocument.droid",
-                    "stars": 432
+                    "stars": 432,
+                    "topics": [
+                      "android",
+                      "f-droid",
+                      "fdroid",
+                      "kotlin"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1286,12 +2139,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A simple Pdf document viewer 💼",
+                    "homepage": null,
                     "id": 122583250,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2023-07-23T03:07:53Z",
+                    "open_issues": 59,
                     "owner": "chxp82q",
                     "repo": "PdfViewer",
-                    "stars": 401
+                    "stars": 401,
+                    "topics": [
+                      "android",
+                      "pdf-viewer"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -1309,12 +2170,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Document scanning app ",
+                    "homepage": "https://ossdocumentscanner.akylas.fr/",
                     "id": 283503342,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T06:20:48Z",
+                    "open_issues": 87,
                     "owner": "ossappscollective",
                     "repo": "OSS-DocumentScanner",
-                    "stars": 2388
+                    "stars": 2388,
+                    "topics": [
+                      "android",
+                      "document",
+                      "document-scan",
+                      "document-scan-to-text",
+                      "document-scanner",
+                      "document-scanner-app",
+                      "document-scanning",
+                      "image-processing",
+                      "opencv",
+                      "pdf",
+                      "scanner",
+                      "tesseract",
+                      "zxingcpp"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1325,12 +2205,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Document Scanner that protects your privacy",
+                    "homepage": null,
                     "id": 274846430,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-27T18:06:11Z",
+                    "open_issues": 41,
                     "owner": "ethereal-developers",
                     "repo": "OpenScan",
-                    "stars": 1804
+                    "stars": 1804,
+                    "topics": [
+                      "android-app",
+                      "document",
+                      "open-source",
+                      "privacy",
+                      "scanner-app"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1341,12 +2232,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Android app to scan your documents — simple and respectful",
+                    "homepage": "https://fairscan.org",
                     "id": 957470692,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-21T08:01:35Z",
+                    "open_issues": 38,
                     "owner": "pynicolas",
                     "repo": "FairScan",
-                    "stars": 825
+                    "stars": 827,
+                    "topics": [
+                      "android",
+                      "android-app",
+                      "document-scanner",
+                      "image-processing",
+                      "opencv",
+                      "pdf",
+                      "privacy",
+                      "segmentation",
+                      "tflite"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -1364,12 +2270,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
+                    "homepage": null,
                     "id": 7716883,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-28T13:47:43Z",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-29T00:27:33Z",
+                    "open_issues": 383,
                     "owner": "ankidroid",
                     "repo": "Anki-Android",
-                    "stars": 11633
+                    "stars": 11634,
+                    "topics": [
+                      "android",
+                      "anki",
+                      "ankidroid",
+                      "education",
+                      "flashcards",
+                      "kotlin",
+                      "learning",
+                      "srs"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -1387,12 +2307,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Privacy focused translator app built with MD3",
+                    "homepage": "https://you-apps.net",
                     "id": 535721285,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-04T19:26:59Z",
+                    "open_issues": 24,
                     "owner": "you-apps",
                     "repo": "TranslateYou",
-                    "stars": 1527
+                    "stars": 1527,
+                    "topics": [
+                      "android",
+                      "kotlin",
+                      "translate"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1403,12 +2332,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Aard2 for Android, a simple dictionary app",
+                    "homepage": null,
                     "id": 22037073,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-07-16T20:42:22Z",
+                    "open_issues": 46,
                     "owner": "itkach",
                     "repo": "aard2-android",
-                    "stars": 554
+                    "stars": 554,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1419,12 +2353,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial Android App for DeepL Translator",
+                    "homepage": null,
                     "id": 285034871,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2026-07-12T11:29:41Z",
+                    "open_issues": 11,
                     "owner": "sakusaku3939",
                     "repo": "DeepLAndroid",
-                    "stars": 505
+                    "stars": 506,
+                    "topics": [
+                      "android",
+                      "deepl",
+                      "kotlin"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1435,12 +2378,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "\"QuickDic\" offline Dictionary App for Android. Provided downloadable dictionaries are based on Wiktionaries but can also be created from other sources (see DictionaryPC). Remember to use --recursive when cloning! Fork of project that used to be hosted at code.google.com/p/quickdic-dictionary.",
+                    "homepage": null,
                     "id": 41056562,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T07:15:28Z",
+                    "open_issues": 59,
                     "owner": "rdoeffinger",
                     "repo": "Dictionary",
-                    "stars": 404
+                    "stars": 404,
+                    "topics": [
+                      "android-app",
+                      "dictionary"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -1458,12 +2409,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "microMathematics Plus - Extended visual calculator",
+                    "homepage": null,
                     "id": 98754395,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-02-27T21:31:25Z",
+                    "open_issues": 8,
                     "owner": "mkulesh",
                     "repo": "microMathematics",
-                    "stars": 668
+                    "stars": 668,
+                    "topics": [
+                      "android",
+                      "calculator",
+                      "computer-algebra-system",
+                      "mathematical-calculations",
+                      "mathematical-expressions",
+                      "plotting"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -1481,12 +2444,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " 📱The official Wikipedia app for Android!",
+                    "homepage": "https://www.mediawiki.org/wiki/Wikimedia_Apps/Team/Android/App_hacking",
                     "id": 13862999,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-28T17:39:21Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T00:13:25Z",
+                    "open_issues": 40,
                     "owner": "wikimedia",
                     "repo": "apps-android-wikipedia",
-                    "stars": 3010
+                    "stars": 3011,
+                    "topics": [
+                      "android",
+                      "android-app",
+                      "coroutines",
+                      "java",
+                      "kotlin",
+                      "mediawiki",
+                      "mediawiki-api",
+                      "rest-api",
+                      "viewmodel",
+                      "wiki",
+                      "wikipedia",
+                      "wikipedia-android"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1497,12 +2478,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Kiwix for Android",
+                    "homepage": "https://android.kiwix.org",
                     "id": 79377628,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-27T12:14:08Z",
+                    "open_issues": 109,
                     "owner": "kiwix",
                     "repo": "kiwix-android",
-                    "stars": 1455
+                    "stars": 1456,
+                    "topics": [
+                      "android",
+                      "kiwix",
+                      "kotlin",
+                      "offline",
+                      "wikipedia",
+                      "zim"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -1520,12 +2513,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows, macOS and Haiku. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.",
+                    "homepage": "https://stellarium.org",
                     "id": 18719856,
                     "language": "C++",
-                    "last_commit": "2026-08-28T17:25:50Z",
+                    "license": "GPL-2.0",
+                    "last_commit": "2026-08-28T21:52:35Z",
+                    "open_issues": 420,
                     "owner": "Stellarium",
                     "repo": "stellarium",
-                    "stars": 9905
+                    "stars": 9905,
+                    "topics": [
+                      "astronomy",
+                      "c",
+                      "c-plus-plus",
+                      "planetarium",
+                      "qt5",
+                      "qt6",
+                      "science",
+                      "sky",
+                      "stars",
+                      "stellarium",
+                      "universe"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1536,12 +2546,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sky Map (formerly Google Sky Map, open sourced in 2012)",
+                    "homepage": "https://play.google.com/store/apps/details?id=com.google.android.stardroid&hl=en",
                     "id": 37151000,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-24T01:03:11Z",
+                    "open_issues": 120,
                     "owner": "sky-map-team",
                     "repo": "stardroid",
-                    "stars": 1805
+                    "stars": 1805,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -1559,12 +2574,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple, lightweight unit converter for Android",
+                    "homepage": null,
                     "id": 20577134,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-08-07T23:25:38Z",
+                    "open_issues": 89,
                     "owner": "physphil",
                     "repo": "UnitConverterUltimate",
-                    "stars": 233
+                    "stars": 233,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -1589,12 +2609,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fcitx5 input method framework and engines ported to Android",
+                    "homepage": "https://fcitx5-android.github.io/",
                     "id": 375715108,
                     "language": "Kotlin",
+                    "license": "LGPL-2.1",
                     "last_commit": "2026-08-25T21:53:23Z",
+                    "open_issues": 102,
                     "owner": "fcitx5-android",
                     "repo": "fcitx5-android",
-                    "stars": 5590
+                    "stars": 5593,
+                    "topics": [
+                      "android",
+                      "android-ime",
+                      "android-keyboard",
+                      "fcitx",
+                      "fcitx5",
+                      "ime",
+                      "input-method",
+                      "keyboard"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1605,12 +2639,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android",
+                    "homepage": "http://osfans.github.io/trime/",
                     "id": 36422720,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-28T10:29:24Z",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-29T03:47:04Z",
+                    "open_issues": 111,
                     "owner": "osfans",
                     "repo": "trime",
-                    "stars": 4603
+                    "stars": 4603,
+                    "topics": [
+                      "android",
+                      "chinese",
+                      "ime",
+                      "jni",
+                      "opencc",
+                      "rime"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1621,12 +2667,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A lightweight keyboard for Android",
+                    "homepage": null,
                     "id": 40026499,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-27T08:51:34Z",
+                    "open_issues": 298,
                     "owner": "Julow",
                     "repo": "Unexpected-Keyboard",
-                    "stars": 3213
+                    "stars": 3214,
+                    "topics": [
+                      "android",
+                      "keyboard",
+                      "lightweight"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1637,12 +2692,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Android Chinese keyboard: Stroke Input Method (筆畫輸入法)",
+                    "homepage": null,
                     "id": 380135012,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-26T13:33:39Z",
+                    "open_issues": 5,
                     "owner": "stroke-input",
                     "repo": "stroke-input-android",
-                    "stars": 113
+                    "stars": 113,
+                    "topics": [
+                      "android",
+                      "android-keyboard",
+                      "chinese-characters",
+                      "stroke-input-method",
+                      "stroke-order"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -1660,12 +2726,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Material Design file manager for Android",
+                    "homepage": "https://play.google.com/store/apps/details?id=me.zhanghai.android.files",
                     "id": 135088590,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-04-06T02:43:10Z",
+                    "open_issues": 627,
                     "owner": "zhanghai",
                     "repo": "MaterialFiles",
-                    "stars": 8821
+                    "stars": 8822,
+                    "topics": [
+                      "android",
+                      "android-application",
+                      "file-manager",
+                      "kotlin",
+                      "kotlin-android",
+                      "material-design"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1676,12 +2754,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CIFS Documents Provider",
+                    "homepage": null,
                     "id": 309159444,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2025-05-11T16:11:59Z",
+                    "open_issues": 56,
                     "owner": "wa2c",
                     "repo": "cifs-documents-provider",
-                    "stars": 519
+                    "stars": 519,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1692,12 +2775,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automatically exported from code.google.com/p/diskusage",
+                    "homepage": null,
                     "id": 477248173,
                     "language": "Java",
+                    "license": "GPL-2.0",
                     "last_commit": "2024-12-30T04:45:12Z",
+                    "open_issues": 0,
                     "owner": "WhiredPlanck",
                     "repo": "diskusage",
-                    "stars": 96
+                    "stars": 96,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -1715,12 +2803,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Syncthing-Fork - A Syncthing Wrapper for Android.",
+                    "homepage": null,
                     "id": 1085822531,
                     "language": "Java",
+                    "license": "MPL-2.0",
                     "last_commit": "2026-08-27T15:18:32Z",
+                    "open_issues": 12,
                     "owner": "researchxxl",
                     "repo": "syncthing-android",
-                    "stars": 2697
+                    "stars": 2700,
+                    "topics": [
+                      "file-synchronization"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1731,12 +2826,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Android client for Seafile",
+                    "homepage": null,
                     "id": 6900541,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T03:41:27Z",
+                    "open_issues": 39,
                     "owner": "haiwen",
                     "repo": "seadroid",
-                    "stars": 628
+                    "stars": 628,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -1754,12 +2854,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Hide your private files and apps with a single click.",
+                    "homepage": "https://deltazefiro.github.io/Amarok-doc/en-US/",
                     "id": 453905754,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-11T08:11:11Z",
+                    "open_issues": 61,
                     "owner": "deltazefiro",
                     "repo": "Amarok-Hider",
-                    "stars": 3218
+                    "stars": 3219,
+                    "topics": [
+                      "android",
+                      "android-application",
+                      "file-hider",
+                      "hider",
+                      "privacy-protection"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1770,12 +2881,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Private photo vault for Android",
+                    "homepage": null,
                     "id": 287088448,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-28T15:12:53Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T19:23:37Z",
+                    "open_issues": 66,
                     "owner": "leonlatsch",
                     "repo": "Photok",
-                    "stars": 952
+                    "stars": 952,
+                    "topics": [
+                      "android",
+                      "android-app",
+                      "app",
+                      "encryption",
+                      "image",
+                      "kotlin",
+                      "photos",
+                      "safe",
+                      "security"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1786,12 +2912,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Local private storage for Android",
+                    "homepage": null,
                     "id": 362477722,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-06-01T20:29:05Z",
+                    "open_issues": 17,
                     "owner": "2bllw8",
                     "repo": "anemo",
-                    "stars": 320
+                    "stars": 320,
+                    "topics": [
+                      "android-app",
+                      "java",
+                      "storage"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -1809,12 +2944,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open-source cross-platform alternative to AirDrop",
+                    "homepage": "https://localsend.org",
                     "id": 578822531,
                     "language": "Dart",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T13:00:32Z",
+                    "open_issues": 1102,
                     "owner": "localsend",
                     "repo": "localsend",
-                    "stars": 89589
+                    "stars": 89605,
+                    "topics": [
+                      "dart",
+                      "file-sharing",
+                      "flutter",
+                      "flutter-apps"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1825,12 +2970,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An android app to compress image, video and audio files through ffmpeg before sharing them",
+                    "homepage": null,
                     "id": 523795182,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-14T12:32:41Z",
+                    "open_issues": 68,
                     "owner": "caydey",
                     "repo": "ffshare",
-                    "stars": 1086
+                    "stars": 1086,
+                    "topics": [
+                      "android",
+                      "android-app",
+                      "fdroid",
+                      "ffmpeg",
+                      "ffmpeg-kit",
+                      "kotlin"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1841,12 +2998,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The magic to clean sharing links up.",
+                    "homepage": "https://tarnhelm.project.ac.cn",
                     "id": 506658223,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-13T13:24:51Z",
+                    "open_issues": 9,
                     "owner": "lz233",
                     "repo": "Tarnhelm",
-                    "stars": 787
+                    "stars": 787,
+                    "topics": [
+                      "android",
+                      "fdroid"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1857,12 +3022,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Android app that can convert open(view) files to share(send) files.",
+                    "homepage": null,
                     "id": 278876213,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-04-13T07:04:42Z",
+                    "open_issues": 4,
                     "owner": "linesoft2",
                     "repo": "open2share",
-                    "stars": 672
+                    "stars": 672,
+                    "topics": [
+                      "android"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1873,12 +3045,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "App to help you remove tracking information before sharing links",
+                    "homepage": "https://play.google.com/store/apps/details?id=me.zhanghai.android.untracker",
                     "id": 709298243,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-20T09:22:04Z",
+                    "open_issues": 7,
                     "owner": "zhanghai",
                     "repo": "Untracker",
-                    "stars": 619
+                    "stars": 619,
+                    "topics": [
+                      "android",
+                      "android-application",
+                      "compose",
+                      "jetpack-compose",
+                      "kotlin",
+                      "kotlin-android",
+                      "privacy"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1889,12 +3074,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple Android app, handle ACTION_VIEW, ACTION_SEND, ACTION_SEND_MULTIPLE, save a copy of the file. For bad apps which only allow users to open files.",
+                    "homepage": null,
                     "id": 257810049,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-10-15T08:33:16Z",
+                    "open_issues": 3,
                     "owner": "RikkaApps",
                     "repo": "SaveCopy",
-                    "stars": 255
+                    "stars": 255,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -1912,12 +3102,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🦭 Video/Audio Downloader for Android, based on yt-dlp",
+                    "homepage": null,
                     "id": 481797111,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-25T15:44:42Z",
+                    "open_issues": 711,
                     "owner": "JunkFood02",
                     "repo": "Seal",
-                    "stars": 28536
+                    "stars": 28545,
+                    "topics": [
+                      "android",
+                      "f-droid",
+                      "jetpack-compose",
+                      "kotlin",
+                      "material-design",
+                      "youtube-dl",
+                      "youtube-downloader",
+                      "yt-dlp"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1928,12 +3132,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Free and  Open Source software download manager",
+                    "homepage": null,
                     "id": 159966756,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-05-24T06:20:12Z",
+                    "open_issues": 124,
                     "owner": "TachibanaGeneralLaboratories",
                     "repo": "download-navi",
-                    "stars": 1060
+                    "stars": 1061,
+                    "topics": [
+                      "android",
+                      "download-manager",
+                      "freedom-download-manager"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -1951,12 +3164,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "backup manager for android",
+                    "homepage": null,
                     "id": 226567781,
                     "language": "Kotlin",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-05-03T20:52:30Z",
+                    "open_issues": 241,
                     "owner": "NeoApplications",
                     "repo": "Neo-Backup",
-                    "stars": 3784
+                    "stars": 3784,
+                    "topics": [
+                      "android",
+                      "backup-tool",
+                      "hacktoberfest",
+                      "kotlin",
+                      "root"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -1974,12 +3198,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A free, secure and open source app for Android to manage your 2-step verification tokens.",
+                    "homepage": "https://getaegis.app",
                     "id": 65757761,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-16T10:50:56Z",
+                    "open_issues": 117,
                     "owner": "beemdevelopment",
                     "repo": "Aegis",
-                    "stars": 12981
+                    "stars": 12984,
+                    "topics": [
+                      "2fa",
+                      "android",
+                      "authenticator",
+                      "encryption",
+                      "fingerprint",
+                      "hotp",
+                      "otp",
+                      "secure",
+                      "totp"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -1990,12 +3229,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.",
+                    "homepage": "https://www.keepassdx.com/",
                     "id": 107244490,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-26T11:14:04Z",
+                    "open_issues": 556,
                     "owner": "Kunzisoft",
                     "repo": "KeePassDX",
-                    "stars": 7187
+                    "stars": 7188,
+                    "topics": [
+                      "android",
+                      "android-application",
+                      "fingerprint",
+                      "keepass",
+                      "keepass-dx",
+                      "keepassdx",
+                      "material",
+                      "material-design",
+                      "password-manager",
+                      "vault"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2006,12 +3261,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "📱 Two-Factor Authentication (2FA) client for Android + Wear OS",
+                    "homepage": "https://stratumauth.com",
                     "id": 144771489,
                     "language": "C#",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-28T16:06:07Z",
+                    "open_issues": 80,
                     "owner": "stratumauth",
                     "repo": "app",
-                    "stars": 4554
+                    "stars": 4554,
+                    "topics": [
+                      "2fa",
+                      "android",
+                      "authenticator",
+                      "c-sharp",
+                      "hotp",
+                      "material-design",
+                      "material-you",
+                      "motp",
+                      "otp",
+                      "steam",
+                      "tfa",
+                      "totp",
+                      "two-factor-authentication",
+                      "wear-os",
+                      "wearos",
+                      "xamarin",
+                      "xamarin-android"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2022,12 +3300,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "[Unmaintained] Open source two-factor authentication for Android",
+                    "homepage": null,
                     "id": 96312832,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2022-06-14T05:44:55Z",
+                    "open_issues": 197,
                     "owner": "andOTP",
                     "repo": "andOTP",
-                    "stars": 3713
+                    "stars": 3713,
+                    "topics": [
+                      "android",
+                      "backup",
+                      "hotp",
+                      "material-design",
+                      "openpgp",
+                      "otp",
+                      "totp",
+                      "two-factor-authentication"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2038,12 +3330,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OpenKeychain is an OpenPGP implementation for Android.",
+                    "homepage": "https://www.openkeychain.org",
                     "id": 3669065,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-05-16T07:37:24Z",
+                    "open_issues": 526,
                     "owner": "open-keychain",
                     "repo": "open-keychain",
-                    "stars": 2613
+                    "stars": 2613,
+                    "topics": [
+                      "android",
+                      "openpgp"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2054,12 +3354,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Password and passkey manager application for Android, compatible with ZX2C4's Pass command line application",
+                    "homepage": null,
                     "id": 808556173,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-28T01:39:02Z",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-29T02:49:20Z",
+                    "open_issues": 30,
                     "owner": "agrahn",
                     "repo": "Android-Password-Store",
-                    "stars": 438
+                    "stars": 438,
+                    "topics": [
+                      "android",
+                      "openpgp",
+                      "passkey",
+                      "passkey-manager",
+                      "password",
+                      "password-manager",
+                      "password-store"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -2077,12 +3390,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The most beautiful SMS messenger for Android - Revived",
+                    "homepage": null,
                     "id": 667568594,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-01T21:37:37Z",
+                    "open_issues": 288,
                     "owner": "quik-sms",
                     "repo": "quik",
-                    "stars": 2715
+                    "stars": 2717,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -2100,12 +3418,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Basic Call Recorder for rooted Android devices",
+                    "homepage": null,
                     "id": 487708201,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-20T17:53:35Z",
+                    "open_issues": 13,
                     "owner": "chenxiaolong",
                     "repo": "BCR",
-                    "stars": 2882
+                    "stars": 2882,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2116,12 +3439,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "BCR-GUI is a companion app for the great BCR (Basic Call Recorder) Android application and other supported ROMs with embedded call recorders.",
+                    "homepage": "https://coolsoft.altervista.org",
                     "id": 670301888,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-10T15:29:35Z",
+                    "open_issues": 13,
                     "owner": "nicorac",
                     "repo": "bcr-gui",
-                    "stars": 351
+                    "stars": 351,
+                    "topics": [
+                      "android-app",
+                      "angular",
+                      "call-recording",
+                      "capacitor",
+                      "capacitor-android",
+                      "gui",
+                      "ionic",
+                      "ionic-capacitor"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -2139,12 +3476,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A full-featured package manager and viewer for Android",
+                    "homepage": "http://muntashir.dev/AppManager/",
                     "id": 268006778,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-26T21:22:13Z",
+                    "open_issues": 207,
                     "owner": "MuntashirAkon",
                     "repo": "AppManager",
-                    "stars": 8837
+                    "stars": 8843,
+                    "topics": [
+                      "adb",
+                      "android",
+                      "apks",
+                      "material-design",
+                      "package-manager"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2155,12 +3503,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An app to view libraries used in apps in your device.",
+                    "homepage": null,
                     "id": 248400799,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T04:19:43Z",
+                    "open_issues": 16,
                     "owner": "LibChecker",
                     "repo": "LibChecker",
-                    "stars": 7120
+                    "stars": 7121,
+                    "topics": [
+                      "android",
+                      "f-droid",
+                      "fdroid",
+                      "kotlin"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2171,12 +3529,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Launch any application activity",
+                    "homepage": null,
                     "id": 278636044,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-25T22:12:53Z",
+                    "open_issues": 14,
                     "owner": "sdex",
                     "repo": "ActivityManager",
-                    "stars": 1293
+                    "stars": 1293,
+                    "topics": [
+                      "android"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2187,12 +3552,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Language Selector let users select individual app languages (Android 13+)",
+                    "homepage": null,
                     "id": 641658205,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-12-29T19:06:19Z",
+                    "open_issues": 8,
                     "owner": "VegaBobo",
                     "repo": "Language-Selector",
-                    "stars": 764
+                    "stars": 764,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -2210,12 +3580,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Disable / Hide / Suspend / Uninstall Android apps without root.",
+                    "homepage": null,
                     "id": 395236152,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-28T07:51:33Z",
+                    "open_issues": 167,
                     "owner": "aistra0528",
                     "repo": "Hail",
-                    "stars": 6556
+                    "stars": 6560,
+                    "topics": [
+                      "android",
+                      "android-application",
+                      "debloat",
+                      "non-root",
+                      "privacy",
+                      "root",
+                      "shizuku"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -2233,12 +3616,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SD Maid 2/SE is Android's most thorough cleaning tool.",
+                    "homepage": "https://play.google.com/store/apps/details?id=eu.darken.sdmse",
                     "id": 568329126,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-27T11:55:47Z",
+                    "open_issues": 15,
                     "owner": "d4rken-org",
                     "repo": "sdmaid-se",
-                    "stars": 7388
+                    "stars": 7392,
+                    "topics": [
+                      "android",
+                      "cleaner",
+                      "cleaner-app",
+                      "filemanager",
+                      "sdmaid",
+                      "system-cleaner"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -2256,12 +3651,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Smartspacer is a customisable widget for Android, but with a difference: It can upgrade the built in At a Glance on Pixels - without root!",
+                    "homepage": null,
                     "id": 430492362,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-08T17:29:12Z",
+                    "open_issues": 4,
                     "owner": "KieronQuinn",
                     "repo": "Smartspacer",
-                    "stars": 3488
+                    "stars": 3488,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2272,12 +3672,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Iconify lets you customize your Android 12+ device easily. Change icons, colors, shapes, and even the notification panel for a personalized look that suits your style.",
+                    "homepage": "https://mahmud0808.github.io/Iconify/",
                     "id": 529537665,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-22T17:05:18Z",
+                    "open_issues": 99,
                     "owner": "Mahmud0808",
                     "repo": "Iconify",
-                    "stars": 3153
+                    "stars": 3153,
+                    "topics": [
+                      "android",
+                      "application",
+                      "customization",
+                      "iconify",
+                      "theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2288,12 +3699,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Colorful live wallpapers with auto dark mode and power-efficient animations",
+                    "homepage": "https://patrickzedler.com/doodle/",
                     "id": 321101334,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2025-02-28T05:58:46Z",
+                    "open_issues": 29,
                     "owner": "patzly",
                     "repo": "doodle-android",
-                    "stars": 847
+                    "stars": 847,
+                    "topics": [
+                      "android",
+                      "app",
+                      "doodle-android",
+                      "google",
+                      "livewallpaper",
+                      "material-components",
+                      "material-you",
+                      "parallax",
+                      "pixel4",
+                      "wallpapers"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -2311,12 +3738,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CPU Info is a multiplatform application which provides information about device hardware and software",
+                    "homepage": null,
                     "id": 105620694,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-28T17:06:53Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T04:15:34Z",
+                    "open_issues": 7,
                     "owner": "kamgurgul",
                     "repo": "cpu-info",
-                    "stars": 1066
+                    "stars": 1066,
+                    "topics": [
+                      "android",
+                      "compose-multiplatform",
+                      "cpu",
+                      "desktop",
+                      "ios",
+                      "jvm",
+                      "kmp",
+                      "kotlin",
+                      "kotlin-multiplatform",
+                      "kotlin-multiplatform-sample",
+                      "wasm"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -2334,12 +3778,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A realtime malware scanner (fork of Divestos version)| Maintained by: @Inhishonor",
+                    "homepage": null,
                     "id": 909446444,
                     "language": "Kotlin",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-05-17T19:28:22Z",
+                    "open_issues": 36,
                     "owner": "MaintainTeam",
                     "repo": "Hypatia",
-                    "stars": 446
+                    "stars": 446,
+                    "topics": [
+                      "android",
+                      "security",
+                      "virus-scanning"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -2357,12 +3810,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)",
+                    "homepage": null,
                     "id": 556491507,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-05-29T01:59:21Z",
+                    "open_issues": 59,
                     "owner": "mkckr0",
                     "repo": "audio-share",
-                    "stars": 2093
+                    "stars": 2093,
+                    "topics": [
+                      "android",
+                      "asio",
+                      "audio",
+                      "audio-capture",
+                      "audio-playback",
+                      "audio-stream",
+                      "cpp",
+                      "kotlin",
+                      "linux",
+                      "pipewire",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2373,12 +3843,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Native Android port of the KDE Connect Qt app",
+                    "homepage": "https://invent.kde.org/network/kdeconnect-android",
                     "id": 42728401,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-26T02:14:14Z",
+                    "license": "GPL-2.0",
+                    "last_commit": "2026-08-28T19:41:07Z",
+                    "open_issues": 0,
                     "owner": "KDE",
                     "repo": "kdeconnect-android",
-                    "stars": 1424
+                    "stars": 1424,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2389,12 +3864,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A way to display Android phone notifications on Linux (App)",
+                    "homepage": null,
                     "id": 389587209,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-06-20T23:01:08Z",
+                    "open_issues": 1,
                     "owner": "patri9ck",
                     "repo": "a2ln-app",
-                    "stars": 120
+                    "stars": 120,
+                    "topics": [
+                      "android",
+                      "java",
+                      "zmq"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -2412,12 +3896,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The #1 open-source Android GNSS/GPS test program",
+                    "homepage": null,
                     "id": 5510421,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T10:26:10Z",
+                    "open_issues": 114,
                     "owner": "barbeau",
                     "repo": "gpstest",
-                    "stars": 2376
+                    "stars": 2376,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -2435,12 +3924,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Physical Phone Experiments",
+                    "homepage": null,
                     "id": 49077471,
                     "language": "C",
-                    "last_commit": "2026-08-28T17:37:47Z",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-29T00:40:34Z",
+                    "open_issues": 13,
                     "owner": "phyphox",
                     "repo": "phyphox-android",
-                    "stars": 633
+                    "stars": 633,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -2458,12 +3952,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a free and open source speech synthesizer for Russian and other languages",
+                    "homepage": "https://rhvoice.org",
                     "id": 802699,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-27T10:26:34Z",
+                    "open_issues": 171,
                     "owner": "RHVoice",
                     "repo": "RHVoice",
-                    "stars": 1834
+                    "stars": 1835,
+                    "topics": [
+                      "android",
+                      "brazilian-portuguese",
+                      "english",
+                      "esperanto",
+                      "georgian",
+                      "hts",
+                      "kyrgyz",
+                      "linux",
+                      "russian",
+                      "speech-synthesis",
+                      "tatar",
+                      "text-to-speech",
+                      "tts",
+                      "ukrainian",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2474,12 +3989,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dicio assistant app for Android",
+                    "homepage": null,
                     "id": 200275124,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-25T13:18:25Z",
+                    "open_issues": 129,
                     "owner": "DicioTeam",
                     "repo": "dicio-android",
-                    "stars": 1457
+                    "stars": 1459,
+                    "topics": [
+                      "android",
+                      "assistant",
+                      "dicio",
+                      "personal-assistant",
+                      "skills",
+                      "stt",
+                      "tts",
+                      "voice-assistant",
+                      "vosk",
+                      "wakeword"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -2497,12 +4028,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Android app for ntfy.sh",
+                    "homepage": null,
                     "id": 421237780,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-21T19:16:32Z",
+                    "open_issues": 29,
                     "owner": "binwiederhier",
                     "repo": "ntfy-android",
-                    "stars": 1096
+                    "stars": 1098,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2513,12 +4049,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Push Server in Rust",
+                    "homepage": null,
                     "id": 135631198,
                     "language": "Rust",
+                    "license": "MPL-2.0",
                     "last_commit": "2026-08-27T22:54:50Z",
+                    "open_issues": 49,
                     "owner": "mozilla-services",
                     "repo": "autopush-rs",
-                    "stars": 338
+                    "stars": 338,
+                    "topics": [
+                      "aws",
+                      "dynamodb",
+                      "rust",
+                      "services-engineering-team",
+                      "tokio-rs"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -2543,12 +4090,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Magic Mask for Android",
+                    "homepage": null,
                     "id": 67702184,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-27T17:19:58Z",
+                    "open_issues": 38,
                     "owner": "topjohnwu",
                     "repo": "Magisk",
-                    "stars": 62475
+                    "stars": 62482,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2559,12 +4111,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Kernel based root solution for Android",
+                    "homepage": "https://kernelsu.org",
                     "id": 576303915,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-28T14:49:30Z",
+                    "open_issues": 62,
                     "owner": "tiann",
                     "repo": "KernelSU",
-                    "stars": 18042
+                    "stars": 18057,
+                    "topics": [
+                      "android",
+                      "kernel",
+                      "kernelsu",
+                      "root",
+                      "su"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2575,12 +4138,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The patching of Android kernel and Android system",
+                    "homepage": null,
                     "id": 681215919,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-28T14:49:55Z",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-28T19:17:37Z",
+                    "open_issues": 44,
                     "owner": "bmax121",
                     "repo": "APatch",
-                    "stars": 7867
+                    "stars": 7868,
+                    "topics": [
+                      "android",
+                      "inline-hook",
+                      "kernel",
+                      "magisk",
+                      "magisk-module",
+                      "patch",
+                      "root"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -2598,12 +4174,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Acode - powerful text/code editor for android",
+                    "homepage": "https://acode.app",
                     "id": 217150613,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T21:34:30Z",
+                    "open_issues": 92,
                     "owner": "Acode-Foundation",
                     "repo": "Acode",
-                    "stars": 6724
+                    "stars": 6727,
+                    "topics": [
+                      "android-application",
+                      "code-editor",
+                      "cordova"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2614,12 +4199,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Android simple text editor",
+                    "homepage": "https://billthefarmer.github.io/editor",
                     "id": 96629512,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-04-17T14:07:51Z",
+                    "open_issues": 22,
                     "owner": "billthefarmer",
                     "repo": "editor",
-                    "stars": 569
+                    "stars": 569,
+                    "topics": [
+                      "android",
+                      "editor"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -2637,12 +4230,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+                    "homepage": "https://rustdesk.com",
                     "id": 299354207,
                     "language": "Rust",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-28T09:15:42Z",
+                    "open_issues": 144,
                     "owner": "rustdesk",
                     "repo": "rustdesk",
-                    "stars": 122044
+                    "stars": 122072,
+                    "topics": [
+                      "android",
+                      "anydesk",
+                      "dart",
+                      "flatpak",
+                      "flutter",
+                      "flutter-apps",
+                      "ios",
+                      "linux",
+                      "macos",
+                      "p2p",
+                      "rdp",
+                      "remote-control",
+                      "remote-desktop",
+                      "rust",
+                      "rust-lang",
+                      "teamviewer",
+                      "vnc",
+                      "wayland",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2653,12 +4271,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ConnectBot is the first SSH client for Android.",
+                    "homepage": "https://connectbot.org",
                     "id": 123235,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-17T23:44:24Z",
+                    "open_issues": 283,
                     "owner": "connectbot",
                     "repo": "connectbot",
-                    "stars": 3413
+                    "stars": 3413,
+                    "topics": [
+                      "android",
+                      "connectbot",
+                      "java",
+                      "ssh",
+                      "ssh-client",
+                      "ssh2"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2669,12 +4299,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "VNC Client for Android",
+                    "homepage": null,
                     "id": 334583299,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-06T11:15:00Z",
+                    "open_issues": 19,
                     "owner": "gujjwal00",
                     "repo": "avnc",
-                    "stars": 1137
+                    "stars": 1137,
+                    "topics": [
+                      "android",
+                      "android-application",
+                      "kotlin",
+                      "remote-desktop",
+                      "vnc",
+                      "vnc-client"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2685,12 +4327,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple switch for adb (Android Debug Bridge) over network.",
+                    "homepage": "https://play.google.com/store/apps/details?id=moe.haruue.wadb",
                     "id": 61563421,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-10-15T20:43:49Z",
+                    "open_issues": 3,
                     "owner": "RikkaApps",
                     "repo": "WADB",
-                    "stars": 765
+                    "stars": 765,
+                    "topics": [
+                      "adb",
+                      "android",
+                      "tile"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -2708,12 +4359,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+                    "homepage": "https://f-droid.org/en/packages/com.termux",
                     "id": 44804216,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T15:23:08Z",
+                    "open_issues": 598,
                     "owner": "termux",
                     "repo": "termux-app",
-                    "stars": 59929
+                    "stars": 59944,
+                    "topics": [
+                      "android",
+                      "hacktoberfest",
+                      "linux",
+                      "terminal",
+                      "termux"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -2731,12 +4393,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "No-root network monitor, firewall and PCAP dumper for Android",
+                    "homepage": "https://emanuele-f.github.io/PCAPdroid",
                     "id": 232157758,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-26T20:37:14Z",
+                    "open_issues": 45,
                     "owner": "emanuele-f",
                     "repo": "PCAPdroid",
-                    "stars": 4616
+                    "stars": 4619,
+                    "topics": [
+                      "android",
+                      "capture-traffic",
+                      "decryption",
+                      "firewall",
+                      "network-analysis",
+                      "no-root",
+                      "pcap",
+                      "pcap-files",
+                      "sniffer",
+                      "sniffing",
+                      "traffic-monitor",
+                      "wireshark"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -2754,12 +4434,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Github client for Android",
+                    "homepage": null,
                     "id": 1388190,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-12-09T10:30:56Z",
+                    "open_issues": 302,
                     "owner": "slapperwan",
                     "repo": "gh4a",
-                    "stars": 1993
+                    "stars": 1993,
+                    "topics": [
+                      "android",
+                      "github",
+                      "github-client",
+                      "octodroid"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2770,12 +4460,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter",
+                    "homepage": null,
                     "id": 130058573,
                     "language": "Dart",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-07-28T22:09:55Z",
+                    "open_issues": 89,
                     "owner": "pd4d10",
                     "repo": "git-touch",
-                    "stars": 1694
+                    "stars": 1694,
+                    "topics": [
+                      "bitbucket",
+                      "bitbucket-app",
+                      "flutter",
+                      "flutter-apps",
+                      "gitea",
+                      "gitea-app",
+                      "gitee",
+                      "github",
+                      "github-app",
+                      "gitlab",
+                      "gitlab-app"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2786,12 +4493,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Git client for Android.",
+                    "homepage": "https://manichord.com/projects/mgit.html",
                     "id": 70868306,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-09-24T07:03:47Z",
+                    "open_issues": 289,
                     "owner": "maks",
                     "repo": "MGit",
-                    "stars": 1561
+                    "stars": 1561,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -2809,12 +4521,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "2M+ app downloads, 500k+ monthly website visitors, Linux basics, tips and formatted man pages",
+                    "homepage": "http://linuxcommandlibrary.com",
                     "id": 20982177,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-28T07:31:48Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T18:07:14Z",
+                    "open_issues": 22,
                     "owner": "SimonSchubert",
                     "repo": "LinuxCommandLibrary",
-                    "stars": 1898
+                    "stars": 1898,
+                    "topics": [
+                      "android",
+                      "jetpack-compose",
+                      "kotlin",
+                      "kotlin-multiplatform",
+                      "linux"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -2839,12 +4562,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial, FOSS-friendly fork of the original Telegram client for Android",
+                    "homepage": null,
                     "id": 17017355,
                     "language": "Java",
+                    "license": "GPL-2.0",
                     "last_commit": "2024-08-25T10:50:37Z",
+                    "open_issues": 275,
                     "owner": "Telegram-FOSS-Team",
                     "repo": "Telegram-FOSS",
-                    "stars": 3300
+                    "stars": 3300,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2855,12 +4583,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A modern Android IRC client. #revolutionirc on Libera.chat",
+                    "homepage": null,
                     "id": 100821244,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-01-01T04:31:59Z",
+                    "open_issues": 197,
                     "owner": "MCMrARM",
                     "repo": "revolution-irc",
-                    "stars": 613
+                    "stars": 613,
+                    "topics": [
+                      "android",
+                      "chat",
+                      "irc",
+                      "irc-client"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2871,12 +4609,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tox Reference implementation for Android",
+                    "homepage": null,
                     "id": 89713479,
                     "language": "C",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-28T16:41:53Z",
+                    "open_issues": 41,
                     "owner": "zoff99",
                     "repo": "ToxAndroidRefImpl",
-                    "stars": 343
+                    "stars": 343,
+                    "topics": [
+                      "android",
+                      "messaging",
+                      "offline-messages",
+                      "push-notifications",
+                      "reference-implementation",
+                      "secure-messenger",
+                      "tox",
+                      "tox-client",
+                      "toxcon",
+                      "toxcore",
+                      "trifa"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -2894,12 +4649,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A libre lightweight streaming front-end for Android.",
+                    "homepage": "https://newpipe.net",
                     "id": 41889031,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-24T19:20:06Z",
+                    "open_issues": 1450,
                     "owner": "TeamNewPipe",
                     "repo": "NewPipe",
-                    "stars": 39511
+                    "stars": 39517,
+                    "topics": [
+                      "4k",
+                      "android",
+                      "bandcamp",
+                      "download-videos",
+                      "newpipe",
+                      "peertube",
+                      "soundcloud",
+                      "translation",
+                      "video",
+                      "watch",
+                      "youtube-video"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2910,12 +4682,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "一个支持免代理直连及查看动图的第三方Pixiv flutter客户端",
+                    "homepage": null,
                     "id": 219118618,
                     "language": "Dart",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-28T16:23:44Z",
+                    "open_issues": 492,
                     "owner": "Notsfsssf",
                     "repo": "pixez-flutter",
-                    "stars": 12696
+                    "stars": 12699,
+                    "topics": [
+                      "android",
+                      "flutter",
+                      "ios",
+                      "pixez",
+                      "pixiv"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2926,12 +4709,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pixiv第三方Android客户端",
+                    "homepage": null,
                     "id": 178835117,
                     "language": "Kotlin",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-28T09:54:15Z",
+                    "open_issues": 3,
                     "owner": "CeuiLiSA",
                     "repo": "Pixiv-Shaft",
-                    "stars": 7706
+                    "stars": 7708,
+                    "topics": [
+                      "android-app",
+                      "google-play",
+                      "material-ui",
+                      "pixiv"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2942,12 +4735,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open-source Android app to let you browse YouTube and other services freely. ",
+                    "homepage": "https://pipepipe.dev",
                     "id": 490984887,
                     "language": "Shell",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-24T23:43:38Z",
+                    "open_issues": 152,
                     "owner": "InfinityLoop1308",
                     "repo": "PipePipe",
-                    "stars": 5983
+                    "stars": 5986,
+                    "topics": [
+                      "android",
+                      "mediaplayer",
+                      "newpipe",
+                      "sponsorblock",
+                      "youtube"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2958,12 +4762,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Reddit client for Android",
+                    "homepage": "https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit.plus",
                     "id": 142456757,
                     "language": "Java",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-27T21:04:40Z",
+                    "open_issues": 163,
                     "owner": "Docile-Alligator",
                     "repo": "Infinity-For-Reddit",
-                    "stars": 5434
+                    "stars": 5434,
+                    "topics": [
+                      "android",
+                      "java",
+                      "reddit",
+                      "reddit-client"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2974,12 +4788,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An unofficial open source Android app for Reddit.",
+                    "homepage": null,
                     "id": 9219388,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-15T13:46:33Z",
+                    "open_issues": 470,
                     "owner": "QuantumBadger",
                     "repo": "RedReader",
-                    "stars": 2630
+                    "stars": 2630,
+                    "topics": [
+                      "android",
+                      "android-app",
+                      "android-application",
+                      "reddit"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -2990,12 +4814,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A privacy-friendly Twitter frontend for mobile devices",
+                    "homepage": "https://fritter.cc",
                     "id": 335428933,
                     "language": "Dart",
+                    "license": "MIT",
                     "last_commit": "2026-08-25T15:07:40Z",
+                    "open_issues": 167,
                     "owner": "jonjomckay",
                     "repo": "fritter",
-                    "stars": 1445
+                    "stars": 1445,
+                    "topics": [
+                      "android",
+                      "app",
+                      "ios",
+                      "twitter"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -3006,12 +4840,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Next generation of Twidere for Android",
+                    "homepage": null,
                     "id": 291661168,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-09-03T21:03:24Z",
+                    "open_issues": 88,
                     "owner": "TwidereProject",
                     "repo": "TwidereX-Android",
-                    "stars": 993
+                    "stars": 993,
+                    "topics": [
+                      "android",
+                      "jetpack-compose",
+                      "kotlin",
+                      "twidere",
+                      "twitter"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -3022,12 +4867,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Glider is an opinionated Hacker News client. Ad-free, open-source, no-nonsense.",
+                    "homepage": null,
                     "id": 292088887,
                     "language": "Dart",
+                    "license": "MIT",
                     "last_commit": "2024-07-01T02:13:02Z",
+                    "open_issues": 44,
                     "owner": "Mosc",
                     "repo": "Glider",
-                    "stars": 578
+                    "stars": 578,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -3052,12 +4902,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "All in one emulator on Android!",
+                    "homepage": null,
                     "id": 226883777,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-12T12:33:31Z",
+                    "open_issues": 591,
                     "owner": "Swordfish90",
                     "repo": "Lemuroid",
-                    "stars": 4243
+                    "stars": 4247,
+                    "topics": [
+                      "android",
+                      "android-app",
+                      "emulator",
+                      "game-boy",
+                      "genesis",
+                      "hacktoberfest",
+                      "kotlin",
+                      "kotlin-android",
+                      "libretro",
+                      "libretro-frontend",
+                      "n64",
+                      "nes",
+                      "nintendo",
+                      "nintendo-ds",
+                      "playstation",
+                      "psp",
+                      "sega",
+                      "sega-master-system",
+                      "snes"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -3075,12 +4950,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A cross-platform minigolf game written in C.",
+                    "homepage": null,
                     "id": 298134035,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2024-03-18T01:37:41Z",
+                    "open_issues": 27,
                     "owner": "mgerdes",
                     "repo": "Open-Golf",
-                    "stars": 1930
+                    "stars": 1930,
+                    "topics": [
+                      "android",
+                      "c",
+                      "game",
+                      "game-dev",
+                      "game-development",
+                      "gamedev",
+                      "ios",
+                      "minigolf"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -3091,12 +4980,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Antimine is an open source minesweeper-like puzzle game.",
+                    "homepage": null,
                     "id": 238821678,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-08-02T01:20:16Z",
+                    "open_issues": 63,
                     "owner": "lucasnlm",
                     "repo": "antimine-android",
-                    "stars": 788
+                    "stars": 788,
+                    "topics": [
+                      "android",
+                      "game",
+                      "game-development",
+                      "hacktoberfest",
+                      "koin-kotlin",
+                      "libgdx",
+                      "minesweeper",
+                      "mvi",
+                      "mvvm",
+                      "puzzle",
+                      "puzzle-game",
+                      "robolectric"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -3107,12 +5014,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Android port of Simon Tatham's Puzzles",
+                    "homepage": "https://chris.boyle.name/puzzles",
                     "id": 356848,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-10-21T22:29:20Z",
+                    "open_issues": 215,
                     "owner": "chrisboyle",
                     "repo": "sgtpuzzles",
-                    "stars": 736
+                    "stars": 737,
+                    "topics": [
+                      "android",
+                      "ndk",
+                      "puzzle"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -3123,12 +5039,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "2048 Open Fun Game - multiplatform implementation in Kotlin and KorGE game engine",
+                    "homepage": null,
                     "id": 299049641,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-19T07:38:21Z",
+                    "open_issues": 11,
                     "owner": "andstatus",
                     "repo": "game2048",
-                    "stars": 352
+                    "stars": 352,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -3139,12 +5060,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Word Game for Android - A fork of lexic (https://code.google.com/p/lexic)",
+                    "homepage": null,
                     "id": 46906503,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2026-07-02T10:02:47Z",
+                    "open_issues": 82,
                     "owner": "lexica",
                     "repo": "lexica",
-                    "stars": 337
+                    "stars": 337,
+                    "topics": [
+                      "android",
+                      "game",
+                      "open-source"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -3155,12 +5085,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tetris clone for Android",
+                    "homepage": null,
                     "id": 9244997,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-09-30T11:50:32Z",
+                    "open_issues": 17,
                     "owner": "vocollapse",
                     "repo": "Blockinger",
-                    "stars": 222
+                    "stars": 222,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -3171,12 +5106,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Falling Lightblocks. Falling block game for Android (Mobile and TV), iOS, Web browsers. Works on desktops, too.",
+                    "homepage": "https://www.golfgl.de/lightblocks/",
                     "id": 282715062,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-06-06T07:59:35Z",
+                    "open_issues": 25,
                     "owner": "MrStahlfelge",
                     "repo": "lightblocks",
-                    "stars": 208
+                    "stars": 208,
+                    "topics": [
+                      "game",
+                      "libgdx"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -3187,12 +5130,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Privacy Friendly App to play Sudoku on Android.",
+                    "homepage": "https://secuso.org/pfa-sudoku",
                     "id": 45682878,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-29T10:54:35Z",
+                    "open_issues": 58,
                     "owner": "SecUSo",
                     "repo": "privacy-friendly-sudoku",
-                    "stars": 207
+                    "stars": 207,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -3203,12 +5151,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple tri peaks solitaire game using libGDX.",
+                    "homepage": null,
                     "id": 338781595,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-03-15T10:50:20Z",
+                    "open_issues": 15,
                     "owner": "mimoguz",
                     "repo": "tripeaks-gdx",
-                    "stars": 89
+                    "stars": 89,
+                    "topics": [
+                      "game",
+                      "libgdx",
+                      "libgdx-android",
+                      "libgdx-desktop",
+                      "libgdx-game"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -3226,12 +5185,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "lichess.org former mobile application / new one -> github.com/lichess-org/mobile",
+                    "homepage": "https://lichess.org/mobile",
                     "id": 19611854,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-02-15T22:57:49Z",
+                    "open_issues": 695,
                     "owner": "lichess-org",
                     "repo": "lichobile",
-                    "stars": 2182
+                    "stars": 2182,
+                    "topics": [
+                      "android",
+                      "android-sdk",
+                      "capacitor",
+                      "chess",
+                      "chess-engine",
+                      "chess-game",
+                      "ionic-capacitor",
+                      "ios",
+                      "javascript",
+                      "lichess",
+                      "lichess-mobile",
+                      "mithril",
+                      "scalajs",
+                      "stockfish",
+                      "typescript",
+                      "xcode"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -3242,12 +5223,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Goban for Android",
+                    "homepage": "https://play.google.com/store/apps/details?id=org.ligi.gobandroid_hd",
                     "id": 442343,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2023-03-09T05:03:36Z",
+                    "open_issues": 73,
                     "owner": "ligi",
                     "repo": "gobandroid",
-                    "stars": 249
+                    "stars": 249,
+                    "topics": [
+                      "android",
+                      "android-app",
+                      "goban",
+                      "kotlin",
+                      "kotlin-android"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -3258,12 +5250,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "this is a ai service for gnugo",
+                    "homepage": "http://ligi.de/search/label/gobandroid",
                     "id": 546266,
                     "language": "C",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-02-10T19:34:27Z",
+                    "open_issues": 4,
                     "owner": "ligi",
                     "repo": "gobandroid-ai-gnugo",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -3281,12 +5278,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The automation tower defense RTS",
+                    "homepage": "https://mindustrygame.github.io",
                     "id": 89822531,
                     "language": "Java",
-                    "last_commit": "2026-08-27T22:45:47Z",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-28T22:33:53Z",
+                    "open_issues": 49,
                     "owner": "Anuken",
                     "repo": "Mindustry",
-                    "stars": 28757
+                    "stars": 28757,
+                    "topics": [
+                      "android",
+                      "desktop",
+                      "game",
+                      "java",
+                      "mindustry",
+                      "mobile-game",
+                      "multiplatform",
+                      "rts",
+                      "sandbox-game",
+                      "tower-defense"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -3297,12 +5310,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Another ugly tower defense for Android",
+                    "homepage": null,
                     "id": 31601957,
                     "language": "Java",
+                    "license": "GPL-2.0",
                     "last_commit": "2024-09-29T19:59:03Z",
+                    "open_issues": 37,
                     "owner": "mjaun",
                     "repo": "android-anuto",
-                    "stars": 239
+                    "stars": 240,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -3320,12 +5338,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.",
+                    "homepage": "https://shatteredpixel.com/shatteredpd/",
                     "id": 22486533,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-15T14:52:52Z",
+                    "open_issues": 11,
                     "owner": "00-Evan",
                     "repo": "shattered-pixel-dungeon",
-                    "stars": 6465
+                    "stars": 6465,
+                    "topics": [
+                      "android",
+                      "game",
+                      "game-development",
+                      "ios",
+                      "java",
+                      "libgdx"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -3336,12 +5366,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Andor's Trail",
+                    "homepage": null,
                     "id": 228082661,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2026-08-28T05:27:36Z",
+                    "open_issues": 11,
                     "owner": "AndorsTrailRelease",
                     "repo": "andors-trail",
-                    "stars": 140
+                    "stars": 140,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -3359,12 +5394,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation",
+                    "homepage": "https://www.luanti.org/",
                     "id": 2168780,
                     "language": "C++",
-                    "last_commit": "2026-08-26T20:18:01Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-28T21:43:55Z",
+                    "open_issues": 1509,
                     "owner": "luanti-org",
                     "repo": "luanti",
-                    "stars": 13513
+                    "stars": 13518,
+                    "topics": [
+                      "c-plus-plus",
+                      "cpp17",
+                      "game-engine",
+                      "lua",
+                      "luanti",
+                      "minetest",
+                      "voxel",
+                      "voxel-engine"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -3382,12 +5431,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The code base of SuperTuxKart",
+                    "homepage": null,
                     "id": 15920273,
                     "language": "C++",
-                    "last_commit": "2026-08-23T14:51:25Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-28T19:28:53Z",
+                    "open_issues": 524,
                     "owner": "supertuxkart",
                     "repo": "stk-code",
-                    "stars": 5315
+                    "stars": 5316,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 },
@@ -3398,12 +5452,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A top-down retro racing game for PC (Linux, macOS, Windows) and Android. ",
+                    "homepage": "https://agateau.com/projects/pixelwheels",
                     "id": 35909772,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-04-18T19:14:18Z",
+                    "open_issues": 59,
                     "owner": "agateau",
                     "repo": "pixelwheels",
-                    "stars": 457
+                    "stars": 457,
+                    "topics": [
+                      "android",
+                      "game",
+                      "libgdx",
+                      "linux",
+                      "macos",
+                      "retro",
+                      "top-down",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -3421,12 +5489,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open-source Android/Desktop remake of Civ V",
+                    "homepage": null,
                     "id": 111605778,
                     "language": "Kotlin",
+                    "license": "MPL-2.0",
                     "last_commit": "2026-08-27T08:15:12Z",
+                    "open_issues": 151,
                     "owner": "yairm210",
                     "repo": "Unciv",
-                    "stars": 11153
+                    "stars": 11156,
+                    "topics": [
+                      "4x",
+                      "4x-strategy-game",
+                      "android",
+                      "civ",
+                      "civilization",
+                      "civilization-v",
+                      "game",
+                      "itch",
+                      "libgdx",
+                      "strategy-game"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -3444,12 +5528,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Rubik's cube timer for Android / 安卓系统魔方计时器",
+                    "homepage": null,
                     "id": 4985153,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2022-08-11T09:08:11Z",
+                    "open_issues": 4,
                     "owner": "MeigenChou",
                     "repo": "DCTimer-Android",
-                    "stars": 78
+                    "stars": 78,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
                 }
@@ -3472,12 +5561,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 75634951,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-15T22:38:13Z",
+                "open_issues": 0,
                 "owner": "LineageOS",
                 "repo": "android_packages_apps_Eleven",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:54:50.694Z"
             },
@@ -3488,12 +5582,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 101101898,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-27T22:58:14Z",
+                "open_issues": 0,
                 "owner": "LineageOS",
                 "repo": "android_packages_apps_DocumentsUI",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:54:50.694Z"
             },
@@ -3504,12 +5603,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 75634988,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2024-02-13T14:43:29Z",
+                "open_issues": 0,
                 "owner": "LineageOS",
                 "repo": "android_packages_apps_Terminal",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:54:50.694Z"
             }
@@ -3531,12 +5635,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.",
+            "homepage": "https://offa.github.io/android-foss/",
             "id": 85591077,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T13:11:18Z",
+            "open_issues": 33,
             "owner": "offa",
             "repo": "android-foss",
-            "stars": 11041
+            "stars": 11049,
+            "topics": [
+              "android",
+              "android-apps",
+              "f-droid",
+              "foss",
+              "free-and-op",
+              "free-and-open-source",
+              "izzyondroid",
+              "open-source",
+              "opensource"
+            ]
           },
           "first_seen": "2026-08-28T17:54:50.694Z"
         },
@@ -3547,12 +5666,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!",
+            "homepage": "https://codeberg.org/Psyhackological/AAA",
             "id": 428383546,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-11T19:04:37Z",
+            "open_issues": 5,
             "owner": "Psyhackological",
             "repo": "AAA",
-            "stars": 3047
+            "stars": 3047,
+            "topics": [
+              "alternatives",
+              "android",
+              "android-app",
+              "apk",
+              "apps",
+              "awesome",
+              "degoogle",
+              "flutter",
+              "foss",
+              "kotlin",
+              "list",
+              "privacy"
+            ]
           },
           "first_seen": "2026-08-28T17:54:50.694Z"
         },
@@ -3563,12 +5700,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a list of 100+ awesome open source android apps 📱",
+            "homepage": "https://albertomosconi.github.io/foss-apps",
             "id": 284642589,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2024-03-06T10:35:34Z",
+            "open_issues": 24,
             "owner": "albertomosconi",
             "repo": "foss-apps",
-            "stars": 1174
+            "stars": 1174,
+            "topics": [
+              "android",
+              "applications",
+              "apps",
+              "best",
+              "foss",
+              "list",
+              "open-source",
+              "privacy",
+              "top"
+            ]
           },
           "first_seen": "2026-08-28T17:54:50.694Z"
         },
@@ -3579,12 +5731,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome FOSS Android Apps list (Chinese)",
+            "homepage": "https://ivonblog.com/posts/awesome-foss-android-apps/",
             "id": 674892402,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-07-29T17:40:38Z",
+            "open_issues": 1,
             "owner": "ivon852",
             "repo": "awesome-foss-android-apps",
-            "stars": 426
+            "stars": 426,
+            "topics": [
+              "android",
+              "android-application",
+              "android-phone",
+              "f-droid",
+              "foss",
+              "free-software",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-28T17:54:50.694Z"
         }
@@ -3593,15 +5758,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:54:50.694Z",
+    "last_updated": "2026-08-29T04:18:40.151Z",
     "original_repository_info": {
       "archived": false,
+      "description": "个人收集的实用、良心开源安卓软件",
+      "homepage": null,
       "id": 423398688,
       "language": null,
+      "license": "CC-BY-SA-4.0",
       "last_commit": "2026-08-13T15:59:23Z",
+      "open_issues": 4,
       "owner": "xlucn",
       "repo": "oh-my-foss-android",
-      "stars": 5083
+      "stars": 5083,
+      "topics": [
+        "android",
+        "apps",
+        "awesome",
+        "f-droid",
+        "foss",
+        "open-source",
+        "opensource"
+      ]
     },
     "original_repository_sha": "98f53fea2feb600892c53e7a8a33ab70f7483e19",
     "enhanced_repository": "enhansome/enhansome-oh-my-foss-android",

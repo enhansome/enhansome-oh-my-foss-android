@@ -5,7 +5,7 @@
 ## 基本信息
 
 * **仓库**：
-  [Github 主仓库](https://github.com/xlucn/oh-my-foss-android) ⭐ 5,110 | 🐛 5 | 📅 2026-09-08，
+  [Github 主仓库](https://github.com/xlucn/oh-my-foss-android) ⭐ 5,113 | 🐛 5 | 📅 2026-09-08，
   [Gitee 同步仓库](https://gitee.com/lewinat0r/oh-my-foss-android)。
 * **特点**：强调使用体验，希望读者能更好地提前了解软件的特点。为了更好的阅读体验已折叠部分内容，请自行展开查看。
 * **推荐**：软件推荐，欢迎提交 issue 或 PR。他人贡献并且我没有使用过的条目会标注`*`。
@@ -36,7 +36,7 @@
 
 建议安装其中一个 F-Droid 客户端。
 
-* [Driod-ify](https://github.com/Droid-ify/client) ⭐ 7,417 | 🐛 188 | 🌐 Kotlin | 📅 2026-09-12
+* [Driod-ify](https://github.com/Droid-ify/client) ⭐ 7,421 | 🐛 190 | 🌐 Kotlin | 📅 2026-09-12
   \[[F-Droid](https://f-droid.org/packages/com.looker.droidify/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Droid-ify/client?style=flat"></sub>
 
   <details>
@@ -51,7 +51,7 @@
 
   </details>
 
-* [Neo-Store](https://github.com/NeoApplications/Neo-Store) ⭐ 5,007 | 🐛 121 | 🌐 Kotlin | 📅 2026-09-15
+* [Neo-Store](https://github.com/NeoApplications/Neo-Store) ⭐ 5,012 | 🐛 122 | 🌐 Kotlin | 📅 2026-09-15
   \[[F-Droid](https://f-droid.org/packages/com.machiav3lli.fdroid/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/NeoApplications/Neo-Store?style=flat"></sub>
 
   <details>
@@ -62,7 +62,7 @@
 
   </details>
 
-* ~~[Foxy Droid](https://github.com/kitsunyan/foxy-droid) ⭐ 713 | 🐛 71 | 🌐 Kotlin | 📅 2022-10-19
+* ~~[Foxy Droid](https://github.com/kitsunyan/foxy-droid) ⭐ 714 | 🐛 71 | 🌐 Kotlin | 📅 2022-10-19
   \[[F-Droid](https://f-droid.org/packages/nya.kitsunyan.foxydroid/)]~~ <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/kitsunyan/foxy-droid?style=flat"></sub>
 
   <details>
@@ -109,7 +109,7 @@
 
 一些应用尚未在任何商店内发布，通过以下应用可跟踪此类应用的更新。
 
-* [Obtainium](https://github.com/ImranR98/Obtainium) ⭐ 19,685 | 🐛 366 | 🌐 Dart | 📅 2026-09-13
+* [Obtainium](https://github.com/ImranR98/Obtainium) ⭐ 19,708 | 🐛 369 | 🌐 Dart | 📅 2026-09-13
   \[[F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid/)]
   \[[网站](https://obtainium.imranr.dev/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/ImranR98/Obtainium?style=flat"></sub>
 
@@ -127,7 +127,7 @@
 
 #### 浏览器
 
-* [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) ⭐ 6,468 | 🐛 128 | 🌐 Kotlin | 📅 2026-09-10\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/fork-maintainers/iceraven-browser?style=flat"></sub>
+* [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) ⭐ 6,473 | 🐛 128 | 🌐 Kotlin | 📅 2026-09-10\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/fork-maintainers/iceraven-browser?style=flat"></sub>
 
   <details>
 
@@ -154,7 +154,7 @@
 
 #### 邮件
 
-* [Thunderbird/K-9 Mail](https://github.com/thunderbird/thunderbird-android) ⭐ 13,996 | 🐛 1,058 | 🌐 Kotlin | 📅 2026-09-14
+* [Thunderbird/K-9 Mail](https://github.com/thunderbird/thunderbird-android) ⭐ 13,999 | 🐛 1,059 | 🌐 Kotlin | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/com.fsck.k9/)]
   \[[网站](https://k9mail.app/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/thunderbird/thunderbird-android?style=flat"></sub>
 
@@ -168,7 +168,7 @@
 
   </details>
 
-* [FairEmail](https://github.com/M66B/FairEmail) ⭐ 4,628 | 🐛 3 | 🌐 Java | 📅 2026-09-15
+* [FairEmail](https://github.com/M66B/FairEmail) ⭐ 4,628 | 🐛 3 | 🌐 Java | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/eu.faircode.email/)]
   \[[网站](https://email.faircode.eu/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/M66B/FairEmail?style=flat"></sub>
 
@@ -190,7 +190,7 @@
 
 **注意：请大家务必尊重版权，请勿从事侵权违法行为。**
 
-* ~~[Legado（阅读）](https://github.com/gedoor/legado) ⭐ 47,075 | 🐛 18 | 🌐 Kotlin | 📅 2026-05-27
+* ~~[Legado（阅读）](https://github.com/gedoor/legado) ⭐ 47,072 | 🐛 18 | 🌐 Kotlin | 📅 2026-05-27
   \[[网站](https://gedoor.github.io/)]~~ <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/gedoor/legado?style=flat"></sub>
 
   <details>
@@ -203,13 +203,13 @@
 
   </details>
 
-* [AntennaPod](https://github.com/AntennaPod/AntennaPod) ⭐ 8,158 | 🐛 368 | 🌐 Java | 📅 2026-09-12
+* [AntennaPod](https://github.com/AntennaPod/AntennaPod) ⭐ 8,159 | 🐛 371 | 🌐 Java | 📅 2026-09-12
   \[[F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/)]
   \[[网站](https://antennapod.org/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/AntennaPod/AntennaPod?style=flat"></sub>
 
   Podcast 客户端有很多，这款历史久，开发活跃，功能实而不华。
 
-* [Read You](https://github.com/Ashinch/ReadYou) ⭐ 7,517 | 🐛 476 | 🌐 Kotlin | 📅 2026-08-11
+* [Read You](https://github.com/Ashinch/ReadYou) ⭐ 7,518 | 🐛 476 | 🌐 Kotlin | 📅 2026-08-11
   \[[F-Droid](https://f-droid.org/packages/me.ash.reader/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Ashinch/ReadYou?style=flat"></sub>
 
   <details>
@@ -220,7 +220,7 @@
 
   </details>
 
-* [Legado with MD3](https://github.com/HapeLee/legado-with-MD3) ⭐ 6,110 | 🐛 118 | 🌐 Kotlin | 📅 2026-09-14
+* [Legado with MD3](https://github.com/HapeLee/legado-with-MD3) ⭐ 6,120 | 🐛 119 | 🌐 Kotlin | 📅 2026-09-14
   \[[网站](https://hapelee.github.io/legado-with-MD3/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/HapeLee/legado-with-MD3?style=flat"></sub>
 
   **本软件开发的行为算不上侵权，但利用“书源”分享具有版权的相关文字资源以及从中获益的行为绝对属于侵权。请大家务必尊重版权！**
@@ -235,7 +235,7 @@
 
   </details>
 
-* [Feeder](https://github.com/spacecowboy/Feeder) ⭐ 3,031 | 🐛 232 | 🌐 Kotlin | 📅 2026-09-15
+* [Feeder](https://github.com/spacecowboy/Feeder) ⭐ 3,033 | 🐛 230 | 🌐 Kotlin | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/com.nononsenseapps.feeder/)]
   \[[网站](https://news.nononsenseapps.com/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/spacecowboy/Feeder?style=flat"></sub>
 
@@ -259,7 +259,7 @@
 
   </details>
 
-* [M3U](https://github.com/oxyroid/M3UAndroid) ⭐ 1,249 | 🐛 84 | 🌐 Kotlin | 📅 2026-09-13
+* [M3U](https://github.com/oxyroid/M3UAndroid) ⭐ 1,250 | 🐛 84 | 🌐 Kotlin | 📅 2026-09-13
   \[[F-Droid](https://f-droid.org/packages/com.m3u.androidApp/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/oxyroid/M3UAndroid?style=flat"></sub>
 
   <!-- [FastoTVLite](https://github.com/fastogt/fastotvlite_mobile)
@@ -273,7 +273,7 @@
 
   </details>
 
-* [RadioDroid（睿卓）](https://github.com/segler-alex/RadioDroid) ⭐ 1,061 | 🐛 323 | 🌐 Java | 📅 2024-06-26
+* [RadioDroid（睿卓）](https://github.com/segler-alex/RadioDroid) ⭐ 1,062 | 🐛 323 | 🌐 Java | 📅 2024-06-26
   \[[F-Droid](https://f-droid.org/packages/net.programmierecke.radiodroid2/)]
   \[[网站](https://www.radio-browser.info/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/segler-alex/RadioDroid?style=flat"></sub>
 
@@ -304,7 +304,7 @@
 
 #### 追剧管理
 
-* [Showly](https://github.com/michaldrabik/showly) ⭐ 1,460 | 🐛 151 | 🌐 Kotlin | 📅 2026-06-25
+* [Showly](https://github.com/michaldrabik/showly) ⭐ 1,461 | 🐛 151 | 🌐 Kotlin | 📅 2026-06-25
   \[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.michaldrabik.showly_oss)]
   \[[网站](https://www.showlyapp.com/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/michaldrabik/showly?style=flat"></sub>
 
@@ -336,7 +336,7 @@
 
   Qbittorrent 的远程控制软件。
 
-* [Transmissionic](https://github.com/6c65726f79/Transmissionic) ⭐ 525 | 🐛 45 | 🌐 Vue | 📅 2024-07-28
+* [Transmissionic](https://github.com/6c65726f79/Transmissionic) ⭐ 524 | 🐛 45 | 🌐 Vue | 📅 2024-07-28
   \[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.sleroy.transmissionic)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/6c65726f79/Transmissionic?style=flat"></sub>
 
   Transmission 的远程控制软件。
@@ -372,7 +372,7 @@
 
   </details>
 
-* [mpvExtended](https://github.com/marlboro-advance/mpvEx) ⭐ 2,520 | 🐛 254 | 🌐 Kotlin | 📅 2026-09-07
+* [mpvExtended](https://github.com/marlboro-advance/mpvEx) ⭐ 2,519 | 🐛 254 | 🌐 Kotlin | 📅 2026-09-16
   \[[IzzyOnDroid](https://apt.izzysoft.de/packages/app.marlboroadvance.mpvex)]
   \[[网站](https://mpvex.vercel.app/)] <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marlboro-advance/mpvEx?style=flat"></sub>
 
@@ -384,7 +384,7 @@
 
   </details>
 
-* [Kore](https://github.com/xbmc/Kore) ⭐ 724 | 🐛 132 | 🌐 Java | 📅 2025-11-11
+* [Kore](https://github.com/xbmc/Kore) ⭐ 725 | 🐛 132 | 🌐 Java | 📅 2025-11-11
   \[[F-Droid](https://f-droid.org/packages/org.xbmc.kore/)]
   \[[网站](https://forum.kodi.tv/forumdisplay.php?fid=129)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/xbmc/kore?style=flat"></sub>
 
@@ -406,7 +406,7 @@
 
 可能是开发难度低，F-Droid 上太多音乐软件了。搜 "music" 关键词，最近更新的都比较好，恕不一一列举。
 
-* [Retro Music](https://github.com/RetroMusicPlayer/RetroMusicPlayer) ⭐ 5,312 | 🐛 375 | 🌐 Kotlin | 📅 2026-09-01
+* [Retro Music](https://github.com/RetroMusicPlayer/RetroMusicPlayer) ⭐ 5,310 | 🐛 375 | 🌐 Kotlin | 📅 2026-09-01
   \[[F-Droid](https://f-droid.org/packages/code.name.monkey.retromusic/)]
   \[[网站](https://retromusic.app/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/RetroMusicPlayer/RetroMusicPlayer?style=flat"></sub>
 
@@ -414,15 +414,15 @@
 
   <summary>很漂亮的音乐播放软件。F-Droid 版本已移除内购。</summary><br/>
 
-  曾经有一个名为 [Metro](https://github.com/MuntashirAkon/Metro) ⭐ 1,610 | 🐛 85 | 🌐 Kotlin | 📅 2024-06-13 \[[F-Droid](https://f-droid.org/packages/io.github.muntashirakon.Music/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/MuntashirAkon/Metro?style=flat"></sub> 的破解版，但前者完全免费后已没有继续开发的必要。
+  曾经有一个名为 [Metro](https://github.com/MuntashirAkon/Metro) ⭐ 1,609 | 🐛 85 | 🌐 Kotlin | 📅 2024-06-13 \[[F-Droid](https://f-droid.org/packages/io.github.muntashirakon.Music/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/MuntashirAkon/Metro?style=flat"></sub> 的破解版，但前者完全免费后已没有继续开发的必要。
 
   </details>
 
-* [Mpd](https://github.com/MusicPlayerDaemon/MPD) ⭐ 2,771 | 🐛 167 | 🌐 C++ | 📅 2026-09-04
+* [Mpd](https://github.com/MusicPlayerDaemon/MPD) ⭐ 2,772 | 🐛 167 | 🌐 C++ | 📅 2026-09-04
   \[[F-Droid](https://f-droid.org/packages/org.musicpd/)]
   \[[网站](https://www.musicpd.org/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/MusicPlayerDaemon/MPD?style=flat"></sub>
 
-* [Vanilla Music](https://github.com/vanilla-music/vanilla) ⭐ 1,351 | 🐛 275 | 🌐 Java | 📅 2024-07-15
+* [Vanilla Music](https://github.com/vanilla-music/vanilla) ⭐ 1,352 | 🐛 275 | 🌐 Java | 📅 2024-07-15
   \[[F-Droid](https://f-droid.org/packages/ch.blinkenlights.android.vanilla/)]
   \[[网站](https://vanilla-music.github.io/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/vanilla-music/vanilla?style=flat"></sub>
 
@@ -434,7 +434,7 @@
 
   </details>
 
-* [Noice](https://github.com/trynoice/android-app) ⭐ 1,034 | 🐛 39 | 🌐 Kotlin | 📅 2024-08-04
+* [Noice](https://github.com/trynoice/android-app) ⭐ 1,033 | 🐛 39 | 🌐 Kotlin | 📅 2024-08-04
   \[[F-Droid](https://f-droid.org/packages/com.github.ashutoshgngwr.noice/)]
   \[[网站](https://ashutosh.blog/noice/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/trynoice/android-app?style=flat"></sub>
 
@@ -448,7 +448,7 @@
 
   </details>
 
-* [Vinyl](https://github.com/VinylMusicPlayer/VinylMusicPlayer) ⭐ 991 | 🐛 247 | 🌐 Java | 📅 2024-08-18
+* [Vinyl](https://github.com/VinylMusicPlayer/VinylMusicPlayer) ⭐ 990 | 🐛 247 | 🌐 Java | 📅 2024-08-18
   \[[F-Droid](https://f-droid.org/packages/com.poupa.vinylmusicplayer/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/VinylMusicPlayer/VinylMusicPlayer?style=flat"></sub>
 
   <details>
@@ -461,7 +461,7 @@
 
   </details>
 
-* [Phonograph Plus](https://github.com/chr56/Phonograph_Plus) ⭐ 722 | 🐛 111 | 🌐 Kotlin | 📅 2026-08-28
+* [Phonograph Plus](https://github.com/chr56/Phonograph_Plus) ⭐ 721 | 🐛 111 | 🌐 Kotlin | 📅 2026-08-28
   \[[F-Droid](https://f-droid.org/packages/player.phonograph.plus/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/chr56/Phonograph_Plus?style=flat"></sub>
 
   也是 Phonograph 正在积极维护的 fork，在逐渐增加功能。
@@ -512,25 +512,25 @@
 
 #### 动漫
 
-* [Kazumi](https://github.com/Predidit/Kazumi) ⭐ 29,924 | 🐛 517 | 🌐 Dart | 📅 2026-09-15
+* [Kazumi](https://github.com/Predidit/Kazumi) ⭐ 29,960 | 🐛 517 | 🌐 Dart | 📅 2026-09-15
   \[[F-Droid](https://f-droid.org/packages/com.predidit.kazumi)]
   \[[网站](kazumi.app)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Predidit/Kazumi?style=flat"></sub>
 
   基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
 
-* [animeko](https://github.com/open-ani/animeko) ⭐ 20,109 | 🐛 531 | 🌐 Kotlin | 📅 2026-09-15
+* [animeko](https://github.com/open-ani/animeko) ⭐ 20,119 | 🐛 532 | 🌐 Kotlin | 📅 2026-09-16
   \[[网站](https://animeko.org/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/open-ani/animeko?style=flat"></sub>
 
   集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤，100% Kotlin/Compose Multiplatform，支持云同步观看记录 (Bangumi)。
 
-* [Anich](https://github.com/Sle2p/AniCh) ⭐ 6,360 | 🐛 85 | 🌐 Dart | 📅 2026-09-04
+* [Anich](https://github.com/Sle2p/AniCh) ⭐ 6,372 | 🐛 85 | 🌐 Dart | 📅 2026-09-15
   \[[网站](anich.emmmm.eu.org)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Sle2p/AniCh?style=flat"></sub>
 
   一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。
 
 #### 绘画
 
-* [Krita](https://github.com/KDE/krita) ⭐ 10,369 | 🐛 0 | 🌐 C++ | 📅 2026-09-15
+* [Krita](https://github.com/KDE/krita) ⭐ 10,378 | 🐛 0 | 🌐 C++ | 📅 2026-09-15
   \[[F-Droid](https://f-droid.org/packages/org.krita/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/KDE/krita?style=flat"></sub>
 
   <details>
@@ -541,7 +541,7 @@
 
   </details>
 
-* [Pocket Paint（口袋画板）](https://github.com/Catrobat/Paintroid) ⭐ 499 | 🐛 61 | 🌐 Kotlin | 📅 2026-09-15
+* [Pocket Paint（口袋画板）](https://github.com/Catrobat/Paintroid) ⭐ 499 | 🐛 61 | 🌐 Kotlin | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/org.catrobat.paintroid/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Catrobat/Paintroid?style=flat"></sub>
 
   随便画点啥，功能比较全，甚至还有图层，界面也简洁漂亮。
@@ -603,7 +603,7 @@
 
   </details>
 
-* [Aperture](https://github.com/LineageOS/android_packages_apps_Aperture) ⭐ 115 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-13 <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/LineageOS/android_packages_apps_Aperture?style=flat"></sub>
+* [Aperture](https://github.com/LineageOS/android_packages_apps_Aperture) ⭐ 115 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-16 <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/LineageOS/android_packages_apps_Aperture?style=flat"></sub>
 
   <details>
 
@@ -633,7 +633,7 @@
 
 #### 图像处理
 
-* [Aves](https://github.com/deckerst/aves) ⭐ 5,268 | 🐛 161 | 🌐 Dart | 📅 2026-09-15
+* [Aves](https://github.com/deckerst/aves) ⭐ 5,276 | 🐛 162 | 🌐 Dart | 📅 2026-09-16
   \[[F-Droid（Aves Libre）](https://f-droid.org/packages/deckers.thibault.aves.libre/)]
   \[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/deckers.thibault.aves)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/deckerst/aves?style=flat"></sub>
 
@@ -643,7 +643,7 @@
 
 #### 地图
 
-* [Organic Maps](https://github.com/organicmaps/organicmaps) ⭐ 15,424 | 🐛 3,518 | 🌐 C++ | 📅 2026-09-15
+* [Organic Maps](https://github.com/organicmaps/organicmaps) ⭐ 15,427 | 🐛 3,520 | 🌐 C++ | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/app.organicmaps/)]
   \[[网站](https://organicmaps.app/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/organicmaps/organicmaps?style=flat"></sub>
 
@@ -655,7 +655,7 @@
 
   </details>
 
-* [OSMAnd\~](https://github.com/osmandapp/Osmand) ⭐ 6,002 | 🐛 3,525 | 🌐 Java | 📅 2026-09-15
+* [OSMAnd\~](https://github.com/osmandapp/Osmand) ⭐ 6,011 | 🐛 3,523 | 🌐 Java | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/net.osmand.plus/)]
   \[[网站](https://osmand.net/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/osmandapp/Osmand?style=flat"></sub>
 
@@ -669,7 +669,7 @@
 
   </details>
 
-* [GPSLogger](https://github.com/mendhak/gpslogger) ⭐ 2,602 | 🐛 198 | 🌐 Java | 📅 2026-09-10
+* [GPSLogger](https://github.com/mendhak/gpslogger) ⭐ 2,602 | 🐛 197 | 🌐 Java | 📅 2026-09-15
   \[[F-Droid](https://f-droid.org/packages/com.mendhak.gpslogger/)]
   \[[网站](https://gpslogger.app/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mendhak/gpslogger?style=flat"></sub>
 
@@ -677,7 +677,7 @@
 
 #### 天气
 
-* [Breezy Weather](https://github.com/breezy-weather/breezy-weather) ⭐ 11,398 | 🐛 108 | 🌐 Kotlin | 📅 2026-09-13
+* [Breezy Weather](https://github.com/breezy-weather/breezy-weather) ⭐ 11,407 | 🐛 108 | 🌐 Kotlin | 📅 2026-09-13
   \[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.breezyweather)]
   \[[F-Droid](https://f-droid.org/packages/org.breezyweather/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/breezy-weather/breezy-weather?style=flat"></sub>
 
@@ -691,7 +691,7 @@
 
   </details>
 
-* ~~[Geometric Weather(几何天气)](https://github.com/WangDaYeeeeee/GeometricWeather) ⭐ 2,523 | 🐛 298 | 🌐 Java | 📅 2026-08-31
+* ~~[Geometric Weather(几何天气)](https://github.com/WangDaYeeeeee/GeometricWeather) ⭐ 2,524 | 🐛 298 | 🌐 Java | 📅 2026-08-31
   \[[F-Droid](https://f-droid.org/packages/wangdaye.com.geometricweather/)]~~ <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/WangDaYeeeeee/GeometricWeather?style=flat"></sub>
 
   <details>
@@ -736,7 +736,7 @@
 
 #### 自我管理
 
-* [Loop Habit Tracker（习惯）](https://github.com/iSoron/uhabits) ⭐ 10,248 | 🐛 52 | 🌐 Kotlin | 📅 2026-07-21
+* [Loop Habit Tracker（习惯）](https://github.com/iSoron/uhabits) ⭐ 10,250 | 🐛 52 | 🌐 Kotlin | 📅 2026-07-21
   \[[F-Droid](https://f-droid.org/packages/org.isoron.uhabits/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/iSoron/uhabits?style=flat"></sub>
 
   <details>
@@ -747,17 +747,17 @@
 
   </details>
 
-* [Tasks](https://github.com/tasks/tasks) ⭐ 5,568 | 🐛 1,191 | 🌐 Kotlin | 📅 2026-09-15
+* [Tasks](https://github.com/tasks/tasks) ⭐ 5,569 | 🐛 1,193 | 🌐 Kotlin | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/org.tasks/)]
   \[[网站](https://tasks.org/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/tasks/tasks?style=flat"></sub>
 
   待办列表管理，应该是同类最佳之一了。
 
-* [Cashew](https://github.com/jameskokoska/Cashew) ⭐ 4,623 | 🐛 14 | 🌐 Dart | 📅 2026-03-09\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/jameskokoska/Cashew?style=flat"></sub>
+* [Cashew](https://github.com/jameskokoska/Cashew) ⭐ 4,625 | 🐛 12 | 🌐 Dart | 📅 2026-03-09\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/jameskokoska/Cashew?style=flat"></sub>
 
   理财管理工具：webapp、IOS、Android多平台，支持csv格式的数据导入及导出。
 
-* [My Expenses（开支助手）](https://github.com/mtotschnig/MyExpenses) ⭐ 1,180 | 🐛 468 | 🌐 Kotlin | 📅 2026-09-14
+* [My Expenses（开支助手）](https://github.com/mtotschnig/MyExpenses) ⭐ 1,180 | 🐛 468 | 🌐 Kotlin | 📅 2026-09-16
   \[[F-droid](https://f-droid.org/packages/org.totschnig.myexpenses/)]
   \[[网站](https://www.myexpenses.mobi/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mtotschnig/MyExpenses?style=flat"></sub>
 
@@ -774,7 +774,7 @@
 
   </details>
 
-* [Home Medkit](https://github.com/pewaru-333/HomeMedkit-App) ⭐ 127 | 🐛 17 | 🌐 Kotlin | 📅 2026-08-27
+* [Home Medkit](https://github.com/pewaru-333/HomeMedkit-App) ⭐ 128 | 🐛 17 | 🌐 Kotlin | 📅 2026-08-27
   \[[F-Droid](https://f-droid.org/packages/ru.application.homemedkit/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/pewaru-333/HomeMedkit-App?style=flat"></sub>
 
   <details>
@@ -798,7 +798,7 @@
 
 #### 小工具
 
-* [Trail Sense](https://github.com/kylecorry31/Trail-Sense) ⭐ 2,860 | 🐛 317 | 🌐 Kotlin | 📅 2026-09-14
+* [Trail Sense](https://github.com/kylecorry31/Trail-Sense) ⭐ 2,860 | 🐛 316 | 🌐 Kotlin | 📅 2026-09-15
   \[[F-Droid](https://f-droid.org/packages/com.kylecorry.trail_sense/)]
   \[[网站](https://kylecorry.com/Trail-Sense/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/kylecorry31/Trail-Sense?style=flat"></sub>
 
@@ -859,7 +859,7 @@
 
 #### 办公套件
 
-* [Collabora Office](https://github.com/CollaboraOnline/online) ⭐ 3,350 | 🐛 855 | 🌐 Shell | 📅 2026-09-04
+* [Collabora Office](https://github.com/CollaboraOnline/online) ⭐ 3,350 | 🐛 859 | 🌐 Shell | 📅 2026-09-04
   \[[独立源](https://www.collaboraoffice.com/releases-en/collabora-office-on-mobiles-supporting-password-protected-documents-and-available-on-f-droid/)]
   \[[网站](https://www.collaboraonline.com/collabora-office-android-ios/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/CollaboraOnline/online?style=flat"></sub>
 
@@ -875,7 +875,7 @@
 
 #### 笔记
 
-* [Joplin](https://github.com/laurent22/joplin) ⭐ 56,375 | 🐛 634 | 🌐 TypeScript | 📅 2026-09-15
+* [Joplin](https://github.com/laurent22/joplin) ⭐ 56,389 | 🐛 640 | 🌐 TypeScript | 📅 2026-09-15
   \[[F-Droid](https://f-droid.org/packages/net.cozic.joplin/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/laurent22/joplin?style=flat"></sub>
 
   <details>
@@ -886,7 +886,7 @@
 
   </details>
 
-* [Markor](https://github.com/gsantner/markor) ⭐ 6,128 | 🐛 192 | 🌐 Java | 📅 2026-08-25
+* [Markor](https://github.com/gsantner/markor) ⭐ 6,133 | 🐛 192 | 🌐 Java | 📅 2026-08-25
   \[[F-Droid](https://f-droid.org/packages/net.gsantner.markor/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/gsantner/markor?style=flat"></sub>
 
   <details>
@@ -899,7 +899,7 @@
 
   </details>
 
-* [Saber](https://github.com/saber-notes/saber) ⭐ 4,804 | 🐛 401 | 🌐 Dart | 📅 2026-09-15
+* [Saber](https://github.com/saber-notes/saber) ⭐ 4,806 | 🐛 401 | 🌐 Dart | 📅 2026-09-15
   \[[F-Droid](https://f-droid.org/packages/com.adilhanney.saber/)]
   \[[网站](https://saber.adil.hanney.org/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/saber-notes/saber?style=flat"></sub>
 
@@ -920,18 +920,18 @@
 
 #### 文档阅读
 
-* [KOReader](https://github.com/koreader/koreader) ⭐ 29,715 | 🐛 1,345 | 🌐 Lua | 📅 2026-09-15
+* [KOReader](https://github.com/koreader/koreader) ⭐ 29,728 | 🐛 1,343 | 🌐 Lua | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/org.koreader.launcher.fdroid/)]
   \[[网站](https://koreader.rocks/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/koreader/koreader?style=flat"></sub>
 
   适用于电子书的著名阅读软件。
 
-* [Readest](https://github.com/readest/readest) ⭐ 24,344 | 🐛 147 | 🌐 TypeScript | 📅 2026-09-15
+* [Readest](https://github.com/readest/readest) ⭐ 24,369 | 🐛 150 | 🌐 TypeScript | 📅 2026-09-15
   \[[网站](https://readest.com/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/readest/readest?style=flat"></sub>
 
   界面美观的电子书阅读软件，提供无缝的跨平台访问（支持 macOS、Windows、Linux、Android、iOS 以及网页端）
 
-* [Librera Reader](https://github.com/foobnix/LibreraReader) ⭐ 4,791 | 🐛 522 | 🌐 C | 📅 2026-09-15
+* [Librera Reader](https://github.com/foobnix/LibreraReader) ⭐ 4,799 | 🐛 525 | 🌐 C | 📅 2026-09-15
   \[[F-Droid](https://f-droid.org/packages/com.foobnix.pro.pdf.reader/)]
   \[[网站](https://librera.mobi/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/foobnix/LibreraReader?style=flat"></sub>
 
@@ -994,7 +994,7 @@
 
 #### 文档扫描
 
-* [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner) ⭐ 2,419 | 🐛 86 | 🌐 C++ | 📅 2026-09-14
+* [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner) ⭐ 2,428 | 🐛 86 | 🌐 C++ | 📅 2026-09-16
   \[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.akylas.documentscanner)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Akylas/OSS-DocumentScanner?style=flat"></sub>
 
   <details>
@@ -1011,7 +1011,7 @@
 
   </details>
 
-* [OpenScan](https://github.com/ethereal-developers/OpenScan) ⭐ 1,810 | 🐛 26 | 🌐 Dart | 📅 2026-09-05
+* [OpenScan](https://github.com/ethereal-developers/OpenScan) ⭐ 1,811 | 🐛 26 | 🌐 Dart | 📅 2026-09-05
   \[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.ethereal.openscan)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/ethereal-developers/OpenScan?style=flat"></sub>
 
   <details>
@@ -1024,7 +1024,7 @@
 
   </details>
 
-* [FairScan](https://github.com/pynicolas/FairScan) ⭐ 861 | 🐛 40 | 🌐 Kotlin | 📅 2026-09-14
+* [FairScan](https://github.com/pynicolas/FairScan) ⭐ 865 | 🐛 41 | 🌐 Kotlin | 📅 2026-09-14
   \[[F-Droid](https://f-droid.org/packages/org.fairscan.app/)]
   \[[网站](https://fairscan.org/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/pynicolas/FairScan?style=flat"></sub>
 
@@ -1038,7 +1038,7 @@
 
 #### 卡片
 
-* [AnkiDroid](https://github.com/ankidroid/Anki-Android) ⭐ 11,788 | 🐛 369 | 🌐 Kotlin | 📅 2026-09-15
+* [AnkiDroid](https://github.com/ankidroid/Anki-Android) ⭐ 11,795 | 🐛 365 | 🌐 Kotlin | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/com.ichi2.anki/)]
   \[[网站](https://ankidroid.org/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/ankidroid/Anki-Android?style=flat"></sub>
 
@@ -1058,7 +1058,7 @@
 
   MD3 设计，可同时使用多个翻译引擎，同样支持选中文字翻译。
 
-* [Aard2](https://github.com/itkach/aard2-android) ⭐ 554 | 🐛 46 | 🌐 Java | 📅 2026-09-15
+* [Aard2](https://github.com/itkach/aard2-android) ⭐ 554 | 🐛 46 | 🌐 Java | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/itkach.aard2/)]
   \[[网站](https://aarddict.org/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/itkach/aard2-android?style=flat"></sub>
 
@@ -1066,7 +1066,7 @@
 
   <summary>支持很多词典，可以在官网找到相应下载链接。</summary><br/>
 
-  可惜作者不愿意将界面更新为早已成为主流的质感设计（见[此 issue](https://github.com/itkach/aard2-android/issues/72) ⭐ 554 | 🐛 46 | 🌐 Java | 📅 2026-09-15），因此界面很老旧。
+  可惜作者不愿意将界面更新为早已成为主流的质感设计（见[此 issue](https://github.com/itkach/aard2-android/issues/72) ⭐ 554 | 🐛 46 | 🌐 Java | 📅 2026-09-16），因此界面很老旧。
 
   </details>
 
@@ -1107,7 +1107,7 @@
 
 #### 百科
 
-* [Wikipedia（维基百科）](https://github.com/wikimedia/apps-android-wikipedia) ⭐ 3,025 | 🐛 47 | 🌐 Kotlin | 📅 2026-09-15
+* [Wikipedia（维基百科）](https://github.com/wikimedia/apps-android-wikipedia) ⭐ 3,024 | 🐛 44 | 🌐 Kotlin | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/org.wikipedia/)]
   \[[网站](https://www.mediawiki.org/wiki/Wikimedia_Apps)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/wikimedia/apps-android-wikipedia?style=flat"></sub>
 
@@ -1119,7 +1119,7 @@
 
   </details>
 
-* [Kiwix](https://github.com/kiwix/kiwix-android) ⭐ 1,467 | 🐛 114 | 🌐 Kotlin | 📅 2026-09-14
+* [Kiwix](https://github.com/kiwix/kiwix-android) ⭐ 1,467 | 🐛 106 | 🌐 Kotlin | 📅 2026-09-16
   \[[IzzyOndroid](https://apt.izzysoft.de/fdroid/index/apk/org.kiwix.kiwixmobile.standalone)]
   \[[网站](https://android.kiwix.org/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/kiwix/kiwix-android?style=flat"></sub>
 
@@ -1127,7 +1127,7 @@
 
 #### 星图
 
-* [Stellarium](https://github.com/Stellarium/stellarium) ⭐ 9,986 | 🐛 409 | 🌐 C++ | 📅 2026-09-15
+* [Stellarium](https://github.com/Stellarium/stellarium) ⭐ 9,991 | 🐛 409 | 🌐 C++ | 📅 2026-09-16
   \[[网站](https://www.stellarium-labs.com/stellarium-mobile-plus/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Stellarium/stellarium?style=flat"></sub>
 
   <details>
@@ -1138,7 +1138,7 @@
 
   </details>
 
-* [Sky Map](https://github.com/sky-map-team/stardroid) ⭐ 1,843 | 🐛 63 | 🌐 Kotlin | 📅 2026-09-15
+* [Sky Map](https://github.com/sky-map-team/stardroid) ⭐ 1,843 | 🐛 65 | 🌐 Kotlin | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/com.google.android.stardroid/)]
   \[[网站](https://sky-map-team.github.io/stardroid/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/sky-map-team/stardroid?style=flat"></sub>
 
@@ -1156,7 +1156,7 @@
 
 #### 单位转换
 
-* [Unit Converter Ultimate](https://github.com/physphil/UnitConverterUltimate) ⭐ 234 | 🐛 89 | 🌐 Java | 📅 2023-08-07
+* [Unit Converter Ultimate](https://github.com/physphil/UnitConverterUltimate) ⭐ 235 | 🐛 89 | 🌐 Java | 📅 2023-08-07
   \[[F-Droid](https://www.f-droid.org/packages/com.physphil.android.unitconverterultimate/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/physphil/UnitConverterUltimate?style=flat"></sub>
 
   <details>
@@ -1171,7 +1171,7 @@
 
 #### 输入法
 
-* [Fcitx5 for Android（小企鹅输入法5）](https://github.com/fcitx5-android/fcitx5-android) ⭐ 5,651 | 🐛 102 | 🌐 Kotlin | 📅 2026-09-12
+* [Fcitx5 for Android（小企鹅输入法5）](https://github.com/fcitx5-android/fcitx5-android) ⭐ 5,655 | 🐛 102 | 🌐 Kotlin | 📅 2026-09-12
   \[[F-Droid](https://f-droid.org/packages/org.fcitx.fcitx5.android/)]
   \[[网站](https://fcitx5-android.github.io/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/fcitx5-android/fcitx5-android?style=flat"></sub>
 
@@ -1187,7 +1187,7 @@
 
   </details>
 
-* [Trime（同文输入法）](https://github.com/osfans/trime) ⭐ 4,639 | 🐛 118 | 🌐 Kotlin | 📅 2026-09-14
+* [Trime（同文输入法）](https://github.com/osfans/trime) ⭐ 4,639 | 🐛 120 | 🌐 Kotlin | 📅 2026-09-14
   \[[F-Droid](https://f-droid.org/packages/com.osfans.trime/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/osfans/trime?style=flat"></sub>
 
   <details>
@@ -1200,7 +1200,7 @@
 
   </details>
 
-* [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) ⭐ 3,253 | 🐛 303 | 🌐 Java | 📅 2026-09-14
+* [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) ⭐ 3,253 | 🐛 305 | 🌐 Java | 📅 2026-09-15
   \[[F-Droid](https://f-droid.org/packages/juloo.keyboard2/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Julow/Unexpected-Keyboard?style=flat"></sub>
 
   <details>
@@ -1226,7 +1226,7 @@
 
 #### 文件管理
 
-* [Material Files（质感文件）](https://github.com/zhanghai/MaterialFiles) ⭐ 8,922 | 🐛 629 | 🌐 Kotlin | 📅 2026-04-06
+* [Material Files（质感文件）](https://github.com/zhanghai/MaterialFiles) ⭐ 8,925 | 🐛 630 | 🌐 Kotlin | 📅 2026-04-06
   \[[F-Droid](https://f-droid.org/packages/me.zhanghai.android.files/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/zhanghai/MaterialFiles?style=flat"></sub>
 
   文件管理器，非常漂亮，基本的功能都有。
@@ -1242,7 +1242,7 @@
 
   </details>
 
-* [Disk Usage](https://github.com/WhiredPlanck/diskusage) ⭐ 97 | 🐛 0 | 🌐 Java | 📅 2024-12-30
+* [Disk Usage](https://github.com/WhiredPlanck/diskusage) ⭐ 97 | 🐛 1 | 🌐 Java | 📅 2024-12-30
   \[[F-Droid](https://f-droid.org/packages/com.google.android.diskusage/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/WhiredPlanck/diskusage?style=flat"></sub>
 
   <details>
@@ -1271,7 +1271,7 @@
 
 #### 文件同步
 
-* [Syncthing-Fork](https://github.com/Catfriend1/syncthing-android) ⭐ 2,831 | 🐛 6 | 🌐 Java | 📅 2026-09-14
+* [Syncthing-Fork](https://github.com/Catfriend1/syncthing-android) ⭐ 2,836 | 🐛 6 | 🌐 Java | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/com.github.catfriend1.syncthingandroid/)]
   \[[网站](https://syncthing.net/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Catfriend1/syncthing-android?style=flat"></sub>
 
@@ -1285,7 +1285,7 @@
 
   </details>
 
-* [Seafile](https://github.com/haiwen/seadroid) ⭐ 629 | 🐛 44 | 🌐 Java | 📅 2026-09-15
+* [Seafile](https://github.com/haiwen/seadroid) ⭐ 629 | 🐛 43 | 🌐 Java | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/com.seafile.seadroid2/)]
   \[[网站](https://www.seafile.com/home/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/haiwen/seadroid?style=flat"></sub>
 
@@ -1299,7 +1299,7 @@
 
 #### 文件加密/隐藏
 
-* [Amarok](https://github.com/deltazefiro/Amarok-Hider) ⭐ 3,250 | 🐛 62 | 🌐 Java | 📅 2026-08-11
+* [Amarok](https://github.com/deltazefiro/Amarok-Hider) ⭐ 3,252 | 🐛 62 | 🌐 Java | 📅 2026-08-11
   \[[F-Droid](https://f-droid.org/packages/deltazero.amarok.foss/)]
   \[[网站](https://deltazefiro.github.io/Amarok-doc/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/deltazefiro/Amarok-Hider?style=flat"></sub>
 
@@ -1314,7 +1314,7 @@
 
   </details>
 
-* [Photok](https://github.com/leonlatsch/Photok) ⭐ 966 | 🐛 54 | 🌐 Kotlin | 📅 2026-09-14
+* [Photok](https://github.com/leonlatsch/Photok) ⭐ 967 | 🐛 54 | 🌐 Kotlin | 📅 2026-09-15
   \[[F-Droid](https://f-droid.org/packages/dev.leonlatsch.photok/)]
   \[[网站](https://www.producthunt.com/products/photok)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/leonlatsch/Photok?style=flat"></sub>
 
@@ -1346,7 +1346,7 @@
 
 #### 分享
 
-* [LocalSend](https://github.com/localsend/localsend) ⭐ 91,582 | 🐛 1,119 | 🌐 Dart | 📅 2026-09-14
+* [LocalSend](https://github.com/localsend/localsend) ⭐ 91,756 | 🐛 1,122 | 🌐 Dart | 📅 2026-09-14
   \[[F-droid](https://f-droid.org/packages/org.localsend.localsend_app/)]
   \[[网站](https://localsend.org/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/localsend/localsend?style=flat"></sub>
 
@@ -1360,7 +1360,7 @@
 
   </details>
 
-* [FFShare](https://github.com/caydey/ffshare) ⭐ 1,100 | 🐛 70 | 🌐 Kotlin | 📅 2026-08-14
+* [FFShare](https://github.com/caydey/ffshare) ⭐ 1,100 | 🐛 71 | 🌐 Kotlin | 📅 2026-08-14
   \[[F-Droid](https://f-droid.org/packages/com.caydey.ffshare/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/caydey/ffshare?style=flat"></sub>
 
   <details>
@@ -1419,7 +1419,7 @@
 
 #### 下载管理
 
-* [Seal](https://github.com/JunkFood02/Seal) ⭐ 28,967 | 🐛 720 | 🌐 Kotlin | 📅 2026-08-25
+* [Seal](https://github.com/JunkFood02/Seal) ⭐ 28,996 | 🐛 720 | 🌐 Kotlin | 📅 2026-08-25
   \[[F-Droid](https://f-droid.org/packages/com.junkfood.seal/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/JunkFood02/Seal?style=flat"></sub>
 
   基于 yt-dlp 的视频/音频下载器。
@@ -1442,20 +1442,20 @@
 
 #### 备份
 
-* [Neo Backup](https://github.com/NeoApplications/Neo-Backup) ⭐ 3,807 | 🐛 242 | 🌐 Kotlin | 📅 2026-05-03
+* [Neo Backup](https://github.com/NeoApplications/Neo-Backup) ⭐ 3,809 | 🐛 242 | 🌐 Kotlin | 📅 2026-05-03
   \[[F-Droid](https://f-droid.org/packages/com.machiav3lli.backup/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/NeoApplications/Neo-Backup?style=flat"></sub>
 
   备份软件（原名 OAndBackupX），可以备份任何东西，需要 root。
 
 #### 密码
 
-* [Aegis](https://github.com/beemdevelopment/Aegis) ⭐ 13,089 | 🐛 120 | 🌐 Java | 📅 2026-09-06
+* [Aegis](https://github.com/beemdevelopment/Aegis) ⭐ 13,099 | 🐛 120 | 🌐 Java | 📅 2026-09-06
   \[[F-Droid](https://f-droid.org/packages/com.beemdevelopment.aegis/)]
   \[[网站](https://getaegis.app/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/beemdevelopment/Aegis?style=flat"></sub>
 
   双重验证（2FA）客户端，支持 HOTP 和 TOTP。
 
-* [KeePassDX](https://github.com/Kunzisoft/KeePassDX) ⭐ 7,305 | 🐛 535 | 🌐 Kotlin | 📅 2026-09-15
+* [KeePassDX](https://github.com/Kunzisoft/KeePassDX) ⭐ 7,312 | 🐛 535 | 🌐 Kotlin | 📅 2026-09-15
   \[[F-Droid](https://f-droid.org/packages/com.kunzisoft.keepass.libre/)]
   \[[网站](https://www.keepassdx.com/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Kunzisoft/KeePassDX?style=flat"></sub>
 
@@ -1469,7 +1469,7 @@
 
   </details>
 
-* [Stratum](https://github.com/stratumauth/app) ⭐ 4,579 | 🐛 83 | 🌐 C# | 📅 2026-09-14
+* [Stratum](https://github.com/stratumauth/app) ⭐ 4,584 | 🐛 83 | 🌐 C# | 📅 2026-09-15
   \[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.stratumauth.app)]
   \[[网站](https://stratumauth.com/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/stratumauth/app?style=flat"></sub>
 
@@ -1506,7 +1506,7 @@
 
   </details>
 
-* [Password Store](https://github.com/agrahn/Android-Password-Store) ⭐ 445 | 🐛 29 | 🌐 Kotlin | 📅 2026-09-15
+* [Password Store](https://github.com/agrahn/Android-Password-Store) ⭐ 445 | 🐛 29 | 🌐 Kotlin | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/en/packages/app.passwordstore.agrahn)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/agrahn/Android-Password-Store?style=flat"></sub>
 
   <details>
@@ -1529,7 +1529,7 @@
 
 #### 短信
 
-* [QUIK](https://github.com/octoshrimpy/quik) ⭐ 2,767 | 🐛 288 | 🌐 Java | 📅 2026-08-29
+* [QUIK](https://github.com/octoshrimpy/quik) ⭐ 2,767 | 🐛 286 | 🌐 Java | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/dev.octoshrimpy.quik/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/octoshrimpy/quik?style=flat"></sub>
 
   <details>
@@ -1554,12 +1554,12 @@
 LineageOS 中，录音功能按照不同国家的法律对电话录音的规定设置了与否启用。
 比如，在地区设置为我国，录音按钮就会显示；而设置在美国，则打电话的时候没有录音按钮。
 为此，LineageOS 团队（亦或是更早的开发者）调研了几乎每一个国家的法律，逐一做出了判断，
-相关源代码可见 [这里](https://github.com/LineageOS/android_packages_apps_Dialer/blob/lineage-22.1/java/com/android/dialer/callrecord/res/xml/call_record_states.xml) ⭐ 60 | 🐛 0 | 🌐 Java | 📅 2026-09-11。
+相关源代码可见 [这里](https://github.com/LineageOS/android_packages_apps_Dialer/blob/lineage-22.1/java/com/android/dialer/callrecord/res/xml/call_record_states.xml) ⭐ 60 | 🐛 0 | 🌐 Java | 📅 2026-09-15。
 其中列举了针对所有国家地区决定开启这项功能与否的理由，并附所参考法律文件的链接，可谓用心良苦。
 
 </details>
 
-* [BCR(Basic Call Recorder)](https://github.com/chenxiaolong/BCR) ⭐ 2,915 | 🐛 15 | 🌐 Kotlin | 📅 2026-09-09 <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/chenxiaolong/BCR?style=flat"></sub>
+* [BCR(Basic Call Recorder)](https://github.com/chenxiaolong/BCR) ⭐ 2,916 | 🐛 15 | 🌐 Kotlin | 📅 2026-09-09 <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/chenxiaolong/BCR?style=flat"></sub>
 
   <details>
 
@@ -1572,7 +1572,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
   </details>
 
-* [BCR-GUI](https://github.com/nicorac/bcr-gui) ⭐ 354 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-14
+* [BCR-GUI](https://github.com/nicorac/bcr-gui) ⭐ 355 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-16
   \[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.github.nicorac.bcrgui)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/nicorac/bcr-gui?style=flat"></sub>
 
   <details>
@@ -1600,7 +1600,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
 #### 应用管理
 
-* [App Manager](https://github.com/MuntashirAkon/AppManager) ⭐ 8,982 | 🐛 191 | 🌐 Java | 📅 2026-09-15
+* [App Manager](https://github.com/MuntashirAkon/AppManager) ⭐ 8,991 | 🐛 191 | 🌐 Java | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/io.github.muntashirakon.AppManager/)]
   \[[网站](https://muntashirakon.github.io/AppManager/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/MuntashirAkon/AppManager?style=flat"></sub>
 
@@ -1612,7 +1612,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
   </details>
 
-* [LibChecker](https://github.com/LibChecker/LibChecker) ⭐ 7,165 | 🐛 15 | 🌐 Kotlin | 📅 2026-09-15
+* [LibChecker](https://github.com/LibChecker/LibChecker) ⭐ 7,167 | 🐛 15 | 🌐 Kotlin | 📅 2026-09-15
   \[[F-Droid](https://f-droid.org/packages/com.absinthe.libchecker/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/LibChecker/LibChecker?style=flat"></sub>
 
   <details>
@@ -1623,7 +1623,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
   </details>
 
-* [Activity Manager](https://github.com/sdex/ActivityManager) ⭐ 1,321 | 🐛 16 | 🌐 Kotlin | 📅 2026-07-25
+* [Activity Manager](https://github.com/sdex/ActivityManager) ⭐ 1,320 | 🐛 16 | 🌐 Kotlin | 📅 2026-07-25
   \[[F-Droid](https://f-droid.org/packages/com.activitymanager/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/sdex/ActivityManager?style=flat"></sub>
 
   高级的 Activity 和快捷方式启动器。
@@ -1641,7 +1641,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
 #### 应用冻结
 
-* [Hail（雹）](https://github.com/aistra0528/Hail) ⭐ 6,666 | 🐛 169 | 🌐 Kotlin | 📅 2026-09-14
+* [Hail（雹）](https://github.com/aistra0528/Hail) ⭐ 6,673 | 🐛 169 | 🌐 Kotlin | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/com.aistra.hail/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/aistra0528/Hail?style=flat"></sub>
 
   <details>
@@ -1670,14 +1670,14 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
 #### 系统清理
 
-* [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) ⭐ 7,528 | 🐛 15 | 🌐 Kotlin | 📅 2026-09-14
+* [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) ⭐ 7,536 | 🐛 17 | 🌐 Kotlin | 📅 2026-09-15
   \[[F-Droid](https://f-droid.org/packages/eu.darken.sdmse/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/d4rken-org/sdmaid-se?style=flat"></sub>
 
   <details>
 
   <summary>SD Maid 二代。</summary><br/>
 
-  估计很多人都用过 SD Maid，这个是其作者为更高安卓版本重新开发的开源版本。SE 是什么意思作者也[没有给出解释](https://github.com/d4rken-org/sdmaid-se/wiki/FAQ#what-does-the-se-in-sd-maid-se-stand-for) ⭐ 7,528 | 🐛 15 | 🌐 Kotlin | 📅 2026-09-14，或可解读为第二版 Second Edition。
+  估计很多人都用过 SD Maid，这个是其作者为更高安卓版本重新开发的开源版本。SE 是什么意思作者也[没有给出解释](https://github.com/d4rken-org/sdmaid-se/wiki/FAQ#what-does-the-se-in-sd-maid-se-stand-for) ⭐ 7,536 | 🐛 17 | 🌐 Kotlin | 📅 2026-09-15，或可解读为第二版 Second Edition。
 
   目前版本有各种系统清理选项，还有存储占用分析。已经基本可以替代原版本了。
 
@@ -1695,7 +1695,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
   </details>
 
-* [Iconify](https://github.com/Mahmud0808/Iconify) ⭐ 3,169 | 🐛 99 | 🌐 Kotlin | 📅 2026-09-13
+* [Iconify](https://github.com/Mahmud0808/Iconify) ⭐ 3,169 | 🐛 100 | 🌐 Kotlin | 📅 2026-09-13
   \[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.drdisagree.iconify.foss)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Mahmud0808/Iconify?style=flat"></sub>
 
   <details>
@@ -1706,7 +1706,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
   </details>
 
-* [Doodle](https://github.com/patzly/doodle-android) ⭐ 848 | 🐛 29 | 🌐 Java | 📅 2025-02-28
+* [Doodle](https://github.com/patzly/doodle-android) ⭐ 849 | 🐛 29 | 🌐 Java | 📅 2025-02-28
   \[[F-Droid](https://f-droid.org/packages/xyz.zedler.patrick.doodle/)]
   \[[网站](https://patrickzedler.com/doodle/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/patzly/doodle-android?style=flat"></sub>
 
@@ -1720,14 +1720,14 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
 #### 系统信息
 
-* [CPU Info](https://github.com/kamgurgul/cpu-info) ⭐ 1,071 | 🐛 9 | 🌐 Kotlin | 📅 2026-09-15
+* [CPU Info](https://github.com/kamgurgul/cpu-info) ⭐ 1,069 | 🐛 8 | 🌐 Kotlin | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/com.kgurgul.cpuinfo/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/kamgurgul/cpu-info?style=flat"></sub>
 
   展示系统软硬件信息，如 CPU 核心频率等，但并不全面。
 
 #### 手机安全
 
-* [Hypatia](https://github.com/MaintainTeam/Hypatia) ⭐ 452 | 🐛 37 | 🌐 Kotlin | 📅 2026-05-17
+* [Hypatia](https://github.com/MaintainTeam/Hypatia) ⭐ 453 | 🐛 37 | 🌐 Kotlin | 📅 2026-05-17
   \[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.maintainteam.hypatia)] <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MaintainTeam/Hypatia?style=flat"></sub>
 
   <details>
@@ -1747,7 +1747,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
   使 PC 的声音通过网络在手机上播放，SoundWire 的替代品。
 
-* [KDE Connect](https://github.com/KDE/kdeconnect-android) ⭐ 1,447 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-14
+* [KDE Connect](https://github.com/KDE/kdeconnect-android) ⭐ 1,448 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-14
   \[[F-Droid](https://f-droid.org/packages/org.kde.kdeconnect_tp/)]
   \[[网站](https://kdeconnect.kde.org/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/KDE/kdeconnect-android?style=flat"></sub>
 
@@ -1755,7 +1755,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
   <summary>很强大的连接 PC 和手机的工具。</summary><br/>
 
-  可以分享文件或文本、同步通知、运行命令和远程控制等等。需要 Linux 系统上安装相应的 PC 端软件，常见的如 KDE 官方的 [Kde Connect](https://kdeconnect.kde.org/) 和适配 GNOME 的 [GSConnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect) ⭐ 3,712 | 🐛 249 | 🌐 JavaScript | 📅 2026-09-06。
+  可以分享文件或文本、同步通知、运行命令和远程控制等等。需要 Linux 系统上安装相应的 PC 端软件，常见的如 KDE 官方的 [Kde Connect](https://kdeconnect.kde.org/) 和适配 GNOME 的 [GSConnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect) ⭐ 3,713 | 🐛 249 | 🌐 JavaScript | 📅 2026-09-06。
 
   KDE 团队做的很好的一点是，他们将 KDE Connect 前后端分离开了，真正支撑底层功能的部分实现为一种协议，可以独立于图形界面部分运行。这样在非 KDE 环境，便可以用其它的软件，如我在使用的 [mconnect](https://github.com/grimpy/mconnect) ⭐ 26 | 🐛 2 | 🌐 Vala | 📅 2022-04-09，就是没有图形界面，只有命令行接口，但如果你想要的基本功能都具备，可以很灵活而不受桌面环境限制。
 
@@ -1775,7 +1775,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
 #### 卫星定位
 
-* [GPSTest](https://github.com/barbeau/gpstest) ⭐ 2,402 | 🐛 113 | 🌐 Kotlin | 📅 2026-09-14
+* [GPSTest](https://github.com/barbeau/gpstest) ⭐ 2,403 | 🐛 113 | 🌐 Kotlin | 📅 2026-09-14
   \[[F-Droid](https://f-droid.org/packages/com.android.gpstest.osmdroid/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/barbeau/gpstest?style=flat"></sub>
 
   <details>
@@ -1788,7 +1788,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
 #### 传感器
 
-* [Phyphox](https://github.com/phyphox/phyphox-android) ⭐ 643 | 🐛 7 | 🌐 C | 📅 2026-09-12
+* [Phyphox](https://github.com/phyphox/phyphox-android) ⭐ 645 | 🐛 7 | 🌐 C | 📅 2026-09-15
   \[[F-Droid](https://f-droid.org/packages/de.rwth_aachen.phyphox/)]
   \[[网站](https://phyphox.org/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/phyphox/phyphox-android?style=flat"></sub>
 
@@ -1802,7 +1802,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
 #### 语音助手
 
-* [RHVoice](https://github.com/RHVoice/RHVoice) ⭐ 1,839 | 🐛 172 | 🌐 C++ | 📅 2026-08-27
+* [RHVoice](https://github.com/RHVoice/RHVoice) ⭐ 1,841 | 🐛 171 | 🌐 C++ | 📅 2026-08-27
   \[[F-Droid](https://f-droid.org/packages/com.github.olga_yakovleva.rhvoice.android/)]
   \[[网站](https://rhvoice.org/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/RHVoice/RHVoice?style=flat"></sub>
 
@@ -1815,14 +1815,14 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
   如果需要听它出声音，还要安装 RHVoice，否则的话只能显示文字。
 
   </details>
-* [Dicio assistant](https://github.com/Stypox/dicio-android) ⭐ 1,479 | 🐛 130 | 🌐 Kotlin | 📅 2026-07-25
+* [Dicio assistant](https://github.com/Stypox/dicio-android) ⭐ 1,480 | 🐛 130 | 🌐 Kotlin | 📅 2026-07-25
   \[[F-Droid](https://f-droid.org/packages/org.stypox.dicio/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Stypox/dicio-android?style=flat"></sub>
 
 #### 统一推送（[UnifiedPush](https://unifiedpush.org/)）
 
 UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具。[已适配的应用列表。](https://unifiedpush.org/users/apps/)
 
-* [Ntfy](https://github.com/binwiederhier/ntfy-android) ⭐ 1,124 | 🐛 31 | 🌐 Kotlin | 📅 2026-07-21
+* [Ntfy](https://github.com/binwiederhier/ntfy-android) ⭐ 1,127 | 🐛 32 | 🌐 Kotlin | 📅 2026-07-21
   \[[F-Droid](https://f-droid.org/packages/io.heckel.ntfy/)]
   \[[网站](https://ntfy.sh/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/binwiederhier/ntfy-android?style=flat"></sub>
 
@@ -1863,7 +1863,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 #### Root 工具
 
-* [Magisk](https://github.com/topjohnwu/Magisk) ⭐ 62,777 | 🐛 37 | 🌐 Kotlin | 📅 2026-09-12
+* [Magisk](https://github.com/topjohnwu/Magisk) ⭐ 62,791 | 🐛 36 | 🌐 Kotlin | 📅 2026-09-12
   \[[F-Droid](https://f-droid.org/packages/com.topjohnwu.magisk/)]
   \[[网站](https://topjohnwu.github.io/Magisk/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/topjohnwu/Magisk?style=flat"></sub>
 
@@ -1877,7 +1877,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   </details>
 
-* [KernelSU](https://github.com/tiann/KernelSU) ⭐ 18,412 | 🐛 66 | 🌐 Kotlin | 📅 2026-09-15
+* [KernelSU](https://github.com/tiann/KernelSU) ⭐ 18,435 | 🐛 66 | 🌐 Kotlin | 📅 2026-09-15
   \[[网站](https://kernelsu.org/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/tiann/KernelSU?style=flat"></sub>
 
   <details>
@@ -1890,7 +1890,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   </details>
 
-* [Apatch](https://github.com/bmax121/APatch) ⭐ 7,939 | 🐛 51 | 🌐 Kotlin | 📅 2026-09-14
+* [Apatch](https://github.com/bmax121/APatch) ⭐ 7,941 | 🐛 52 | 🌐 Kotlin | 📅 2026-09-15
   \[[网站](https://apatch.dev/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/bmax121/APatch?style=flat"></sub>
 
   <details>
@@ -1907,7 +1907,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 #### 文本编辑
 
-* [Acode](https://github.com/Acode-Foundation/Acode) ⭐ 7,009 | 🐛 91 | 🌐 JavaScript | 📅 2026-09-15
+* [Acode](https://github.com/Acode-Foundation/Acode) ⭐ 7,026 | 🐛 91 | 🌐 JavaScript | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/com.foxdebug.acode/)]
   \[[网站](https://acode.app/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Acode-Foundation/Acode?style=flat"></sub>
 
@@ -1933,13 +1933,13 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 #### 远程连接
 
-* [RustDesk](https://github.com/rustdesk/rustdesk) ⭐ 123,585 | 🐛 159 | 🌐 Rust | 📅 2026-09-15
+* [RustDesk](https://github.com/rustdesk/rustdesk) ⭐ 123,765 | 🐛 162 | 🌐 Rust | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/com.carriez.flutter_hbb/)]
   \[[网站](https://rustdesk.com/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/rustdesk/rustdesk?style=flat"></sub>
 
   开源远程桌面应用，TeamViewer 替代方案。
 
-* [ConnectBot](https://github.com/connectbot/connectbot) ⭐ 3,448 | 🐛 282 | 🌐 Kotlin | 📅 2026-09-15
+* [ConnectBot](https://github.com/connectbot/connectbot) ⭐ 3,450 | 🐛 282 | 🌐 Kotlin | 📅 2026-09-15
   \[[F-Droid](https://f-droid.org/packages/org.connectbot/)]
   \[[网站](https://connectbot.org/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/connectbot/connectbot?style=flat"></sub>
 
@@ -1953,7 +1953,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   </details>
 
-* [AVNC](https://github.com/gujjwal00/avnc) ⭐ 1,151 | 🐛 19 | 🌐 Kotlin | 📅 2026-09-12
+* [AVNC](https://github.com/gujjwal00/avnc) ⭐ 1,151 | 🐛 20 | 🌐 Kotlin | 📅 2026-09-12
   \[[F-Droid](https://f-droid.org/packages/com.gaurav.avnc/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/gujjwal00/avnc?style=flat"></sub>
 
   <details>
@@ -1977,7 +1977,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 #### 终端
 
-* [Termux](https://github.com/termux/termux-app) ⭐ 60,847 | 🐛 607 | 🌐 Java | 📅 2026-09-11
+* [Termux](https://github.com/termux/termux-app) ⭐ 60,889 | 🐛 607 | 🌐 Java | 📅 2026-09-15
   \[[F-Droid](https://f-droid.org/packages/com.termux/)]
   \[[网站](https://termux.dev/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/termux/termux-app?style=flat"></sub>
 
@@ -1987,7 +1987,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   Termux 有自己的包管理，你可以像使用任何 Linux 系统一样使用这个终端，安装软件等都是可以的。
 
-  不过，我自己之前没有收纳这个软件，现在经推荐才加入进来，原因就是它并不适合一般用户，明显是为极客用户而生的。更麻烦的是，貌似 Termux 在 Android 12+ [有被系统杀掉进程](https://github.com/termux/termux-app/issues/2366) ⭐ 60,847 | 🐛 607 | 🌐 Java | 📅 2026-09-11 的问题，解决这个问题又是需要折腾系统（如果愿意使用 Tasker，这个问题可以使用 [Termux:Tasker](https://f-droid.org/packages/com.termux.tasker/) 解决，LineageOS 20 用此方法在 Termux 中开机启动后自动挂代理，几乎未被系统杀死过）。总之，我认为想玩 Linux 的话，最佳办法是在真机或虚拟机里安装 Linux 系统，Termux 的使用场景真的比较有限。
+  不过，我自己之前没有收纳这个软件，现在经推荐才加入进来，原因就是它并不适合一般用户，明显是为极客用户而生的。更麻烦的是，貌似 Termux 在 Android 12+ [有被系统杀掉进程](https://github.com/termux/termux-app/issues/2366) ⭐ 60,889 | 🐛 607 | 🌐 Java | 📅 2026-09-15 的问题，解决这个问题又是需要折腾系统（如果愿意使用 Tasker，这个问题可以使用 [Termux:Tasker](https://f-droid.org/packages/com.termux.tasker/) 解决，LineageOS 20 用此方法在 Termux 中开机启动后自动挂代理，几乎未被系统杀死过）。总之，我认为想玩 Linux 的话，最佳办法是在真机或虚拟机里安装 Linux 系统，Termux 的使用场景真的比较有限。
 
   </details>
 
@@ -2005,7 +2005,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 #### 抓包工具
 
-* [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) ⭐ 4,729 | 🐛 44 | 🌐 Java | 📅 2026-09-14
+* [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) ⭐ 4,734 | 🐛 45 | 🌐 Java | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/com.emanuelef.remote_capture/)]
   \[[网站](https://emanuele-f.github.io/PCAPdroid/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/emanuele-f/PCAPdroid?style=flat"></sub>
 
@@ -2013,7 +2013,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 #### Git 及平台客户端
 
-* [OctoDroid](https://github.com/slapperwan/gh4a) ⭐ 1,996 | 🐛 302 | 🌐 Java | 📅 2025-12-09
+* [OctoDroid](https://github.com/slapperwan/gh4a) ⭐ 1,997 | 🐛 302 | 🌐 Java | 📅 2025-12-09
   \[[F-Droid](https://f-droid.org/packages/com.gh4a/)]
   \[[网站](https://slapperwan.github.io/gh4a/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/slapperwan/gh4a?style=flat"></sub>
 
@@ -2036,7 +2036,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   </details>
 
-* [MGit](https://github.com/maks/MGit) ⭐ 1,567 | 🐛 290 | 🌐 Java | 📅 2026-09-14
+* [MGit](https://github.com/maks/MGit) ⭐ 1,567 | 🐛 288 | 🌐 Java | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/com.manichord.mgit/)]
   \[[网站](https://manichord.com/projects/mgit.html)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/maks/MGit?style=flat"></sub>
 
@@ -2074,7 +2074,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 #### 手册
 
-* [Linux Command Library](https://github.com/SimonSchubert/LinuxCommandLibrary) ⭐ 2,014 | 🐛 24 | 🌐 Kotlin | 📅 2026-09-14
+* [Linux Command Library](https://github.com/SimonSchubert/LinuxCommandLibrary) ⭐ 2,015 | 🐛 25 | 🌐 Kotlin | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/com.inspiredandroid.linuxcommandbibliotheca/)]
   \[[网站](https://linuxcommandlibrary.com/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/SimonSchubert/LinuxCommandLibrary?style=flat"></sub>
 
@@ -2138,19 +2138,19 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 #### 社交平台
 
-* [NewPipe](https://github.com/TeamNewPipe/NewPipe) ⭐ 39,690 | 🐛 1,462 | 🌐 Java | 📅 2026-08-31
+* [NewPipe](https://github.com/TeamNewPipe/NewPipe) ⭐ 39,700 | 🐛 1,465 | 🌐 Java | 📅 2026-08-31
   \[[F-Droid](https://f-droid.org/packages/org.schabi.newpipe/)]
   \[[网站](https://newpipe.net/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/TeamNewPipe/NewPipe?style=flat"></sub>
 
   注重隐私的 YouTube 客户端，不能登陆，只能看，不过非常好用。
 
-* [PixEz](https://github.com/Notsfsssf/pixez-flutter) ⭐ 12,852 | 🐛 509 | 🌐 Dart | 📅 2026-09-12 <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Notsfsssf/pixez-flutter?style=flat"></sub>
+* [PixEz](https://github.com/Notsfsssf/pixez-flutter) ⭐ 12,856 | 🐛 510 | 🌐 Dart | 📅 2026-09-12 <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Notsfsssf/pixez-flutter?style=flat"></sub>
 
   都是 Pixiv 客户端，做的也都不错。
 
-* [Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft) ⭐ 7,835 | 🐛 10 | 🌐 Kotlin | 📅 2026-09-15 <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/CeuiLiSA/Pixiv-Shaft?style=flat"></sub>
+* [Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft) ⭐ 7,840 | 🐛 10 | 🌐 Kotlin | 📅 2026-09-16 <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/CeuiLiSA/Pixiv-Shaft?style=flat"></sub>
 
-* [PipePipe](https://github.com/InfinityLoop1308/PipePipe) ⭐ 6,088 | 🐛 157 | 🌐 Shell | 📅 2026-09-10
+* [PipePipe](https://github.com/InfinityLoop1308/PipePipe) ⭐ 6,096 | 🐛 156 | 🌐 Shell | 📅 2026-09-10
   \[[F-Droid](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced/)]
   \[[网站](https://pipepipe.dev/)]\* <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/InfinityLoop1308/PipePipe?style=flat"></sub>
 
@@ -2162,12 +2162,12 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   </details>
 
-* [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) ⭐ 5,486 | 🐛 162 | 🌐 Java | 📅 2026-09-15
+* [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) ⭐ 5,492 | 🐛 162 | 🌐 Java | 📅 2026-09-15
   \[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/ml.docilealligator.infinityforreddit.patreon)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Docile-Alligator/Infinity-For-Reddit?style=flat"></sub>
 
   Reddit 客户端，F-Droid 上有好几个 Reddit 客户端，这个是我最喜欢的。
 
-* [RedReader](https://github.com/QuantumBadger/RedReader) ⭐ 2,661 | 🐛 457 | 🌐 Java | 📅 2026-09-13
+* [RedReader](https://github.com/QuantumBadger/RedReader) ⭐ 2,660 | 🐛 452 | 🌐 Java | 📅 2026-09-15
   \[[F-Droid](https://f-droid.org/packages/org.quantumbadger.redreader/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/QuantumBadger/RedReader?style=flat"></sub>
 
   Reddit 客户端，很简洁轻量。我个人更喜欢 Infinity 和 Slide。
@@ -2211,7 +2211,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 #### 模拟器
 
-* [Lemuroid](https://github.com/Swordfish90/Lemuroid) ⭐ 4,319 | 🐛 595 | 🌐 Kotlin | 📅 2026-08-12
+* [Lemuroid](https://github.com/Swordfish90/Lemuroid) ⭐ 4,324 | 🐛 596 | 🌐 Kotlin | 📅 2026-08-12
   \[[F-Droid](https://f-droid.org/packages/com.swordfish.lemuroid/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Swordfish90/Lemuroid?style=flat"></sub>
 
   <details>
@@ -2237,12 +2237,12 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   </details>
 
-* [Antimine](https://github.com/lucasnlm/antimine-android) ⭐ 791 | 🐛 63 | 🌐 Kotlin | 📅 2025-08-02
+* [Antimine](https://github.com/lucasnlm/antimine-android) ⭐ 792 | 🐛 63 | 🌐 Kotlin | 📅 2025-08-02
   \[[F-Droid](https://f-droid.org/packages/dev.lucanlm.antimine/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/lucasnlm/antimine-android?style=flat"></sub>
 
   很棒的扫雷游戏，界面漂亮，操作直观。
 
-* [Simon Tatham's Puzzles](https://github.com/chrisboyle/sgtpuzzles) ⭐ 740 | 🐛 217 | 🌐 C | 📅 2025-10-21
+* [Simon Tatham's Puzzles](https://github.com/chrisboyle/sgtpuzzles) ⭐ 738 | 🐛 217 | 🌐 C | 📅 2025-10-21
   \[[F-Droid](https://f-droid.org/packages/name.boyle.chris.sgtpuzzles/)]
   \[[网站](https://chris.boyle.name/projects/android-puzzles/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/chrisboyle/sgtpuzzles?style=flat"></sub>
 
@@ -2349,7 +2349,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 #### 塔防
 
-* [Mindustry](https://github.com/Anuken/Mindustry) ⭐ 28,992 | 🐛 11 | 🌐 Java | 📅 2026-09-15
+* [Mindustry](https://github.com/Anuken/Mindustry) ⭐ 29,003 | 🐛 12 | 🌐 Java | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/io.anuke.mindustry/)]
   \[[网站](https://mindustrygame.github.io/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Anuken/Mindustry?style=flat"></sub>
 
@@ -2363,7 +2363,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   </details>
 
-* [Anuto TD](https://github.com/mjaun/android-anuto) ⭐ 240 | 🐛 37 | 🌐 Java | 📅 2024-09-29
+* [Anuto TD](https://github.com/mjaun/android-anuto) ⭐ 241 | 🐛 37 | 🌐 Java | 📅 2024-09-29
   \[[F-Droid](https://f-droid.org/packages/ch.logixisland.anuto/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mjaun/android-anuto?style=flat"></sub>
 
   <details>
@@ -2376,7 +2376,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 #### 探险
 
-* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,523 | 🐛 6 | 🌐 Java | 📅 2026-09-09
+* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,532 | 🐛 7 | 🌐 Java | 📅 2026-09-09
   \[[F-Droid](https://f-droid.org/packages/com.shatteredpixel.shatteredpixeldungeon/)]
   \[[网站](https://shatteredpixel.com/shatteredpd/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/00-Evan/shattered-pixel-dungeon?style=flat"></sub>
 
@@ -2388,7 +2388,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   </details>
 
-* [Andor's Trail（安道尔追踪）](https://github.com/AndorsTrailRelease/andors-trail) ⭐ 144 | 🐛 13 | 🌐 Java | 📅 2026-09-13
+* [Andor's Trail（安道尔追踪）](https://github.com/AndorsTrailRelease/andors-trail) ⭐ 145 | 🐛 12 | 🌐 Java | 📅 2026-09-15
   \[[F-Droid](https://f-droid.org/packages/com.gpl.rpg.AndorsTrail/)]
   \[[网站](https://andorstrail.com/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/AndorsTrailRelease/andors-trail?style=flat"></sub>
 
@@ -2416,7 +2416,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 #### 沙盒
 
-* [Luanti](https://github.com/luanti-org/luanti) ⭐ 13,601 | 🐛 1,513 | 🌐 C++ | 📅 2026-09-14
+* [Luanti](https://github.com/luanti-org/luanti) ⭐ 13,606 | 🐛 1,514 | 🌐 C++ | 📅 2026-09-16
   \[[F-Droid](https://f-droid.org/packages/net.minetest.minetest/)]
   \[[网站](https://www.luanti.org)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/luanti-org/luanti?style=flat"></sub>
 
@@ -2430,7 +2430,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 #### 赛车
 
-* [SuperTuxKart](https://github.com/supertuxkart/stk-code) ⭐ 5,355 | 🐛 528 | 🌐 C++ | 📅 2026-09-08
+* [SuperTuxKart](https://github.com/supertuxkart/stk-code) ⭐ 5,351 | 🐛 531 | 🌐 C++ | 📅 2026-09-15
   \[[F-Droid](https://f-droid.org/packages/org.supertuxkart.stk/)]
   \[[网站](https://supertuxkart.net/Main_Page)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/supertuxkart/stk-code?style=flat"></sub>
 
@@ -2458,7 +2458,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 #### 策略
 
-* [UnCiv](https://github.com/yairm210/UnCiv) ⭐ 11,276 | 🐛 126 | 🌐 Kotlin | 📅 2026-09-15
+* [UnCiv](https://github.com/yairm210/UnCiv) ⭐ 11,282 | 🐛 130 | 🌐 Kotlin | 📅 2026-09-15
   \[[F-Droid](https://f-droid.org/packages/com.unciv.app/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/yairm210/UnCiv?style=flat"></sub>
 
   <details>
@@ -2483,7 +2483,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 ### LineageOS 自带
 
-* [Eleven](https://github.com/LineageOS/android_packages_apps_Eleven) ⭐ 46 | 🐛 0 | 🌐 Java | 📅 2026-09-01 <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/LineageOS/android_packages_apps_Eleven?style=flat"></sub>
+* [Eleven](https://github.com/LineageOS/android_packages_apps_Eleven) ⭐ 46 | 🐛 0 | 🌐 Java | 📅 2026-09-15 <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/LineageOS/android_packages_apps_Eleven?style=flat"></sub>
 
   LineageOS 自带的音乐软件，基本功能都到位了，我就没有再用第三方音乐软件。
 
@@ -2511,13 +2511,13 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 以下一些集合也列举了很多安卓开源软件。
 
-* [Android FOSS](https://github.com/offa/android-foss) ⭐ 11,201 | 🐛 38 | 🌐 Python | 📅 2026-09-14
+* [Android FOSS](https://github.com/offa/android-foss) ⭐ 11,204 | 🐛 38 | 🌐 Python | 📅 2026-09-14
 
-* [Awesome Android Apps](https://github.com/Psyhackological/AAA) ⭐ 3,070 | 🐛 5 | 📅 2026-09-12
+* [Awesome Android Apps](https://github.com/Psyhackological/AAA) ⭐ 3,074 | 🐛 5 | 📅 2026-09-12
 
-* [Cool FOSS Android Apps](https://github.com/albertomosconi/foss-apps) ⭐ 1,181 | 🐛 26 | 🌐 Python | 📅 2024-03-06
+* [Cool FOSS Android Apps](https://github.com/albertomosconi/foss-apps) ⭐ 1,182 | 🐛 27 | 🌐 Python | 📅 2024-03-06
 
-* [推薦的好用開源 Android APP 中文列表](https://github.com/ivon852/awesome-foss-android-apps) ⭐ 441 | 🐛 1 | 📅 2026-07-29
+* [推薦的好用開源 Android APP 中文列表](https://github.com/ivon852/awesome-foss-android-apps) ⭐ 442 | 🐛 1 | 📅 2026-07-29
 
 * ~~[Awesome Android Apps](https://github.com/LinuxCafeFederation/awesome-android)~~ (已 404)
 
@@ -2525,7 +2525,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 版权声明：本文为 [Lu Xu](https://github.com/xlucn) 原创，依据 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可证进行授权，转载请附上出处链接及本声明。
 
-原文链接：<https://github.com/xlucn/oh-my-foss-android> ⭐ 5,110 | 🐛 5 | 📅 2026-09-08
+原文链接：<https://github.com/xlucn/oh-my-foss-android> ⭐ 5,113 | 🐛 5 | 📅 2026-09-08
 
 ## Star History
 
@@ -2533,4 +2533,4 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._

@@ -51,7 +51,7 @@
                     "open_issues": 120,
                     "owner": "NeoApplications",
                     "repo": "Neo-Store",
-                    "stars": 5357,
+                    "stars": 5358,
                     "topics": [
                       "android",
                       "f-droid",
@@ -105,7 +105,7 @@
                     "open_issues": 396,
                     "owner": "ImranR98",
                     "repo": "Obtainium",
-                    "stars": 20218,
+                    "stars": 20222,
                     "topics": [
                       "android",
                       "apk",
@@ -185,7 +185,7 @@
                     "open_issues": 1073,
                     "owner": "thunderbird",
                     "repo": "thunderbird-android",
-                    "stars": 14062,
+                    "stars": 14063,
                     "topics": [
                       "android",
                       "communication",
@@ -323,7 +323,7 @@
                     "open_issues": 102,
                     "owner": "HapeLee",
                     "repo": "legado-with-MD3",
-                    "stars": 6377,
+                    "stars": 6382,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
@@ -983,11 +983,11 @@
                     "id": 798049841,
                     "language": "Dart",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-06T09:25:40Z",
+                    "last_commit": "2026-10-06T12:18:23Z",
                     "open_issues": 546,
                     "owner": "Predidit",
                     "repo": "Kazumi",
-                    "stars": 31139,
+                    "stars": 31158,
                     "topics": [
                       "android",
                       "cross-platform",
@@ -1017,7 +1017,7 @@
                     "open_issues": 549,
                     "owner": "open-ani",
                     "repo": "animeko",
-                    "stars": 20535,
+                    "stars": 20541,
                     "topics": [
                       "android",
                       "ani",
@@ -1058,7 +1058,7 @@
                     "open_issues": 85,
                     "owner": "Sle2p",
                     "repo": "AniCh",
-                    "stars": 6634,
+                    "stars": 6635,
                     "topics": [
                       "acg",
                       "anime",
@@ -1337,11 +1337,11 @@
                     "id": 324829379,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-06T10:58:40Z",
-                    "open_issues": 3553,
+                    "last_commit": "2026-10-06T11:23:37Z",
+                    "open_issues": 3551,
                     "owner": "organicmaps",
                     "repo": "organicmaps",
-                    "stars": 15596,
+                    "stars": 15597,
                     "topics": [
                       "android",
                       "app",
@@ -1442,7 +1442,7 @@
                     "open_issues": 116,
                     "owner": "breezy-weather",
                     "repo": "breezy-weather",
-                    "stars": 11597,
+                    "stars": 11599,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
@@ -1680,7 +1680,7 @@
                     "open_issues": 311,
                     "owner": "kylecorry31",
                     "repo": "Trail-Sense",
-                    "stars": 2917,
+                    "stars": 2918,
                     "topics": [
                       "altimeter",
                       "android",
@@ -1722,7 +1722,7 @@
                     "open_issues": 13,
                     "owner": "Kr0oked",
                     "repo": "Compass",
-                    "stars": 686,
+                    "stars": 687,
                     "topics": [
                       "android",
                       "compass",
@@ -1866,7 +1866,7 @@
                     "open_issues": 650,
                     "owner": "laurent22",
                     "repo": "joplin",
-                    "stars": 56615,
+                    "stars": 56616,
                     "topics": [
                       "android",
                       "dropbox",
@@ -2015,10 +2015,10 @@
                     "language": "Lua",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-10-06T10:48:06Z",
-                    "open_issues": 1371,
+                    "open_issues": 1370,
                     "owner": "koreader",
                     "repo": "koreader",
-                    "stars": 30129,
+                    "stars": 30131,
                     "topics": [
                       "cbz",
                       "djvu",
@@ -2060,7 +2060,7 @@
                     "open_issues": 107,
                     "owner": "readest",
                     "repo": "readest",
-                    "stars": 24896,
+                    "stars": 24898,
                     "topics": [
                       "calibre",
                       "calibre-plugin",
@@ -2102,7 +2102,7 @@
                     "open_issues": 539,
                     "owner": "foobnix",
                     "repo": "LibreraReader",
-                    "stars": 4878,
+                    "stars": 4880,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
@@ -2277,7 +2277,7 @@
                     "language": "Kotlin",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-06T10:41:06Z",
-                    "open_issues": 321,
+                    "open_issues": 324,
                     "owner": "ankidroid",
                     "repo": "Anki-Android",
                     "stars": 11942,
@@ -2450,7 +2450,7 @@
                     "id": 13862999,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-05T23:56:54Z",
+                    "last_commit": "2026-10-06T12:25:52Z",
                     "open_issues": 51,
                     "owner": "wikimedia",
                     "repo": "apps-android-wikipedia",
@@ -2484,7 +2484,7 @@
                     "id": 79377628,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-06T10:25:40Z",
+                    "last_commit": "2026-10-06T12:17:35Z",
                     "open_issues": 115,
                     "owner": "kiwix",
                     "repo": "kiwix-android",
@@ -2619,7 +2619,7 @@
                     "open_issues": 104,
                     "owner": "fcitx5-android",
                     "repo": "fcitx5-android",
-                    "stars": 5729,
+                    "stars": 5730,
                     "topics": [
                       "android",
                       "android-ime",
@@ -2674,7 +2674,7 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-01T11:51:27Z",
-                    "open_issues": 303,
+                    "open_issues": 304,
                     "owner": "Julow",
                     "repo": "Unexpected-Keyboard",
                     "stars": 3282,
@@ -2736,7 +2736,7 @@
                     "open_issues": 615,
                     "owner": "zhanghai",
                     "repo": "MaterialFiles",
-                    "stars": 9145,
+                    "stars": 9146,
                     "topics": [
                       "android",
                       "android-application",
@@ -2951,10 +2951,10 @@
                     "language": "Dart",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-06T00:39:04Z",
-                    "open_issues": 1052,
+                    "open_issues": 1014,
                     "owner": "localsend",
                     "repo": "localsend",
-                    "stars": 93485,
+                    "stars": 93490,
                     "topics": [
                       "dart",
                       "file-sharing",
@@ -3112,7 +3112,7 @@
                     "open_issues": 732,
                     "owner": "JunkFood02",
                     "repo": "Seal",
-                    "stars": 29484,
+                    "stars": 29488,
                     "topics": [
                       "android",
                       "f-droid",
@@ -3496,7 +3496,7 @@
                     "open_issues": 200,
                     "owner": "MuntashirAkon",
                     "repo": "AppManager",
-                    "stars": 9144,
+                    "stars": 9146,
                     "topics": [
                       "adb",
                       "android",
@@ -3600,7 +3600,7 @@
                     "open_issues": 173,
                     "owner": "aistra0528",
                     "repo": "Hail",
-                    "stars": 6835,
+                    "stars": 6834,
                     "topics": [
                       "android",
                       "android-application",
@@ -3671,7 +3671,7 @@
                     "open_issues": 4,
                     "owner": "KieronQuinn",
                     "repo": "Smartspacer",
-                    "stars": 3555,
+                    "stars": 3556,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:54:50.694Z"
@@ -3755,7 +3755,7 @@
                     "language": "Kotlin",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-01T05:22:29Z",
-                    "open_issues": 6,
+                    "open_issues": 7,
                     "owner": "kamgurgul",
                     "repo": "cpu-info",
                     "stars": 1081,
@@ -4131,7 +4131,7 @@
                     "open_issues": 69,
                     "owner": "tiann",
                     "repo": "KernelSU",
-                    "stars": 18909,
+                    "stars": 18912,
                     "topics": [
                       "android",
                       "kernel",
@@ -4158,7 +4158,7 @@
                     "open_issues": 58,
                     "owner": "bmax121",
                     "repo": "APatch",
-                    "stars": 8008,
+                    "stars": 8007,
                     "topics": [
                       "android",
                       "inline-hook",
@@ -4250,7 +4250,7 @@
                     "open_issues": 181,
                     "owner": "rustdesk",
                     "repo": "rustdesk",
-                    "stars": 125230,
+                    "stars": 125238,
                     "topics": [
                       "android",
                       "anydesk",
@@ -4379,7 +4379,7 @@
                     "open_issues": 630,
                     "owner": "termux",
                     "repo": "termux-app",
-                    "stars": 62082,
+                    "stars": 62088,
                     "topics": [
                       "android",
                       "hacktoberfest",
@@ -4413,7 +4413,7 @@
                     "open_issues": 42,
                     "owner": "emanuele-f",
                     "repo": "PCAPdroid",
-                    "stars": 4864,
+                    "stars": 4865,
                     "topics": [
                       "android",
                       "capture-traffic",
@@ -4666,7 +4666,7 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-06T11:01:05Z",
-                    "open_issues": 1468,
+                    "open_issues": 1467,
                     "owner": "TeamNewPipe",
                     "repo": "NewPipe",
                     "stars": 39921,
@@ -4726,10 +4726,10 @@
                     "language": "Kotlin",
                     "license": "GPL-2.0",
                     "last_commit": "2026-10-05T03:53:33Z",
-                    "open_issues": 15,
+                    "open_issues": 17,
                     "owner": "CeuiLiSA",
                     "repo": "Pixiv-Shaft",
-                    "stars": 8022,
+                    "stars": 8023,
                     "topics": [
                       "android-app",
                       "google-play",
@@ -5298,7 +5298,7 @@
                     "open_issues": 41,
                     "owner": "Anuken",
                     "repo": "Mindustry",
-                    "stars": 29232,
+                    "stars": 29236,
                     "topics": [
                       "android",
                       "desktop",
@@ -5358,7 +5358,7 @@
                     "open_issues": 10,
                     "owner": "00-Evan",
                     "repo": "shattered-pixel-dungeon",
-                    "stars": 6620,
+                    "stars": 6621,
                     "topics": [
                       "android",
                       "game",
@@ -5509,7 +5509,7 @@
                     "open_issues": 126,
                     "owner": "yairm210",
                     "repo": "Unciv",
-                    "stars": 11398,
+                    "stars": 11399,
                     "topics": [
                       "4x",
                       "4x-strategy-game",
@@ -5769,7 +5769,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:08:32.055Z",
+    "last_updated": "2026-10-06T12:27:16.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "个人收集的实用、良心开源安卓软件",
